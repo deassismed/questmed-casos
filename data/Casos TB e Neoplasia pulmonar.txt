@@ -1,0 +1,183 @@
+Caso-base:
+Camilo, 42 anos, procura atendimento em UBS com tosse e falta de ar.
+
+Dica 1:
+Relata tosse há algumas semanas, inicialmente seca, mas que depois passou a ocorrer diariamente, com piora gradual.
+
+Dica 2:
+A falta de ar não começou de forma súbita. Ele percebe principalmente ao subir ladeiras ou caminhar mais rápido, sem dor torácica típica.
+
+Dica 3:
+Refere cansaço maior que o habitual e redução do apetite no último mês, atribuindo inicialmente ao estresse no trabalho.
+
+Dica 4:
+Ao ser perguntado sobre febre, diz que tem sentido “calafrios leves” no fim da tarde, sem medir temperatura em casa.
+
+Dica 5:
+Relata suor noturno em algumas noites, a ponto de precisar trocar a camiseta.
+
+Dica 6:
+Percebeu perda de peso não intencional nas últimas semanas; as roupas estão mais folgadas, embora não saiba quantificar exatamente.
+
+Dica 7:
+Mora com a irmã e dois sobrinhos em casa pequena, pouco ventilada. Conta que um colega de trabalho ficou afastado recentemente por “problema no pulmão” e fazia tratamento prolongado pela unidade de saúde.
+
+Dica 8:
+Ao exame, FR 24 irpm, SpO₂ 94% em ar ambiente. Ausculta pulmonar com murmúrio vesicular reduzido e estertores finos em ápice direito.
+
+Dica 9:
+Radiografia de tórax inicial mostra infiltrado heterogêneo em lobo superior direito, com pequena área sugestiva de cavitação. 
+
+Diagnóstico esperado:
+Tuberculose pulmonar.
+
+Principais pistas diagnósticas:
+
+* Tosse persistente com evolução subaguda.
+* Sintomas constitucionais: inapetência, perda de peso, febre vespertina e sudorese noturna.
+* Contexto epidemiológico de possível contato próximo com pessoa em tratamento prolongado por doença pulmonar.
+* Achado radiográfico em lobo superior com sugestão de cavitação.
+
+Discussão clínica breve:
+A evolução subaguda da tosse, associada a perda ponderal, sudorese noturna, febre vespertina e exposição epidemiológica, torna tuberculose pulmonar o diagnóstico mais provável. O acometimento de lobo superior com possível cavitação reforça a hipótese. Na Atenção Primária, os principais diferenciais incluem pneumonia bacteriana de evolução arrastada, DPOC exacerbada, neoplasia pulmonar, bronquiectasias e infecções fúngicas, dependendo do contexto clínico e epidemiológico.
+
+
+
+Caso-base:
+Camilo, 42 anos, procura atendimento em UBS com tosse e falta de ar.
+
+Dica 1:
+Camilo relata tosse há cerca de dois meses, inicialmente seca, mas que se tornou produtiva ao longo das semanas. Refere cansaço progressivo e redução da capacidade para atividades habituais.
+
+Dica 2:
+Nos últimos 30 dias, percebeu perda de peso não intencional e diminuição importante do apetite.
+
+Dica 3:
+Relata episódios de febre baixa no final da tarde e sudorese noturna frequente.
+
+Dica 4:
+Mora em residência pequena e pouco ventilada, compartilhada com outros familiares. Um conhecido próximo realizou tratamento prolongado para doença pulmonar infecciosa recentemente.
+
+Dica 5:
+Na consulta atual, refere piora importante da dispneia nas últimas 48 horas e sensação de fraqueza intensa.
+
+Dica 6:
+Durante o atendimento, relata que pela manhã apresentou episódio de tosse seguido da eliminação de sangue vivo em quantidade suficiente para encharcar vários lenços de papel.
+
+Dica 7:
+Os sinais vitais mostram FC 118 bpm, FR 30 irpm, PA 98/62 mmHg e SpO₂ 88% em ar ambiente.
+
+Dica 8:
+Ao exame pulmonar, observam-se estertores em hemitórax direito, redução do murmúrio vesicular em ápice direito e uso de musculatura acessória.
+
+Dica 9:
+A radiografia de tórax revela extensa lesão cavitária em lobo superior direito com infiltrados adjacentes. Durante a observação na unidade, ocorre novo episódio de expectoração com volume significativo de sangue, associado à piora da dessaturação.
+
+Diagnóstico esperado:
+Tuberculose pulmonar complicada por hemoptise maciça.
+
+Principais pistas diagnósticas:
+
+* Quadro constitucional subagudo compatível com doença infecciosa crônica.
+* Exposição epidemiológica relevante.
+* Lesão cavitária em lobo superior.
+* Episódios recorrentes de hemoptise com repercussão respiratória e hemodinâmica.
+
+Discussão clínica breve:
+A hemoptise maciça é uma complicação potencialmente fatal da tuberculose pulmonar cavitária, geralmente decorrente de erosão vascular em áreas de destruição parenquimatosa. A presença de hipoxemia, taquipneia e sangramento significativo indica necessidade de internação imediata, estabilização das vias aéreas e avaliação para medidas intervencionistas, como broncoscopia terapêutica ou embolização arterial. Entre os principais diagnósticos diferenciais estão neoplasia pulmonar, bronquiectasias, abscesso pulmonar e micoses pulmonares cavitárias.
+
+
+
+Caso-base:
+Manoel, 52 anos, procura atendimento em UBS com tosse e falta de ar.
+
+Dica 1:
+Manoel relata tosse há cerca de dois meses, inicialmente seca, mas que passou a ocorrer diariamente. Refere falta de ar aos esforços moderados, como subir escadas ou caminhar longas distâncias.
+
+Dica 2:
+Nos últimos meses, percebeu redução do apetite, cansaço progressivo e perda de aproximadamente 6 kg sem intenção.
+
+Dica 3:
+Refere episódios ocasionais de sudorese noturna e sensação de febre baixa em alguns dias, embora raramente tenha aferido a temperatura.
+
+Dica 4:
+Tem histórico de tabagismo desde os 18 anos, totalizando cerca de 30 maços-ano. Reduziu o consumo recentemente, mas ainda fuma esporadicamente.
+
+Dica 5:
+Mora em casa pouco ventilada e conta que um colega de trabalho realizou tratamento para uma doença pulmonar infecciosa há alguns anos.
+
+Dica 6:
+Nas últimas semanas, notou piora da dispneia e passou a apresentar pequenos episódios de escarro com estrias de sangue.
+
+Dica 7:
+Ao exame físico, apresenta-se emagrecido, com FR 22 irpm e SpO₂ 94% em ar ambiente. A ausculta pulmonar revela redução do murmúrio vesicular no ápice direito.
+
+Dica 8:
+A radiografia de tórax mostra opacidade no lobo superior direito. A pesquisa de bacilos álcool-ácido resistentes em amostras de escarro é negativa em mais de uma coleta.
+
+Dica 9:
+A tomografia de tórax evidencia massa espiculada em lobo superior direito associada a linfonodomegalias hilares. A broncoscopia com biópsia identifica proliferação de células malignas compatível com carcinoma pulmonar.
+
+Diagnóstico esperado:
+Neoplasia pulmonar (câncer de pulmão).
+
+Principais pistas diagnósticas:
+
+* Tosse crônica associada a perda ponderal e hemoptise.
+* História significativa de tabagismo.
+* Alteração focal persistente em lobo superior.
+* Investigação microbiológica negativa para infecção e confirmação histopatológica de malignidade.
+
+Discussão clínica breve:
+Este caso foi construído para induzir inicialmente a hipótese de tuberculose pulmonar, dado o quadro constitucional (perda de peso, sudorese noturna), a tosse prolongada e o acometimento apical. Entretanto, a carga tabágica elevada, a persistência dos sintomas e os exames microbiológicos negativos exigem ampliação do raciocínio diagnóstico. A tomografia mostrando lesão espiculada e linfonodomegalias, seguida da confirmação histológica, estabelece o diagnóstico de neoplasia pulmonar.
+
+Os principais diagnósticos diferenciais incluem tuberculose pulmonar, pneumonias de evolução arrastada, micoses pulmonares e bronquiectasias. Na Atenção Primária, lesões pulmonares persistentes com investigação infecciosa negativa devem motivar rápida referência para elucidação diagnóstica.
+
+
+
+Caso-base:
+Manoel, 52 anos, procura atendimento em UBS com tosse e falta de ar.
+
+Dica 1:
+Manoel relata tosse há cerca de três meses, inicialmente seca, tornando-se produtiva ao longo do tempo. A falta de ar, antes aos grandes esforços, passou a ocorrer em atividades habituais.
+
+Dica 2:
+Nos últimos dois meses, refere perda de aproximadamente 7 kg, diminuição do apetite e cansaço progressivo.
+
+Dica 3:
+Em alguns dias apresenta sudorese noturna e sensação de febre baixa, mas nunca procurou atendimento por acreditar se tratar de uma “gripe mal curada”.
+
+Dica 4:
+Possui história de tabagismo de longa data, com cerca de 30 maços-ano. Trabalhou por muitos anos na construção civil.
+
+Dica 5:
+Relata ter um colega de trabalho que tratou uma doença pulmonar infecciosa, o que o fazia acreditar que pudesse estar com o mesmo problema.
+
+Dica 6:
+Nas últimas semanas passou a apresentar episódios esporádicos de escarro com estrias de sangue e dor torácica vaga à direita, pior à inspiração profunda.
+
+Dica 7:
+Ao exame na UBS, encontra-se emagrecido, FR 24 irpm, FC 108 bpm e SpO₂ 92% em ar ambiente. A ausculta pulmonar revela redução do murmúrio vesicular no hemitórax direito.
+
+Dica 8:
+A radiografia de tórax mostra opacidade em lobo superior direito e pequeno derrame pleural ipsilateral. Durante a investigação ambulatorial, a baciloscopia do escarro é negativa.
+
+Dica 9:
+Retorna à unidade por piora súbita da dispneia e dor torácica ventilatório-dependente. Apresenta taquicardia, hipotensão leve e hipoxemia importante. A tomografia evidencia volumoso derrame pleural à direita, com colapso parcial do pulmão e lesão pulmonar suspeita subjacente.
+
+Diagnóstico esperado:
+Neoplasia pulmonar complicada por derrame pleural maligno com insuficiência respiratória aguda.
+
+Principais pistas diagnósticas:
+
+* Tosse crônica associada a perda ponderal e hemoptise.
+* História significativa de tabagismo.
+* Lesão persistente em lobo superior com investigação para tuberculose negativa.
+* Derrame pleural volumoso causando comprometimento respiratório agudo.
+
+Discussão clínica breve:
+O caso foi construído para inicialmente sugerir tuberculose pulmonar, especialmente pela tosse crônica, sintomas constitucionais e acometimento de lobo superior. Entretanto, a carga tabágica importante, a baciloscopia negativa e a persistência da lesão direcionam a investigação para neoplasia pulmonar.
+
+O derrame pleural maligno é uma complicação relativamente frequente do câncer de pulmão avançado e pode se manifestar com piora abrupta da dispneia, hipoxemia e dor pleurítica, frequentemente exigindo internação para estabilização clínica, oxigenoterapia e drenagem pleural diagnóstica e terapêutica.
+
+Os principais diagnósticos diferenciais incluem derrame pleural parapneumônico complicado, tuberculose pleural, embolia pulmonar e insuficiência cardíaca.

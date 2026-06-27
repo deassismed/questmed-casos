@@ -1,0 +1,12 @@
+
+> flashmed-disuria@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3002
+
+▲ Next.js 16.2.7 (Turbopack)
+- Local:         http://127.0.0.1:3002
+- Network:       http://127.0.0.1:3002
+- Environments: .env.local
+✓ Ready in 8.3s
+
+ GET / 200 in 1674ms (next.js: 1025ms, application-code: 649ms)
+[?25h

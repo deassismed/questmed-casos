@@ -1,0 +1,925 @@
+[
+  {
+    "id": "sepse",
+    "word": "sepse",
+    "definition": "Disfunção orgânica potencialmente fatal causada por resposta desregulada a infecção.",
+    "category": "Infectologia",
+    "hints": [
+      "Começa simples, mas pode piorar rápido",
+      "O corpo reage de forma descontrolada",
+      "Geralmente tem origem infecciosa",
+      "Pode comprometer vários órgãos",
+      "Situação grave que exige urgência."
+    ]
+  },
+  {
+    "id": "edema",
+    "word": "edema",
+    "definition": "Acúmulo anormal de líquido no espaço intersticial.",
+    "category": "Semiologia",
+    "hints": [
+      "Pode aparecer no fim do dia",
+      "Costuma deixar a região aumentada",
+      "Pode formar cacifo a digitopressao",
+      "Tem relação com líquido fora dos vasos",
+      "Nome médico para inchaço."
+    ]
+  },
+  {
+    "id": "febre",
+    "word": "febre",
+    "definition": "Elevação regulada da temperatura corporal, geralmente por resposta inflamatória.",
+    "category": "Semiologia",
+    "hints": [
+      "É um sinal muito comum em consultas",
+      "Pode vir com calafrios e mal-estar",
+      "Costuma sugerir inflamação ou infecção",
+      "Envolve aumento da temperatura corporal",
+      "Quando passa de valores normais, chamamos de febre."
+    ]
+  },
+  {
+    "id": "ictus",
+    "word": "ictus",
+    "definition": "Ponto de impulso máximo cardíaco palpável na parede torácica.",
+    "category": "Cardiologia",
+    "hints": [
+      "É procurado no exame físico",
+      "Fica no tórax",
+      "Ajuda a avaliar tamanho e posição do coração",
+      "Pode estar desviado em cardiomegalias",
+      "Nome do impulso apical palpável."
+    ]
+  },
+  {
+    "id": "sopro",
+    "word": "sopro",
+    "definition": "Ruído auscultatório produzido por fluxo turbulento, comum na avaliação cardíaca.",
+    "category": "Cardiologia",
+    "hints": [
+      "Você não vê, você escuta",
+      "Pode ser inocente ou patológico",
+      "É descrito por foco, intensidade e irradiação",
+      "Aparece na ausculta com fluxo turbulento",
+      "Ruído cardíaco chamado sopro."
+    ]
+  },
+  {
+    "id": "pulso",
+    "word": "pulso",
+    "definition": "Onda palpável gerada pela ejeção cardíaca nas artérias.",
+    "category": "Semiologia",
+    "hints": [
+      "Pode ser contado em um minuto",
+      "Fica mais rápido no esforço ou na ansiedade",
+      "É avaliado em artérias perifericas",
+      "Tem ritmo, amplitude e frequência",
+      "Batimento arterial palpável."
+    ]
+  },
+  {
+    "id": "renal",
+    "word": "renal",
+    "definition": "Relativo aos rins.",
+    "category": "Nefrologia",
+    "hints": [
+      "Tem relação com filtração",
+      "Pode aparecer em insuficiência ou cólica",
+      "Envolve creatinina, ureia e diurese",
+      "Refere-se aos rins",
+      "Adjetivo médico para aquilo que é dos rins."
+    ]
+  },
+  {
+    "id": "colon",
+    "word": "cólon",
+    "definition": "Segmento do intestino grosso entre o ceco e o reto.",
+    "category": "Gastroenterologia",
+    "hints": [
+      "Faz parte do intestino grosso",
+      "Pode ser ascendente, transverso, descendente ou sigmoide",
+      "É avaliado em colonoscopia",
+      "Participa da absorção de água e formação das fezes",
+      "Segmento intestinal chamado cólon."
+    ]
+  },
+  {
+    "id": "iride",
+    "word": "íride",
+    "definition": "Estrutura pigmentada do olho que regula a entrada de luz pela pupila.",
+    "category": "Oftalmologia",
+    "hints": [
+      "Tem cor variável entre as pessoas",
+      "Fica no olho",
+      "Relaciona-se com a pupila",
+      "Controla a quantidade de luz que entra",
+      "Parte colorida do olho."
+    ]
+  },
+  {
+    "id": "derme",
+    "word": "derme",
+    "definition": "Camada da pele situada abaixo da epiderme.",
+    "category": "Dermatologia",
+    "hints": [
+      "Faz parte da pele",
+      "Não é a camada mais superficial",
+      "Contém vasos, nervos e anexos cutâneos",
+      "Fica abaixo da epiderme",
+      "Camada cutânea chamada derme."
+    ]
+  },
+  {
+    "id": "tumor",
+    "word": "tumor",
+    "definition": "Aumento de volume tecidual, podendo ser benigno, maligno ou inflamatório.",
+    "category": "Oncologia",
+    "hints": [
+      "Nem sempre significa câncer",
+      "Pode ser benigno ou maligno",
+      "Pode ser palpável ou visto em imagem",
+      "Representa aumento de volume ou massa",
+      "Termo médico para massa ou neoplasia."
+    ]
+  },
+  {
+    "id": "vírus",
+    "word": "vírus",
+    "definition": "Agente infeccioso acelular que depende de células hospedeiras para replicar.",
+    "category": "Infectologia",
+    "hints": [
+      "Não é bactéria",
+      "Pode causar surtos e epidemias",
+      "Depende de células para se multiplicar",
+      "Pode ser prevenido por algumas vacinas",
+      "Agente infeccioso acelular."
+    ]
+  },
+  {
+    "id": "parto",
+    "word": "parto",
+    "definition": "Processo de nascimento com expulsão fetal e placentária.",
+    "category": "Obstetricia",
+    "hints": [
+      "Pode ser vaginal ou cesáreo",
+      "Envolve contracoes uterinas",
+      "É dividido em períodos",
+      "Termina com nascimento e dequitação",
+      "Processo de nascimento."
+    ]
+  },
+  {
+    "id": "mamas",
+    "word": "mamas",
+    "definition": "Glândulas mamárias avaliadas em exame físico, lactação e rastreamento.",
+    "category": "Ginecologia",
+    "hints": [
+      "Sao avaliadas no exame físico",
+      "Podem apresentar nódulos ou secreção",
+      "Tem relação com lactação",
+      "Sao rastreadas por mamografia",
+      "Glândulas mamárias."
+    ]
+  },
+  {
+    "id": "nervo",
+    "word": "nervo",
+    "definition": "Estrutura formada por fibras nervosas que conduzem impulsos.",
+    "category": "Neurologia",
+    "hints": [
+      "Conduz informação pelo corpo",
+      "Pode ser sensitivo, motor ou misto",
+      "Sua lesão pode causar dor, fraqueza ou dormência",
+      "É formado por fibras neuronais",
+      "Estrutura neurológica chamada nervo."
+    ]
+  },
+  {
+    "id": "pares",
+    "word": "pares",
+    "definition": "Conjuntos simétricos de estruturas, como os pares cranianos.",
+    "category": "Neurologia",
+    "hints": [
+      "Aparece muito em anatomia",
+      "Indica estruturas em dupla",
+      "Na neurologia, costuma vir junto de cranianos",
+      "Existem doze quando falamos dos cranianos",
+      "Plural usado em pares cranianos."
+    ]
+  },
+  {
+    "id": "polio",
+    "word": "pólio",
+    "definition": "Doença viral prevenível por vacina, associada a paralisia flácida.",
+    "category": "Infectologia",
+    "hints": [
+      "É uma doença prevenível por vacina",
+      "Historicamente causou paralisia infantil",
+      "Pode acometer neuronios motores",
+      "Tem relação com paralisia flácida aguda",
+      "Forma curta de poliomielite."
+    ]
+  },
+  {
+    "id": "tosse",
+    "word": "tosse",
+    "definition": "Reflexo expulsivo das vias aéreas, sintoma respiratório comum.",
+    "category": "Pneumologia",
+    "hints": [
+      "Pode ser seca ou produtiva",
+      "É um sintoma respiratório comum",
+      "Pode vir com secreção, febre ou falta de ar",
+      "É um reflexo de defesa das vias aéreas",
+      "Ato de expulsar ar para limpar as vias respiratórias."
+    ]
+  },
+  {
+    "id": "lesao",
+    "word": "lesão",
+    "definition": "Alteração estrutural ou funcional em tecido, órgão ou sistema.",
+    "category": "Clinica",
+    "hints": [
+      "Pode ser pequena ou extensa",
+      "Pode ocorrer na pele, músculo, nervo ou órgão",
+      "Pode ser descrita por tamanho, forma e local",
+      "Indica dano ou alteração de tecido",
+      "Termo geral para dano anatômico ou funcional."
+    ]
+  },
+  {
+    "id": "veias",
+    "word": "veias",
+    "definition": "Vasos que conduzem sangue em direção ao coração.",
+    "category": "Vascular",
+    "hints": [
+      "São vasos sanguíneos",
+      "Podem ficar dilatadas em varizes",
+      "Podem ser usadas para acesso venoso",
+      "Levam sangue em direção ao coração",
+      "Vasos opostos as artérias no retorno circulatorio."
+    ]
+  },
+  {
+    "id": "axila",
+    "word": "axila",
+    "definition": "Região anatômica inferior à articulação do ombro.",
+    "category": "Anatomia",
+    "hints": [
+      "É uma região anatômica superficial",
+      "Tem pelos e glândulas sudoríparas",
+      "Pode ter linfonodos palpaveis",
+      "Fica abaixo do ombro",
+      "Região popularmente chamada sovaco."
+    ]
+  },
+  {
+    "id": "fossa",
+    "word": "fossa",
+    "definition": "Depressão anatômica, como fossa ilíaca ou fossa nasal.",
+    "category": "Anatomia",
+    "hints": [
+      "É um termo de anatomia",
+      "Indica uma depressão ou cavidade",
+      "Pode ser nasal, ilíaca ou poplitea",
+      "Ajuda a localizar estruturas no exame",
+      "Nome anatômico para uma depressão."
+    ]
+  },
+  {
+    "id": "rigor",
+    "word": "rigor",
+    "definition": "Aumento de rigidez ou calafrio intenso, dependendo do contexto clínico.",
+    "category": "Semiologia",
+    "hints": [
+      "Pode aparecer em descrição de exame físico",
+      "Também pode lembrar calafrios intensos",
+      "Tem relação com endurecimento ou rigidez",
+      "Em ingles médico, pode significar calafrio importante",
+      "Termo associado a rigidez."
+    ]
+  },
+  {
+    "id": "surto",
+    "word": "surto",
+    "definition": "Aumento localizado de casos de uma doença ou episódio agudo de sintomas.",
+    "category": "Epidemiologia",
+    "hints": [
+      "Pode acontecer em uma escola, bairro ou hospital",
+      "Envolve mais casos que o esperado",
+      "É investigado pela vigilancia epidemiologica",
+      "Pode ter origem infecciosa ou alimentar",
+      "Aumento localizado de casos."
+    ]
+  },
+  {
+    "id": "mania",
+    "word": "mania",
+    "definition": "Estado de humor anormalmente elevado ou irritável, com aumento de energia.",
+    "category": "Psiquiatria",
+    "hints": [
+      "Envolve mudanca importante do humor",
+      "Pode reduzir a necessidade de sono",
+      "Pode cursar com impulsividade e grandiosidade",
+      "É um polo do transtorno bipolar",
+      "Episodio de humor elevado chamado mania."
+    ]
+  },
+  {
+    "id": "apgar",
+    "word": "apgar",
+    "definition": "Escala usada para avaliar vitalidade neonatal no primeiro e quinto minuto.",
+    "category": "Pediatria",
+    "hints": [
+      "É usado logo após o nascimento",
+      "Avalia cinco criterios do recem-nascido",
+      "Costuma ser medido no primeiro e quinto minuto",
+      "Inclui cor, pulso, careta, atividade e respiração",
+      "Escore neonatal chamado Apgar."
+    ]
+  },
+  {
+    "id": "sinal",
+    "word": "sinal",
+    "definition": "Achado objetivo observado no exame ou por método complementar.",
+    "category": "Semiologia",
+    "hints": [
+      "Diferente de sintoma",
+      "Pode ser observado pelo examinador",
+      "Pode aparecer no exame físico",
+      "É um achado objetivo",
+      "Termo semiologico oposto a queixa subjetiva."
+    ]
+  },
+  {
+    "id": "anexo",
+    "word": "anexo",
+    "definition": "Estrutura associada a outro órgão ou tecido, como anexos uterinos ou cutâneos.",
+    "category": "Anatomia",
+    "hints": [
+      "Costuma acompanhar outra estrutura",
+      "Pode aparecer em laudos de imagem",
+      "Pode ter relação com pele ou ginecologia",
+      "Nem sempre é o órgão principal avaliado",
+      "Indica algo ligado a uma estrutura maior."
+    ]
+  },
+  {
+    "id": "apice",
+    "word": "ápice",
+    "definition": "Extremidade ou ponto mais alto de uma estrutura anatômica.",
+    "category": "Anatomia",
+    "hints": [
+      "Pode aparecer em anatomia",
+      "Indica uma extremidade",
+      "Pode ser usado para pulmão, coração ou dente",
+      "Costuma apontar para a ponta de uma estrutura",
+      "Termo anatômico para ponto terminal ou superior."
+    ]
+  },
+  {
+    "id": "apnea",
+    "word": "apnea",
+    "definition": "Pausa temporária da respiração.",
+    "category": "Pneumologia",
+    "hints": [
+      "Pode ocorrer durante o sono",
+      "Tem relação com respiração interrompida",
+      "Pode vir com roncos ou sonolencia",
+      "Pode ser observada por outra pessoa",
+      "Indica uma pausa respiratoria."
+    ]
+  },
+  {
+    "id": "bolha",
+    "word": "bolha",
+    "definition": "Lesão elevada da pele contendo líquido.",
+    "category": "Dermatologia",
+    "hints": [
+      "Pode surgir após atrito ou queimadura",
+      "Fica elevada na pele",
+      "Costuma conter líquido",
+      "Pode romper e deixar área sensível",
+      "Lesão cutânea preenchida por fluido."
+    ]
+  },
+  {
+    "id": "carie",
+    "word": "cárie",
+    "definition": "Processo de desmineralização e destruição progressiva do tecido dentário.",
+    "category": "Odontologia",
+    "hints": [
+      "Pode causar dor ao mastigar",
+      "Tem relação com dentes",
+      "Pode piorar com açúcar e higiene inadequada",
+      "Pode formar cavidades",
+      "É comum em avaliação odontológica."
+    ]
+  },
+  {
+    "id": "cisto",
+    "word": "cisto",
+    "definition": "Cavidade patologica ou anatômica revestida, geralmente contendo líquido.",
+    "category": "Clinica",
+    "hints": [
+      "Pode aparecer em exames de imagem",
+      "Pode conter líquido",
+      "Nem sempre indica malignidade",
+      "Pode ocorrer em vários órgãos",
+      "É uma formação arredondada ou encapsulada."
+    ]
+  },
+  {
+    "id": "facie",
+    "word": "fácie",
+    "definition": "Aspecto geral da face que pode sugerir determinadas condicoes clínicas.",
+    "category": "Semiologia",
+    "hints": [
+      "É observado antes mesmo do exame completo",
+      "Tem relação com expressão facial",
+      "Pode sugerir sindromes ou gravidade",
+      "Faz parte da impressao clínica inicial",
+      "Aspecto caracteristico do rosto."
+    ]
+  },
+  {
+    "id": "glote",
+    "word": "glote",
+    "definition": "Região da laringe relacionada às pregas vocais e a passagem de ar.",
+    "category": "Otorrinolaringologia",
+    "hints": [
+      "Fica nas vias aéreas superiores",
+      "Tem relação com a voz",
+      "Pode ser importante na intubacao",
+      "Envolve abertura entre pregas vocais",
+      "Estrutura avaliada na laringe."
+    ]
+  },
+  {
+    "id": "linfa",
+    "word": "linfa",
+    "definition": "Líquido do sistema linfático relacionado ao retorno de fluidos e resposta imune.",
+    "category": "Imunologia",
+    "hints": [
+      "Circula fora dos vasos sanguíneos principais",
+      "Tem relação com linfonodos",
+      "Participa da defesa do organismo",
+      "Pode acumular em alguns edemas",
+      "Líquido transportado pelo sistema linfático."
+    ]
+  },
+  {
+    "id": "lupus",
+    "word": "lúpus",
+    "definition": "Doença autoimune sistêmica que pode acometer pele, articulações, rins e outros órgãos.",
+    "category": "Reumatologia",
+    "hints": [
+      "Pode afetar pele e articulações",
+      "Tem relação com autoimunidade",
+      "Pode piorar com exposição solar",
+      "Pode alterar exames de anticorpos",
+      "Doença sistêmica com surtos e remissões."
+    ]
+  },
+  {
+    "id": "mioma",
+    "word": "mioma",
+    "definition": "Tumor benigno do músculo liso uterino.",
+    "category": "Ginecologia",
+    "hints": [
+      "Pode aumentar sangramento menstrual",
+      "Tem relação com o útero",
+      "Pode ser visto em ultrassom",
+      "Nem sempre causa sintomas",
+      "Tumor benigno frequente em ginecologia."
+    ]
+  },
+  {
+    "id": "ptose",
+    "word": "ptose",
+    "definition": "Queda ou deslocamento inferior de uma estrutura, como pálpebra ou órgão.",
+    "category": "Semiologia",
+    "hints": [
+      "Pode ser observada na face",
+      "Tem relação com queda de estrutura",
+      "Pode afetar a pálpebra",
+      "Pode sugerir alteração neurológica ou muscular",
+      "Indica descenso anormal."
+    ]
+  },
+  {
+    "id": "raiva",
+    "word": "raiva",
+    "definition": "Doença viral grave transmitida principalmente por mordedura de mamíferos infectados.",
+    "category": "Infectologia",
+    "hints": [
+      "Pode ser transmitida por mordida",
+      "Tem relação com mamíferos",
+      "É prevenível após exposição",
+      "Pode acometer o sistema nervoso",
+      "Zoonose viral de alta gravidade."
+    ]
+  },
+  {
+    "id": "rubor",
+    "word": "rubor",
+    "definition": "Vermelhidão local associada a aumento de fluxo sanguíneo, comum na inflamação.",
+    "category": "Semiologia",
+    "hints": [
+      "Pode aparecer em pele inflamada",
+      "Tem relação com aumento de vascularização",
+      "Costuma acompanhar calor local",
+      "É um dos sinais clássicos de inflamação",
+      "Indica vermelhidão observável."
+    ]
+  },
+  {
+    "id": "ureia",
+    "word": "ureia",
+    "definition": "Produto do metabolismo proteico eliminado principalmente pelos rins.",
+    "category": "Nefrologia",
+    "hints": [
+      "Aparece em exames laboratoriais",
+      "Tem relação com função renal",
+      "Pode aumentar em desidratacao ou insuficiência renal",
+      "Deriva do metabolismo de proteínas",
+      "Substancia eliminada pela urina."
+    ]
+  },
+  {
+    "id": "variz",
+    "word": "variz",
+    "definition": "Veia dilatada e tortuosa, geralmente observada em membros inferiores.",
+    "category": "Vascular",
+    "hints": [
+      "Pode aparecer nas pernas",
+      "Tem relação com circulação venosa",
+      "Pode causar peso ou dor local",
+      "Fica mais visivel sob a pele",
+      "Veia dilatada e tortuosa."
+    ]
+  },
+  {
+    "id": "acaro",
+    "word": "ácaro",
+    "definition": "Pequeno artrópode associado a alergias respiratórias e dermatológicas.",
+    "category": "Alergologia",
+    "hints": [
+      "Pode estar presente na poeira doméstica",
+      "Tem relação com rinite e asma alérgica",
+      "Pode piorar sintomas respiratórios",
+      "É um pequeno artrópode",
+      "Organismo comum em alergias domiciliares."
+    ]
+  },
+  {
+    "id": "afeto",
+    "word": "afeto",
+    "definition": "Expressão emocional observada no exame do estado mental.",
+    "category": "Psiquiatria",
+    "hints": [
+      "É observado durante a entrevista",
+      "Pode estar embotado ou expansivo",
+      "Tem relação com expressão emocional",
+      "É avaliado no exame psíquico",
+      "Forma como a emocao aparece externamente."
+    ]
+  },
+  {
+    "id": "bulbo",
+    "word": "bulbo",
+    "definition": "Estrutura arredondada; no sistema nervoso, parte do tronco encefálico.",
+    "category": "Neurologia",
+    "hints": [
+      "Pode aparecer em neuroanatomia",
+      "Fica próximo a ponte e medula",
+      "Contém centros vitais importantes",
+      "Também pode nomear estruturas arredondadas",
+      "Parte inferior do tronco encefálico."
+    ]
+  },
+  {
+    "id": "calor",
+    "word": "calor",
+    "definition": "Aumento local de temperatura, um dos sinais clássicos de inflamação.",
+    "category": "Semiologia",
+    "hints": [
+      "Pode ser percebido ao toque",
+      "Costuma acompanhar rubor e dor",
+      "Tem relação com aumento de fluxo sanguíneo local",
+      "É um sinal inflamatório clássico",
+      "Indica aquecimento de uma área do corpo."
+    ]
+  },
+  {
+    "id": "cecal",
+    "word": "cecal",
+    "definition": "Relativo ao ceco, porção inicial do intestino grosso.",
+    "category": "Gastroenterologia",
+    "hints": [
+      "Tem relação com intestino grosso",
+      "Pode aparecer em laudos de colonoscopia",
+      "Fica próximo ao íleo terminal",
+      "É adjetivo de uma estrutura abdominal",
+      "Relativo ao ceco."
+    ]
+  },
+  {
+    "id": "crico",
+    "word": "crico",
+    "definition": "Relativo a cartilagem cricoide, estrutura da laringe.",
+    "category": "Otorrinolaringologia",
+    "hints": [
+      "Fica no pescoco",
+      "Tem relação com via aérea",
+      "Aparece em cricotireoidostomia",
+      "É associado a uma cartilagem da laringe",
+      "Raiz ligada a cartilagem cricoide."
+    ]
+  },
+  {
+    "id": "ducto",
+    "word": "ducto",
+    "definition": "Canal anatômico que conduz secreções ou fluidos.",
+    "category": "Anatomia",
+    "hints": [
+      "Serve como passagem",
+      "Pode transportar bile, leite ou secreções",
+      "Aparece em anatomia de glândulas",
+      "Pode obstruir e causar sintomas",
+      "Canal corporal chamado ducto."
+    ]
+  },
+  {
+    "id": "femur",
+    "word": "fêmur",
+    "definition": "Osso longo da coxa, o maior osso do corpo humano.",
+    "category": "Ortopedia",
+    "hints": [
+      "Fica no membro inferior",
+      "Pode fraturar em quedas importantes",
+      "Articula com quadril e joelho",
+      "É o maior osso do corpo humano",
+      "Osso da coxa."
+    ]
+  },
+  {
+    "id": "flora",
+    "word": "flora",
+    "definition": "Conjunto de microrganismos que habitam uma região do corpo.",
+    "category": "Microbiologia",
+    "hints": [
+      "Pode ser intestinal, vaginal ou cutânea",
+      "Tem relação com microbiota",
+      "Pode ser alterada por antibioticos",
+      "Ajuda no equilibrio local",
+      "Conjunto de microrganismos residentes."
+    ]
+  },
+  {
+    "id": "fundo",
+    "word": "fundo",
+    "definition": "Porção mais distante ou superior de uma cavidade ou órgão, como fundo uterino.",
+    "category": "Anatomia",
+    "hints": [
+      "Pode aparecer em exame obstetrico",
+      "Pode nomear parte de órgãos ocos",
+      "Existe em útero, estômago e olho",
+      "Nem sempre significa parte inferior",
+      "Região anatômica chamada fundo."
+    ]
+  },
+  {
+    "id": "lapso",
+    "word": "lapso",
+    "definition": "Falha, queda ou intervalo; em clínica pode aparecer como lapso de memória.",
+    "category": "Clinica",
+    "hints": [
+      "Pode ter relação com memória",
+      "Indica uma falha ou interrupcao",
+      "Pode ser relatado pelo paciente",
+      "Nem sempre é um diagnóstico específico",
+      "Termo usado para falha breve."
+    ]
+  },
+  {
+    "id": "lente",
+    "word": "lente",
+    "definition": "Estrutura ou dispositivo óptico usado para focalizar luz, como cristalino ou lente corretiva.",
+    "category": "Oftalmologia",
+    "hints": [
+      "Tem relação com visão",
+      "Pode ser natural ou artificial",
+      "Ajuda a focalizar a luz",
+      "Pode corrigir erros refrativos",
+      "Dispositivo ou estrutura optica."
+    ]
+  },
+  {
+    "id": "litio",
+    "word": "lítio",
+    "definition": "Medicamento estabilizador do humor usado especialmente no transtorno bipolar.",
+    "category": "Psiquiatria",
+    "hints": [
+      "Exige monitorizacao laboratorial",
+      "Pode afetar rim e tireoide",
+      "É usado como estabilizador do humor",
+      "Tem janela terapêutica estreita",
+      "Medicamento clássico no transtorno bipolar."
+    ]
+  },
+  {
+    "id": "meato",
+    "word": "meato",
+    "definition": "Abertura ou canal anatômico, como o meato urinário ou acústico.",
+    "category": "Anatomia",
+    "hints": [
+      "É uma abertura anatômica",
+      "Pode estar no ouvido ou trato urinário",
+      "Serve como passagem",
+      "Aparece em exame físico",
+      "Canal ou orifício chamado meato."
+    ]
+  },
+  {
+    "id": "nariz",
+    "word": "nariz",
+    "definition": "Estrutura facial relacionada à respiração, olfato e filtragem do ar.",
+    "category": "Otorrinolaringologia",
+    "hints": [
+      "Fica na face",
+      "Participa do olfato",
+      "Pode apresentar obstrução ou secreção",
+      "Filtra e aquece o ar inspirado",
+      "Estrutura central da respiração nasal."
+    ]
+  },
+  {
+    "id": "necro",
+    "word": "necro",
+    "definition": "Raiz relacionada a morte celular ou tecidual.",
+    "category": "Patologia",
+    "hints": [
+      "Tem relação com tecido inviável",
+      "Pode ocorrer em infeccoes graves ou isquemia",
+      "Aparece em termos como necrose",
+      "Indica morte de células",
+      "Raiz associada a morte tecidual."
+    ]
+  },
+  {
+    "id": "ostio",
+    "word": "óstio",
+    "definition": "Orifício ou abertura anatômica de comunicação.",
+    "category": "Anatomia",
+    "hints": [
+      "Indica uma abertura",
+      "Pode aparecer no coração ou cavidades",
+      "Permite comunicação entre espaços",
+      "É termo anatômico de orifício",
+      "Abertura chamada ...."
+    ]
+  },
+  {
+    "id": "nevus",
+    "word": "nevus",
+    "definition": "Lesão cutânea pigmentada benigna, popularmente conhecida como pinta.",
+    "category": "Dermatologia",
+    "hints": [
+      "Tem relação com dermatologia",
+      "Pode ser pigmentado",
+      "Costuma ser benigno",
+      "Deve ser observado se mudar de aspecto",
+      "Nome médico para pinta."
+    ]
+  },
+  {
+    "id": "pelve",
+    "word": "pelve",
+    "definition": "Região óssea e anatômica inferior do tronco que abriga órgãos urogenitais.",
+    "category": "Anatomia",
+    "hints": [
+      "Fica abaixo do abdomen",
+      "Tem relação com quadris",
+      "Abriga bexiga e órgãos reprodutivos",
+      "É importante no parto",
+      "Região anatômica da bacia."
+    ]
+  },
+  {
+    "id": "placa",
+    "word": "placa",
+    "definition": "Lesão elevada e plana da pele ou depósito em parede vascular, conforme contexto.",
+    "category": "Clinica",
+    "hints": [
+      "Pode aparecer na dermatologia",
+      "Também pode ocorrer em artérias",
+      "Na pele, é elevada e mais larga",
+      "Em vasos, pode ter relação com aterosclerose",
+      "Termo para lesão plana elevada ou depósito."
+    ]
+  },
+  {
+    "id": "radio",
+    "word": "rádio",
+    "definition": "Osso lateral do antebraço, localizado do lado do polegar.",
+    "category": "Ortopedia",
+    "hints": [
+      "Fica no antebraço",
+      "Tem relação com o lado do polegar",
+      "Pode fraturar perto do punho",
+      "Articula com ulna e carpo",
+      "Osso lateral do antebraço."
+    ]
+  },
+  {
+    "id": "retal",
+    "word": "retal",
+    "definition": "Relativo ao reto, porção final do intestino grosso.",
+    "category": "Gastroenterologia",
+    "hints": [
+      "Pode aparecer em exame físico",
+      "Tem relação com a porção final do intestino",
+      "Pode ser via de médicamentos",
+      "É adjetivo de reto",
+      "Relativo ao reto."
+    ]
+  },
+  {
+    "id": "sacro",
+    "word": "sacro",
+    "definition": "Osso triangular na base da coluna, parte posterior da pelve.",
+    "category": "Anatomia",
+    "hints": [
+      "Fica na base da coluna",
+      "Compoe a parte posterior da pelve",
+      "Articula com os ossos iliacos",
+      "Pode ser local de dor lombossacra",
+      "Osso triangular chamado sacro."
+    ]
+  },
+  {
+    "id": "tinea",
+    "word": "tínea",
+    "definition": "Infecção fúngica superficial da pele, pelos ou unhas.",
+    "category": "Dermatologia",
+    "hints": [
+      "Pode causar lesoes descamativas",
+      "É causada por fungos dermatófitos",
+      "Pode acometer pele, unha ou couro cabeludo",
+      "Também e chamada micose em muitos contextos",
+      "Nome médico de infecção dermatofítica."
+    ]
+  },
+  {
+    "id": "traco",
+    "word": "traço",
+    "definition": "Característica, marca ou achado discreto descrito em avaliação clínica.",
+    "category": "Semiologia",
+    "hints": [
+      "Pode indicar uma caracteristica",
+      "Aparece em descricoes clínicas",
+      "Pode ser discreto ou marcante",
+      "Não é necessariamente uma doença",
+      "Termo para marca ou caracteristica."
+    ]
+  },
+  {
+    "id": "ulnar",
+    "word": "ulnar",
+    "definition": "Relativo a ulna, osso medial do antebraço.",
+    "category": "Ortopedia",
+    "hints": [
+      "Tem relação com o antebraço",
+      "Fica do lado do dedo minimo",
+      "Pode aparecer em nervo ulnar",
+      "É adjetivo de ulna",
+      "Relativo ao osso medial do antebraço."
+    ]
+  },
+  {
+    "id": "vagal",
+    "word": "vagal",
+    "definition": "Relativo ao nervo vago ou a resposta autonomica mediada por ele.",
+    "category": "Neurologia",
+    "hints": [
+      "Tem relação com sistema autônomo",
+      "Pode causar queda de frequência cardíaca",
+      "Aparece em sincope vasovagal",
+      "Relaciona-se ao nervo vago",
+      "Adjetivo ligado ao decimo par craniano."
+    ]
+  },
+  {
+    "id": "vulva",
+    "word": "vulva",
+    "definition": "Conjunto das estruturas genitais externas femininas.",
+    "category": "Ginecologia",
+    "hints": [
+      "É avaliada no exame ginecológico",
+      "Pode ter lesoes, dor ou prurido",
+      "Fica na genitália externa feminina",
+      "Inclui lábios e vestíbulo",
+      "Nome anatômico da genitália externa feminina."
+    ]
+  }
+]

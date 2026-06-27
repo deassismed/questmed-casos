@@ -1,0 +1,367 @@
+Você deve criar um arquivo JSON educacional para discussão de casos clínicos, seguindo rigorosamente a estrutura especificada abaixo.
+
+OBJETIVO
+Gerar um JSON válido, em português do Brasil, para material didático médico baseado em casos clínicos. O conteúdo deve ser adequado para estudantes de medicina, internos, residentes ou profissionais em formação clínica.
+
+PÚBLICO-ALVO
+Definir o nível como:
+"Internato / Atenção Primária / Urgência / Clínica Médica / Especialidade relacionada"
+
+ENTRADAS NECESSÁRIAS
+Use as seguintes informações fornecidas:
+
+1. Lista de casos clínicos
+
+2. Tema central:
+[SERÁ ENVIADO AO FINAL DESSA RECOMENDAÇÃO]
+
+3. Objetivo educacional:
+[DESCREVER O QUE O ESTUDANTE DEVE APRENDER]
+
+4. Referências:
+Usar preferencialmente diretrizes, consensos, revisões sistemáticas ou artigos científicos de boa qualidade.
+Não inventar referências inexistentes.
+Quando possível, incluir título, ano, URL e nota sobre a utilidade da referência.
+
+REGRAS GERAIS
+
+1. A saída deve ser exclusivamente um JSON válido.
+2. Não incluir comentários fora do JSON.
+3. Não usar markdown.
+4. Não usar texto antes ou depois do JSON.
+5. Usar aspas duplas em todas as chaves e strings.
+6. Não deixar vírgula final após o último item de objetos ou arrays.
+7. O conteúdo deve ser didático, técnico e clinicamente confiável.
+8. A linguagem deve ser clara, objetiva e adequada ao ensino médico.
+9. Evitar afirmações absolutas quando houver incerteza clínica.
+10. Explicitar o raciocínio clínico, diagnóstico e terapêutico.
+11. Diferenciar claramente os casos leves, moderados, graves ou com risco específico, quando aplicável.
+12. Explicar por que a alternativa correta é adequada.
+13. Explicar por que as alternativas incorretas não são preferíveis, quando houver alternativas.
+14. Incluir recomendações de reavaliação, segurança clínica e descalonamento terapêutico quando o tema envolver tratamento.
+15. Adaptar o conteúdo às melhores evidências disponíveis.
+
+ORIENTAÇÕES DE PREENCHIMENTO
+
+1. Campo "id"
+Criar um identificador único, em minúsculas, sem acentos, com hífens entre palavras.
+Exemplo:
+"pneumonia-adquirida-comunidade-terapia-empirica-001"
+
+2. Campo "caseIds"
+Inserir os códigos dos casos clínicos discutidos.
+Exemplo:
+["ABC123", "DEF456", "GHI789"]
+
+3. Campo "title"
+Criar um título curto e descritivo.
+Exemplo:
+"Discussão sobre pneumonia adquirida na comunidade"
+
+4. Campo "topic"
+Descrever o tema específico do material.
+Exemplo:
+"Pneumonia adquirida na comunidade: estratificação de gravidade e terapia empírica"
+
+5. Campo "opening"
+Criar um parágrafo introdutório explicando o conjunto dos casos e o objetivo da discussão.
+
+6. Campo "clinicalSections"
+Criar três blocos progressivos:
+- "Primeiras dicas": achados clínicos gerais e pistas iniciais.
+- "Dicas intermediárias": diferenciação entre os casos.
+- "Dicas PLUS": elementos avançados, fatores de risco, armadilhas diagnósticas ou terapêuticas.
+
+Cada bloco deve conter três itens.
+
+7. Campo "teaching.summary"
+Escrever um resumo integrando todos os casos, suas diferenças clínicas e as condutas corretas.
+
+8. Campo "learningObjectives"
+Criar objetivos de aprendizagem, usando verbos como:
+- Reconhecer
+- Diferenciar
+- Selecionar
+- Justificar
+- Identificar
+- Evitar
+- Aplicar
+
+9. Campo "sections"
+
+A seção "Dados clínicos completos dos casos" deve conter uma linha para cada caso clínico.
+Cada linha deve incluir:
+- Caso
+- Dados clínicos explícitos
+- Interpretação
+
+A seção "Raciocínio diagnóstico" deve explicar como os dados clínicos levam ao diagnóstico e à estratificação.
+
+A seção "Respostas dos casos" deve conter:
+- Código e identificação do caso
+- Resposta correta
+- Justificativa clínica
+
+A seção "Estratificação prática" deve transformar os casos em categorias clínicas úteis.
+
+A seção "Critérios de gravidade úteis" deve listar achados clínicos, exemplos dos casos e sua interpretação.
+
+A seção "Conduta por perfil clínico" deve organizar hipóteses, riscos ou agentes principais e conduta didática.
+
+As seções do tipo "callout" devem funcionar como destaques explicativos para os principais grupos de casos.
+
+A seção "Por que não as outras opções" deve explicar erros comuns, condutas inadequadas ou alternativas menos apropriadas.
+
+A seção "Manejo prático" deve trazer passos aplicáveis à prática clínica.
+
+A seção "O que evitar" deve listar armadilhas clínicas, diagnósticas ou terapêuticas.
+
+A seção "Aplicação na prática" deve conectar cada caso à decisão clínica final.
+
+A seção "Mensagem final para o estudante" deve encerrar com uma síntese didática.
+
+10. Campo "references"
+Incluir referências confiáveis.
+Priorizar:
+- Diretrizes clínicas
+- Sociedades médicas
+- Revisões sistemáticas
+- Ensaios clínicos relevantes
+- Artigos de revistas científicas reconhecidas
+
+Cada referência deve ter:
+- title
+- year
+- url
+- note
+
+11. Campo "deepDiveQuestions"
+Criar cinco perguntas aprofundadas.
+Cada resposta deve ser explicativa, clinicamente útil e coerente com o tema.
+
+CRITÉRIOS DE QUALIDADE
+
+Antes de finalizar, verificar:
+
+1. O JSON é válido.
+2. Todas as chaves obrigatórias estão presentes.
+3. Não há comentários dentro do JSON.
+4. Não há vírgulas finais inválidas.
+5. As seções "table" têm "headers" e "rows".
+6. As seções "bullets" têm "items".
+7. As seções "callout" têm "content".
+8. Os casos clínicos estão corretamente vinculados aos respectivos códigos.
+9. As condutas estão justificadas.
+10. As referências são reais e pertinentes.
+11. O texto está em português do Brasil.
+12. O conteúdo é adequado para ensino médico.
+
+RESULTADO ESPERADO
+
+Retorne apenas o JSON final preenchido, no seguinte formato:
+
+{
+    "id": "disuria-gestante-pielonefrite-001",
+    "caseIds": ["GR8I3", "MX7P4", "UC5N8", "LT9W2", "PW6R3"],
+    "title": "Maria, 36 anos",
+    "topic": "Pielonefrite aguda na gestação",
+    "opening": "Maria, 36 anos, com disúria há 3 dias.",
+    "clinicalSections": [
+      {
+        "title": "Primeiras dicas",
+        "items": [
+          "A paciente refere aumento da frequência urinária no mesmo período.",
+          "Além de urgência miccional, a paciente apresenta desconforto suprapúbico.",
+          "Diz ter percebido sensação de esvaziamento incompleto da bexiga, e leve hematúria macroscópica."
+        ]
+      },
+      {
+        "title": "Dicas intermediárias",
+        "items": [
+          "A paciente relata início de febre (38,5 °C) nas últimas 24 horas, acompanhada de calafrios.",
+          "Refere dor em flanco direito, contínua, com irradiação para a região lombar.",
+          "Além dos sintomas urinários, apresenta náuseas e mal-estar geral."
+        ]
+      },
+      {
+        "title": "Dicas PLUS",
+        "items": [
+          "A paciente informa atraso menstrual de aproximadamente 8 semanas e refere teste de gravidez de farmácia positivo.",
+          "Realizou consulta de pré-natal recente, com confirmação de gestação única intrauterina no primeiro trimestre.",
+          "Ao exame, encontra-se em bom estado geral, hidratada, normotensa, sem taquicardia e sem sinais de sepse, embora mantenha febre baixa e dor em flanco."
+        ]
+      }
+    ],
+    "teaching": {
+      "title": "Pielonefrite aguda na gestação",
+      "subtitle": "Material didático para estudo do tema associado ao caso clínico.",
+      "level": "Internato / Atenção Primária e Urgência",
+      "summary": "Maria apresenta pielonefrite aguda no primeiro trimestre da gestação. O diagnóstico é clínico, sustentado por sintomas urinários baixos, febre, calafrios, dor em flanco direito e contexto gestacional. A ausência de sepse não torna o quadro ambulatorial por padrão; na gestação, a conduta mais segura costuma ser manejo inicial hospitalar. Este caso recebeu também material complementar sobre critérios para alta ambulatorial e alternativas seguras quando há resistência a cefalosporinas.",
+      "learningObjectives": [
+        "Reconhecer pielonefrite na gestação como infecção urinária complicada.",
+        "Diferenciar cistite baixa de pielonefrite quando há febre e dor em flanco.",
+        "Escolher antibioticoterapia empírica parenteral segura para gestantes.",
+        "Evitar antimicrobianos inadequados para pielonefrite ou contraindicados na gestação.",
+        "Planejar descalonamento, duração total do tratamento e seguimento com cultura."
+      ],
+      "sections": [
+        {
+          "title": "Raciocínio diagnóstico",
+          "type": "bullets",
+          "items": [
+            "Pistas-chave: disúria, polaciúria/urgência, febre, calafrios, dor em flanco e gestação confirmada.",
+            "A hipótese central é pielonefrite aguda na gestação, e não cistite simples, porque há febre e dor em flanco.",
+            "Não há sinais de sepse no momento, mas a gestação aumenta risco de complicações maternas e obstétricas."
+          ]
+        },
+        {
+          "title": "Conduta recomendada",
+          "type": "bullets",
+          "items": [
+            "A conduta padrão é manejo inicial em ambiente hospitalar, com antibiótico parenteral e observação clínica.",
+            "Tratamento ambulatorial pode ser considerado apenas em cenários muito selecionados, com baixo risco, boa tolerância oral, suporte adequado e reavaliação precoce.",
+            "Ceftriaxona intravenosa em regime hospitalar é uma opção empírica adequada dentro desse contexto clínico."
+          ]
+        },
+        {
+          "title": "Exames iniciais",
+          "type": "table",
+          "headers": [
+            "Exame",
+            "Justificativa prática"
+          ],
+          "rows": [
+            [
+              "Urina tipo I",
+              "Documentar piúria, bacteriúria, hematúria e apoiar a hipótese infecciosa."
+            ],
+            [
+              "Urocultura + antibiograma antes do antibiótico",
+              "Identificar agente etiológico e orientar ajuste/descalonamento terapêutico."
+            ],
+            [
+              "Hemograma, PCR, função renal e eletrólitos",
+              "Estratificar gravidade, leucocitose, resposta inflamatória, função renal e risco hidroeletrolítico."
+            ],
+            [
+              "Hemoculturas",
+              "Considerar sobretudo se febre importante, toxemia, sepse, internação ou maior gravidade; a utilidade rotineira em todos os casos é discutível."
+            ],
+            [
+              "Ultrassonografia renal",
+              "Preferível na gestação quando houver suspeita de obstrução, litíase, abscesso, evolução atípica ou falta de resposta. TC não é exame inicial em gestante estável sem complicações."
+            ]
+          ]
+        },
+        {
+          "title": "Antibioticoterapia empírica parenteral",
+          "type": "table",
+          "headers": [
+            "Opção",
+            "Dose usual adulta",
+            "Comentário didático"
+          ],
+          "rows": [
+            [
+              "Ceftriaxona IV",
+              "1–2 g a cada 24 h",
+              "Opção empírica frequente, com boa cobertura para enterobactérias e praticidade posológica."
+            ],
+            [
+              "Cefazolina IV",
+              "1–2 g a cada 8 h",
+              "Alternativa beta-lactâmica em cenários de menor risco de resistência e conforme protocolos locais."
+            ],
+            [
+              "Ampicilina + gentamicina IV",
+              "Ampicilina 2 g a cada 6 h + gentamicina conforme peso/função renal",
+              "Eficaz em ensaios clínicos, mas aminoglicosídeo exige cautela e decisão contextualizada na gestação."
+            ],
+            [
+              "Amoxicilina-clavulanato IV",
+              "Conforme protocolo local e sensibilidade",
+              "Pode ser opção dirigida quando houver suscetibilidade documentada."
+            ]
+          ]
+        },
+        {
+          "title": "Medicamento-chave no caso: ceftriaxona",
+          "type": "callout",
+          "content": "Ceftriaxona é uma cefalosporina de terceira geração com cobertura útil para E. coli e outros gram-negativos urinários. É adequada como terapia empírica parenteral inicial quando o cenário clínico sugere pielonefrite gestacional e o perfil local de resistência é compatível. Após melhora clínica e disponibilidade de cultura, deve-se ajustar o esquema e completar 10–14 dias de tratamento total, frequentemente com beta-lactâmico oral como cefalexina quando sensível."
+        },
+        {
+          "title": "O que evitar",
+          "type": "bullets",
+          "items": [
+            "Fluoroquinolonas: evitar/contraindicadas na gestação por potencial risco fetal e por existirem alternativas mais seguras.",
+            "TMP-SMX: evitar no primeiro trimestre pelo antagonismo ao folato e no fim da gestação por risco neonatal; usar apenas se benefício superar risco e sem alternativas adequadas.",
+            "Nitrofurantoína e fosfomicina: podem ser úteis em cistite baixa, mas são inadequadas para pielonefrite porque não atingem níveis renais teciduais adequados."
+          ]
+        },
+        {
+          "title": "Manutenção, monitorização e alta",
+          "type": "bullets",
+          "items": [
+            "Hidratação, analgesia/antitérmico apropriado, controle de sinais vitais, diurese e evolução da dor/febre.",
+            "Monitorização obstétrica conforme idade gestacional, gravidade e disponibilidade do serviço.",
+            "Descalonar para via oral quando houver melhora clínica, estabilidade, tolerância oral e tendência de resposta laboratorial/microbiológica.",
+            "Completar 10–14 dias no total, conforme protocolo local, resposta clínica e antibiograma.",
+            "Planejar seguimento com urocultura de controle e vigilância de recorrência durante a gestação."
+          ]
+        },
+        {
+          "title": "Mensagem final para o estudante",
+          "type": "callout",
+          "content": "Na gestante com disúria, febre e dor em flanco, pense em pielonefrite até prova em contrário. A melhor conduta inicial é proteger mãe e feto: colher cultura, iniciar beta-lactâmico parenteral com cobertura renal adequada, monitorizar e só depois descalonar."
+        }
+      ],
+      "references": [
+        {
+          "title": "ACOG Clinical Consensus: Urinary Tract Infections in Pregnant Individuals",
+          "year": "2023",
+          "url": "https://www.acog.org/clinical/clinical-guidance/clinical-consensus/articles/2023/08/urinary-tract-infections-in-pregnant-individuals",
+          "note": "Base para manejo inicial hospitalar, cultura, antibiótico parenteral e duração do tratamento."
+        },
+        {
+          "title": "MSD Manual Professional: Urinary Tract Infection in Pregnancy",
+          "year": "2024/2026",
+          "url": "https://www.msdmanuals.com/professional/gynecology-and-obstetrics/approach-to-the-pregnant-woman-and-prenatal-care/urinary-tract-infection-in-pregnancy",
+          "note": "Resumo prático sobre internação, antibióticos IV e transição para via oral."
+        },
+        {
+          "title": "Wing DA et al. A randomized trial of three antibiotic regimens for the treatment of pyelonephritis in pregnancy",
+          "year": "1998",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/9699761/",
+          "note": "Ensaio clínico comparando esquemas com ampicilina/gentamicina, cefazolina e ceftriaxona."
+        },
+        {
+          "title": "Millar LK et al. Outpatient treatment of pyelonephritis in pregnancy",
+          "year": "1995",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/7675380/",
+          "note": "Ensaio sobre tratamento ambulatorial selecionado antes de 24 semanas, com ceftriaxona IM e cefalexina oral."
+        },
+        {
+          "title": "Cochrane Review: Routine blood cultures in pyelonephritis in pregnancy",
+          "year": "2015",
+          "url": "https://www.cochrane.org/evidence/CD009216_effectiveness-blood-testing-management-pyelonephritis-pregnancy-improving-outcomes",
+          "note": "Evidência limitada para benefício de hemoculturas rotineiras em todos os casos."
+        },
+        {
+          "title": "ACR Appropriateness Criteria: Acute Pyelonephritis",
+          "year": "2022",
+          "url": "https://acsearch.acr.org/docs/69489/narrative/",
+          "note": "Referência para escolha de imagem em cenários de pielonefrite, incluindo gestação."
+        }
+      ],
+      "deepDiveQuestions": [
+        {
+          "question": "Quais são os critérios específicos para considerar alta ambulatorial em gestantes com pielonefrite?",
+          "answer": "A alta ambulatorial em gestante com pielonefrite deve ser exceção. A conduta mais segura, na maioria dos casos, é internação inicial para antibiótico parenteral, hidratação, controle de sintomas e observação da resposta clínica.\n\nSó considerar manejo ambulatorial se todos os critérios abaixo estiverem presentes:\n\n- Estabilidade clínica: sem sepse, sem hipotensão, sem taquicardia persistente, sem toxemia e com dor/febre em melhora após a primeira abordagem.\n\n- Boa tolerância oral: consegue hidratar-se, alimentar-se e tomar antibiótico por via oral, sem vômitos persistentes.\n\n- Baixo risco de complicação: sem suspeita de obstrução urinária, litíase, abscesso renal ou perinéfrico, doença renal relevante, imunossupressão ou outra condição que aumente risco materno-fetal.\n\n- Plano terapêutico seguro: urocultura colhida antes do antibiótico, dose parenteral inicial realizada quando indicada, antibiótico oral disponível e adequado ao cenário clínico local.\n\n- Seguimento garantido: retorno ou reavaliação em 48–72 horas, acesso rápido ao serviço de saúde, telefone/transporte disponíveis e boa compreensão dos sinais de alerta.\n\nNão dar alta se houver febre persistente, piora da dor, vômitos, desidratação, instabilidade hemodinâmica, suspeita de obstrução/litíase/abscesso, dificuldade de adesão ou impossibilidade de reavaliação precoce.\n\nMensagem prática: na gestante, pielonefrite é infecção urinária complicada. A pergunta principal não é 'pode tratar em casa?', mas 'há segurança materna e fetal suficiente para não internar?'."
+        },
+        {
+          "question": "Se a urocultura revelar resistência a cefalosporinas, qual a alternativa segura na gestação?",
+          "answer": "Se a urocultura mostrar resistência a cefalosporinas, a conduta deve ser direcionada pelo antibiograma e pela gravidade clínica.\n\nEm gestante com pielonefrite por bactéria resistente a cefalosporinas, uma opção segura e efetiva costuma ser um carbapenêmico por via intravenosa, especialmente quando houver suspeita de bactéria produtora de betalactamase de espectro estendido.\n\nPaciente estável, sem choque e sem bacteremia grave: ertapenem é uma opção prática por ser administrado uma vez ao dia.\n\nPaciente grave, instável, com sepse, bacteremia ou maior risco de infecção complicada: meropenem ou imipenem-cilastatina são opções preferíveis.\n\nEvitar nitrofurantoína e fosfomicina para pielonefrite, mesmo que possam ser úteis em cistite baixa, porque não tratam bem infecção do parênquima renal.\n\nMensagem prática: resistência a cefalosporinas muda o tratamento para terapia dirigida; na gestação, a decisão deve priorizar segurança materna, cobertura renal adequada e acompanhamento hospitalar inicial."
+        }
+      ]
+    }
+  },

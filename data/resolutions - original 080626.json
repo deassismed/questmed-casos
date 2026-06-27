@@ -1,0 +1,1284 @@
+[
+  {
+    "id": "disuria-gestante-pielonefrite-001",
+    "title": "Maria, 36 anos",
+    "topic": "Pielonefrite aguda na gestação",
+    "opening": "Maria, 36 anos, com disúria há 3 dias.",
+    "clinicalSections": [
+      {
+        "title": "Primeiras dicas",
+        "items": [
+          "A paciente refere aumento da frequência urinária no mesmo período.",
+          "Além de urgência miccional, a paciente apresenta desconforto suprapúbico.",
+          "Diz ter percebido sensação de esvaziamento incompleto da bexiga, e leve hematúria macroscópica."
+        ]
+      },
+      {
+        "title": "Dicas intermediárias",
+        "items": [
+          "A paciente relata início de febre (38,5 °C) nas últimas 24 horas, acompanhada de calafrios.",
+          "Refere dor em flanco direito, contínua, com irradiação para a região lombar.",
+          "Além dos sintomas urinários, apresenta náuseas e mal-estar geral."
+        ]
+      },
+      {
+        "title": "Dicas PLUS",
+        "items": [
+          "A paciente informa atraso menstrual de aproximadamente 8 semanas e refere teste de gravidez de farmácia positivo.",
+          "Realizou consulta de pré-natal recente, com confirmação de gestação única intrauterina no primeiro trimestre.",
+          "Ao exame, encontra-se em bom estado geral, hidratada, normotensa, sem taquicardia e sem sinais de sepse, embora mantenha febre baixa e dor em flanco."
+        ]
+      }
+    ],
+    "teaching": {
+      "title": "Pielonefrite aguda na gestação",
+      "subtitle": "Material didático para estudo do tema associado ao caso clínico.",
+      "level": "Internato / Atenção Primária e Urgência",
+      "summary": "Maria apresenta pielonefrite aguda no primeiro trimestre da gestação. O diagnóstico é clínico, sustentado por sintomas urinários baixos, febre, calafrios, dor em flanco direito e contexto gestacional. A ausência de sepse não torna o quadro ambulatorial por padrão; na gestação, a conduta mais segura costuma ser manejo inicial hospitalar. Este caso recebeu também material complementar sobre critérios para alta ambulatorial e alternativas seguras quando há resistência a cefalosporinas.",
+      "learningObjectives": [
+        "Reconhecer pielonefrite na gestação como infecção urinária complicada.",
+        "Diferenciar cistite baixa de pielonefrite quando há febre e dor em flanco.",
+        "Escolher antibioticoterapia empírica parenteral segura para gestantes.",
+        "Evitar antimicrobianos inadequados para pielonefrite ou contraindicados na gestação.",
+        "Planejar descalonamento, duração total do tratamento e seguimento com cultura."
+      ],
+      "sections": [
+        {
+          "title": "Raciocínio diagnóstico",
+          "type": "bullets",
+          "items": [
+            "Pistas-chave: disúria, polaciúria/urgência, febre, calafrios, dor em flanco e gestação confirmada.",
+            "A hipótese central é pielonefrite aguda na gestação, e não cistite simples, porque há febre e dor em flanco.",
+            "Não há sinais de sepse no momento, mas a gestação aumenta risco de complicações maternas e obstétricas."
+          ]
+        },
+        {
+          "title": "Conduta recomendada",
+          "type": "bullets",
+          "items": [
+            "A conduta padrão é manejo inicial em ambiente hospitalar, com antibiótico parenteral e observação clínica.",
+            "Tratamento ambulatorial pode ser considerado apenas em cenários muito selecionados, com baixo risco, boa tolerância oral, suporte adequado e reavaliação precoce.",
+            "Ceftriaxona intravenosa em regime hospitalar é uma opção empírica adequada dentro desse contexto clínico."
+          ]
+        },
+        {
+          "title": "Exames iniciais",
+          "type": "table",
+          "headers": [
+            "Exame",
+            "Justificativa prática"
+          ],
+          "rows": [
+            [
+              "Urina tipo I",
+              "Documentar piúria, bacteriúria, hematúria e apoiar a hipótese infecciosa."
+            ],
+            [
+              "Urocultura + antibiograma antes do antibiótico",
+              "Identificar agente etiológico e orientar ajuste/descalonamento terapêutico."
+            ],
+            [
+              "Hemograma, PCR, função renal e eletrólitos",
+              "Estratificar gravidade, leucocitose, resposta inflamatória, função renal e risco hidroeletrolítico."
+            ],
+            [
+              "Hemoculturas",
+              "Considerar sobretudo se febre importante, toxemia, sepse, internação ou maior gravidade; a utilidade rotineira em todos os casos é discutível."
+            ],
+            [
+              "Ultrassonografia renal",
+              "Preferível na gestação quando houver suspeita de obstrução, litíase, abscesso, evolução atípica ou falta de resposta. TC não é exame inicial em gestante estável sem complicações."
+            ]
+          ]
+        },
+        {
+          "title": "Antibioticoterapia empírica parenteral",
+          "type": "table",
+          "headers": [
+            "Opção",
+            "Dose usual adulta",
+            "Comentário didático"
+          ],
+          "rows": [
+            [
+              "Ceftriaxona IV",
+              "1–2 g a cada 24 h",
+              "Opção empírica frequente, com boa cobertura para enterobactérias e praticidade posológica."
+            ],
+            [
+              "Cefazolina IV",
+              "1–2 g a cada 8 h",
+              "Alternativa beta-lactâmica em cenários de menor risco de resistência e conforme protocolos locais."
+            ],
+            [
+              "Ampicilina + gentamicina IV",
+              "Ampicilina 2 g a cada 6 h + gentamicina conforme peso/função renal",
+              "Eficaz em ensaios clínicos, mas aminoglicosídeo exige cautela e decisão contextualizada na gestação."
+            ],
+            [
+              "Amoxicilina-clavulanato IV",
+              "Conforme protocolo local e sensibilidade",
+              "Pode ser opção dirigida quando houver suscetibilidade documentada."
+            ]
+          ]
+        },
+        {
+          "title": "Medicamento-chave no caso: ceftriaxona",
+          "type": "callout",
+          "content": "Ceftriaxona é uma cefalosporina de terceira geração com cobertura útil para E. coli e outros gram-negativos urinários. É adequada como terapia empírica parenteral inicial quando o cenário clínico sugere pielonefrite gestacional e o perfil local de resistência é compatível. Após melhora clínica e disponibilidade de cultura, deve-se ajustar o esquema e completar 10–14 dias de tratamento total, frequentemente com beta-lactâmico oral como cefalexina quando sensível."
+        },
+        {
+          "title": "O que evitar",
+          "type": "bullets",
+          "items": [
+            "Fluoroquinolonas: evitar/contraindicadas na gestação por potencial risco fetal e por existirem alternativas mais seguras.",
+            "TMP-SMX: evitar no primeiro trimestre pelo antagonismo ao folato e no fim da gestação por risco neonatal; usar apenas se benefício superar risco e sem alternativas adequadas.",
+            "Nitrofurantoína e fosfomicina: podem ser úteis em cistite baixa, mas são inadequadas para pielonefrite porque não atingem níveis renais teciduais adequados."
+          ]
+        },
+        {
+          "title": "Manutenção, monitorização e alta",
+          "type": "bullets",
+          "items": [
+            "Hidratação, analgesia/antitérmico apropriado, controle de sinais vitais, diurese e evolução da dor/febre.",
+            "Monitorização obstétrica conforme idade gestacional, gravidade e disponibilidade do serviço.",
+            "Descalonar para via oral quando houver melhora clínica, estabilidade, tolerância oral e tendência de resposta laboratorial/microbiológica.",
+            "Completar 10–14 dias no total, conforme protocolo local, resposta clínica e antibiograma.",
+            "Planejar seguimento com urocultura de controle e vigilância de recorrência durante a gestação."
+          ]
+        },
+        {
+          "title": "Mensagem final para o estudante",
+          "type": "callout",
+          "content": "Na gestante com disúria, febre e dor em flanco, pense em pielonefrite até prova em contrário. A melhor conduta inicial é proteger mãe e feto: colher cultura, iniciar beta-lactâmico parenteral com cobertura renal adequada, monitorizar e só depois descalonar."
+        }
+      ],
+      "references": [
+        {
+          "title": "ACOG Clinical Consensus: Urinary Tract Infections in Pregnant Individuals",
+          "year": "2023",
+          "url": "https://www.acog.org/clinical/clinical-guidance/clinical-consensus/articles/2023/08/urinary-tract-infections-in-pregnant-individuals",
+          "note": "Base para manejo inicial hospitalar, cultura, antibiótico parenteral e duração do tratamento."
+        },
+        {
+          "title": "MSD Manual Professional: Urinary Tract Infection in Pregnancy",
+          "year": "2024/2026",
+          "url": "https://www.msdmanuals.com/professional/gynecology-and-obstetrics/approach-to-the-pregnant-woman-and-prenatal-care/urinary-tract-infection-in-pregnancy",
+          "note": "Resumo prático sobre internação, antibióticos IV e transição para via oral."
+        },
+        {
+          "title": "Wing DA et al. A randomized trial of three antibiotic regimens for the treatment of pyelonephritis in pregnancy",
+          "year": "1998",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/9699761/",
+          "note": "Ensaio clínico comparando esquemas com ampicilina/gentamicina, cefazolina e ceftriaxona."
+        },
+        {
+          "title": "Millar LK et al. Outpatient treatment of pyelonephritis in pregnancy",
+          "year": "1995",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/7675380/",
+          "note": "Ensaio sobre tratamento ambulatorial selecionado antes de 24 semanas, com ceftriaxona IM e cefalexina oral."
+        },
+        {
+          "title": "Cochrane Review: Routine blood cultures in pyelonephritis in pregnancy",
+          "year": "2015",
+          "url": "https://www.cochrane.org/evidence/CD009216_effectiveness-blood-testing-management-pyelonephritis-pregnancy-improving-outcomes",
+          "note": "Evidência limitada para benefício de hemoculturas rotineiras em todos os casos."
+        },
+        {
+          "title": "ACR Appropriateness Criteria: Acute Pyelonephritis",
+          "year": "2022",
+          "url": "https://acsearch.acr.org/docs/69489/narrative/",
+          "note": "Referência para escolha de imagem em cenários de pielonefrite, incluindo gestação."
+        }
+      ],
+        "deepDiveQuestions": [
+        {
+          "question": "Quais são os critérios específicos para considerar alta ambulatorial em gestantes com pielonefrite?",
+          "answer": "A alta ambulatorial em gestante com pielonefrite deve ser exceção. A conduta mais segura, na maioria dos casos, é internação inicial para antibiótico parenteral, hidratação, controle de sintomas e observação da resposta clínica.\n\nSó considerar manejo ambulatorial se todos os critérios abaixo estiverem presentes:\n\n- Estabilidade clínica: sem sepse, sem hipotensão, sem taquicardia persistente, sem toxemia e com dor/febre em melhora após a primeira abordagem.\n\n- Boa tolerância oral: consegue hidratar-se, alimentar-se e tomar antibiótico por via oral, sem vômitos persistentes.\n\n- Baixo risco de complicação: sem suspeita de obstrução urinária, litíase, abscesso renal ou perinéfrico, doença renal relevante, imunossupressão ou outra condição que aumente risco materno-fetal.\n\n- Plano terapêutico seguro: urocultura colhida antes do antibiótico, dose parenteral inicial realizada quando indicada, antibiótico oral disponível e adequado ao cenário clínico local.\n\n- Seguimento garantido: retorno ou reavaliação em 48–72 horas, acesso rápido ao serviço de saúde, telefone/transporte disponíveis e boa compreensão dos sinais de alerta.\n\nNão dar alta se houver febre persistente, piora da dor, vômitos, desidratação, instabilidade hemodinâmica, suspeita de obstrução/litíase/abscesso, dificuldade de adesão ou impossibilidade de reavaliação precoce.\n\nMensagem prática: na gestante, pielonefrite é infecção urinária complicada. A pergunta principal não é 'pode tratar em casa?', mas 'há segurança materna e fetal suficiente para não internar?'."
+        },
+        {
+          "question": "Se a urocultura revelar resistência a cefalosporinas, qual a alternativa segura na gestação?",
+          "answer": "Se a urocultura mostrar resistência a cefalosporinas, a conduta deve ser direcionada pelo antibiograma e pela gravidade clínica.\n\nEm gestante com pielonefrite por bactéria resistente a cefalosporinas, uma opção segura e efetiva costuma ser um carbapenêmico por via intravenosa, especialmente quando houver suspeita de bactéria produtora de betalactamase de espectro estendido.\n\nPaciente estável, sem choque e sem bacteremia grave: ertapenem é uma opção prática por ser administrado uma vez ao dia.\n\nPaciente grave, instável, com sepse, bacteremia ou maior risco de infecção complicada: meropenem ou imipenem-cilastatina são opções preferíveis.\n\nEvitar nitrofurantoína e fosfomicina para pielonefrite, mesmo que possam ser úteis em cistite baixa, porque não tratam bem infecção do parênquima renal.\n\nMensagem prática: resistência a cefalosporinas muda o tratamento para terapia dirigida; na gestação, a decisão deve priorizar segurança materna, cobertura renal adequada e acompanhamento hospitalar inicial."
+        }
+      ]
+    }
+  },
+  {
+    "id": "disuria-prostatite-retencao-001",
+    "title": "João, 61 anos",
+    "topic": "Prostatite aguda e retenção urinária",
+    "opening": "João, 61 anos, procura o PS por desconforto no trato urinário há 12 horas.",
+    "clinicalSections": [
+    {
+      "title": "Primeiras dicas",
+      "items": [
+        "O paciente relata jato urinário fraco há cerca de 3 meses.",
+        "Refere gotejamento terminal e sensação de esvaziamento incompleto da bexiga.",
+        "Refere aumento da frequência urinária noturna nas últimas semanas."
+      ]
+    },
+    {
+      "title": "Dicas intermediárias",
+      "items": [
+        "Refere piora importante do desconforto suprapúbico nas últimas horas.",
+        "À palpação abdominal, observa-se abaulamento doloroso em região suprapúbica.",
+        "O paciente encontra-se ansioso e desconfortável, mas hemodinamicamente estável."
+      ]
+    },
+    {
+      "title": "Dicas PLUS",
+      "items": [
+        "Relata febre baixa e dor perineal nas últimas 48 horas.",
+        "Ao toque retal, a próstata encontra-se aumentada e bastante sensível à palpação.",
+        "O hemograma evidencia leucocitose com neutrofilia, e o exame de urina mostra piúria."
+      ]
+    }
+  ],
+  "teaching": {
+    "title": "Prostatite aguda e retenção urinária",
+    "subtitle": "Material didático para estudo do tema associado ao caso clínico.",
+    "level": "Internato / Urgência / Urologia",
+    "summary": "Retenção urinária aguda associada à hiperplasia prostática benigna e prostatite bacteriana aguda, com foco em drenagem, antibiótico, alfa-bloqueador e investigação de abscesso.",
+    
+    "learningObjectives": [
+    "Reconhecer retenção urinária aguda como emergência urológica.",
+    "Identificar os achados clínicos compatíveis com prostatite bacteriana aguda.",
+    "Diferenciar sintomas urinários obstrutivos crônicos da retenção urinária aguda.",
+    "Indicar drenagem urinária imediata e escolher a melhor estratégia de descompressão vesical.",
+    "Selecionar antibioticoterapia adequada para prostatite bacteriana aguda e planejar seguimento."
+  ],
+  "sections": [
+    {
+      "title": "Raciocínio diagnóstico",
+      "type": "bullets",
+      "items": [
+        "Os sintomas prévios de jato urinário fraco, noctúria, gotejamento terminal e esvaziamento incompleto sugerem sintomas do trato urinário inferior relacionados à hiperplasia prostática benigna (HBP).",
+        "Dor suprapúbica intensa associada a abaulamento doloroso caracteriza globo vesical e indica retenção urinária aguda.",
+        "Febre, dor perineal, próstata aumentada e dolorosa ao toque retal, leucocitose com neutrofilia e piúria sugerem prostatite bacteriana aguda.",
+        "O quadro global é compatível com retenção urinária aguda secundária à obstrução prostática, precipitada ou agravada por prostatite bacteriana aguda."
+      ]
+    },
+    {
+      "title": "Achados que sustentam o diagnóstico",
+      "type": "table",
+      "headers": [
+        "Achado",
+        "Significado clínico"
+      ],
+      "rows": [
+        [
+          "Jato fraco, noctúria e gotejamento terminal",
+          "Sintomas urinários obstrutivos associados à HBP."
+        ],
+        [
+          "Sensação de esvaziamento incompleto",
+          "Sugere esvaziamento vesical inadequado."
+        ],
+        [
+          "Dor suprapúbica com abaulamento palpável",
+          "Caracteriza retenção urinária aguda e globo vesical."
+        ],
+        [
+          "Dor perineal",
+          "Sugere acometimento prostático."
+        ],
+        [
+          "Próstata bastante dolorosa ao toque",
+          "Achado clássico de prostatite bacteriana aguda."
+        ],
+        [
+          "Leucocitose, neutrofilia e piúria",
+          "Evidenciam processo infeccioso bacteriano."
+        ]
+      ]
+    },
+    {
+      "title": "Conduta inicial",
+      "type": "bullets",
+      "items": [
+        "A prioridade é a drenagem urinária imediata, pois retenção urinária aguda constitui emergência urológica.",
+        "Cateterismo uretral cuidadoso pode ser realizado inicialmente quando tecnicamente simples e sem trauma.",
+        "Evitar tentativas repetidas ou traumáticas de sondagem em pacientes com prostatite aguda.",
+        "Na falha do cateterismo uretral, suspeita de lesão uretral ou dificuldade técnica importante, considerar cistostomia suprapúbica.",
+        "Massagem prostática é contraindicada devido ao risco de bacteremia."
+      ]
+    },
+    {
+      "title": "Exames iniciais",
+      "type": "table",
+      "headers": [
+        "Exame",
+        "Justificativa prática"
+      ],
+      "rows": [
+        [
+          "Urina tipo I",
+          "Documentar piúria e apoiar a hipótese infecciosa."
+        ],
+        [
+          "Urocultura antes do antibiótico",
+          "Identificar o agente etiológico e orientar ajuste terapêutico."
+        ],
+        [
+          "Hemograma",
+          "Avaliar leucocitose e gravidade do processo infeccioso."
+        ],
+        [
+          "Marcadores inflamatórios",
+          "Auxiliar na monitorização da resposta clínica."
+        ],
+        [
+          "Imagem prostática",
+          "Indicada se ausência de melhora após 48–72 horas ou suspeita de abscesso."
+        ]
+      ]
+    },
+    {
+      "title": "Antibioticoterapia empírica inicial",
+      "type": "table",
+      "headers": [
+        "Opção",
+        "Via",
+        "Comentário didático"
+      ],
+      "rows": [
+        [
+          "Ceftriaxona",
+          "Intravenosa",
+          "Opção frequente para pacientes hospitalizados com prostatite bacteriana aguda."
+        ],
+        [
+          "Piperacilina-tazobactam",
+          "Intravenosa",
+          "Alternativa para quadros mais graves ou maior risco de resistência."
+        ],
+        [
+          "Fluoroquinolonas",
+          "Oral",
+          "Boa penetração prostática para tratamento dirigido após estabilização."
+        ],
+        [
+          "TMP-SMX",
+          "Oral",
+          "Alternativa quando houver sensibilidade microbiológica documentada."
+        ]
+      ]
+    },
+    {
+      "title": "Medicamento-chave no caso: alfa-bloqueadores",
+      "type": "callout",
+      "content": "Após a drenagem vesical e estabilização clínica, deve-se considerar alfa-bloqueador oral, especialmente quando a retenção urinária estiver associada à hiperplasia prostática benigna. Tamsulosina 0,4 mg/dia ou alfuzosina 10 mg/dia aumentam a chance de sucesso da tentativa de micção espontânea sem cateter (TWOC). A terapia deve ser iniciada após a drenagem e mantida por pelo menos três dias antes da retirada do cateter."
+    },
+    {
+      "title": "Duração do tratamento",
+      "type": "bullets",
+      "items": [
+        "A duração habitual da antibioticoterapia é de 2 a 4 semanas.",
+        "Quadros leves com boa resposta clínica podem ser tratados por aproximadamente 2 semanas.",
+        "Casos graves, bacteremia, retenção persistente, resposta lenta ou suspeita de complicações geralmente requerem 4 semanas de tratamento.",
+        "Não se deve tratar prostatite bacteriana aguda como cistite simples, pois o tecido prostático exige antibióticos com boa penetração e tratamento prolongado."
+      ]
+    },
+    {
+      "title": "Quando investigar abscesso prostático",
+      "type": "bullets",
+      "items": [
+        "Febre persistente após 48–72 horas de antibioticoterapia adequada.",
+        "Dor perineal importante ou progressiva.",
+        "Piora clínica apesar do tratamento.",
+        "Leucocitose ou marcadores inflamatórios persistentemente elevados.",
+        "Bacteremia persistente.",
+        "Retenção urinária de difícil controle.",
+        "Suspeita de coleção ao toque retal.",
+        "Baixo limiar para investigação em pacientes diabéticos ou imunossuprimidos."
+      ]
+    },
+    {
+      "title": "Fatores preditores de falha do TWOC",
+      "type": "table",
+      "headers": [
+        "Fator",
+        "Interpretação prática"
+      ],
+      "rows": [
+        [
+          "Idade ≥70 anos",
+          "Maior risco de falha."
+        ],
+        [
+          "Próstata ≥50 g",
+          "Maior probabilidade de obstrução persistente."
+        ],
+        [
+          "Volume drenado ≥1000 mL",
+          "Preditor independente de falha."
+        ],
+        [
+          "Retenção urinária espontânea",
+          "Maior risco de recorrência."
+        ],
+        [
+          "LUTS graves prévios",
+          "Sugere obstrução crônica significativa."
+        ]
+      ]
+    },
+    {
+      "title": "O que evitar",
+      "type": "bullets",
+      "items": [
+        "Massagem prostática durante a fase aguda.",
+        "Múltiplas tentativas traumáticas de cateterismo uretral.",
+        "Utilizar PSA para tomada de decisão imediata, pois pode estar transitoriamente elevado.",
+        "Acreditar que antibioticoterapia isolada resolverá a retenção urinária aguda.",
+        "Utilizar finasterida como medida para resolução da urgência, pois seu efeito é lento.",
+        "Indicar cateter duplo J para retenção urinária causada por obstrução prostática."
+      ]
+    },
+    {
+      "title": "Manutenção e seguimento",
+      "type": "bullets",
+      "items": [
+        "Monitorizar febre, dor perineal, diurese, leucocitose e estabilidade hemodinâmica.",
+        "Realizar transição para terapia oral após melhora clínica e disponibilidade da cultura.",
+        "Considerar TWOC após pelo menos três dias de alfa-bloqueador e controle da infecção.",
+        "Encaminhar para avaliação urológica se houver falha do TWOC ou persistência da obstrução.",
+        "Após resolução da prostatite, discutir tratamento definitivo da HBP, incluindo possibilidade de cirurgia eletiva quando indicada."
+      ]
+    },
+    {
+      "title": "Mensagem final para o estudante",
+      "type": "callout",
+      "content": "Na presença de globo vesical doloroso, a prioridade é drenar a bexiga. Quando retenção urinária aguda se associa a febre, dor perineal e próstata dolorosa ao toque, pense em prostatite bacteriana aguda. Trate a infecção adequadamente, evite massagem prostática e planeje a retirada do cateter com auxílio de alfa-bloqueador."
+    }
+  ],
+    
+    "sourceFile": "disuria-prostatite-retencao-001.txt",
+    "referencesNote": "As referências numéricas foram preservadas conforme o material-fonte enviado.",
+    "references": [
+      {
+        "title": "European Academy of Neurology / European Federation of Autonomic Societies / International Neuro-Urology Society Guidelines on Neurogenic Urinary and Sexual Symptoms",
+        "year": "2025",
+        "note": "Guideline em European Journal of Neurology por Panicker et al.; referência complementar para avaliação de sintomas urinários neurogênicos.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40208234/"
+      },
+      {
+        "title": "Management of Urinary Retention in Patients with Benign Prostatic Obstruction: A Systematic Review and Meta-analysis",
+        "year": "2019",
+        "note": "Revisão sistemática e metanálise em European Urology por Karavitakis et al.; base para manejo de retenção urinária associada à obstrução prostática benigna.",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0302283819300922"
+      },
+      {
+        "title": "Prostatitis",
+        "year": "2025",
+        "note": "Revisão narrativa em JAMA por Borgert et al.; síntese clínica sobre prostatite aguda e tratamento.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40788632/"
+      },
+      {
+        "title": "Urinary Tract Infections: Core Curriculum 2024",
+        "year": "2023",
+        "note": "Revisão em American Journal of Kidney Diseases por Lawati et al.; referência para infecção urinária, gravidade e investigação de complicações.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37906240/"
+      },
+      {
+        "title": "Guidelines for the Prevention, Diagnosis, and Management of Urinary Tract Infections in Pediatrics and Adults",
+        "year": "2024",
+        "note": "Guideline e revisão sistemática em JAMA Network Open por Nelson et al.; referência ampla para diagnóstico e tratamento de infecção do trato urinário.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39495518/"
+      },
+      {
+        "title": "Management of Lower Urinary Tract Symptoms Attributed to Benign Prostatic Hyperplasia: AUA Guideline Part I",
+        "year": "2021",
+        "note": "Guideline no The Journal of Urology por Lerner et al.; base para manejo clínico dos sintomas urinários baixos atribuídos à hiperplasia prostática benigna.",
+        "url": "https://www.auanet.org/guidelines-and-quality/guidelines/benign-prostatic-hyperplasia-%28bph%29-guideline"
+      },
+      {
+        "title": "Management of acute urinary retention: a worldwide survey of 6074 men with benign prostatic hyperplasia",
+        "year": "2011",
+        "note": "Estudo no British Journal of Urology por Fitzpatrick et al.; referência complementar sobre tentativa de micção espontânea após retenção urinária aguda.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22117624/"
+      },
+      {
+        "title": "Surgical Management of Lower Urinary Tract Symptoms Attributed to Benign Prostatic Hyperplasia: AUA Guideline Amendment 2019",
+        "year": "2019",
+        "note": "Guideline no The Journal of Urology por Foster et al.; referência para planejamento cirúrgico em sintomas urinários baixos por hiperplasia prostática benigna.",
+        "url": "https://www.auanet.org/guidelines-and-quality/guidelines/benign-prostatic-hyperplasia-%28bph%29-guideline"
+      }
+    ],
+    "deepDiveQuestions": [
+      {
+        "question": "Qual a duração ideal da terapia antibiótica para a prostatite bacteriana aguda?",
+        "answer": "Na prostatite bacteriana aguda, a duração usual do antibiótico é de 2 a 4 semanas.\n\nQuadro leve, boa resposta clínica, sem bacteremia, sem retenção persistente e sem suspeita de abscesso: 2 semanas podem ser suficientes, com reavaliação clínica.\n\nQuadro mais grave, febre persistente, bacteremia, sintomas intensos, retenção urinária, imunossupressão, recorrência precoce ou resposta lenta: preferir 4 semanas.\n\nO antibiótico deve ser ajustado pela urocultura e pela evolução clínica. Após melhora, pode-se trocar de via intravenosa para via oral quando o paciente estiver estável e tolerando medicação.\n\nMensagem prática: não tratar prostatite aguda como cistite simples. O tecido prostático exige antibiótico com boa penetração e duração mais longa."
+      },
+      {
+        "question": "Quando devo solicitar imagem prostática para excluir abscesso durante a prostatite aguda?",
+        "answer": "Solicitar imagem prostática quando a evolução não for a esperada após 48–72 horas de antibiótico adequado.\n\nPrincipais gatilhos: febre persistente, dor perineal importante, piora clínica, leucocitose ou marcadores inflamatórios sem melhora, bacteremia persistente, retenção urinária difícil de controlar ou suspeita de coleção ao toque retal.\n\nTambém ter baixo limiar para imagem em pacientes com diabetes, imunossupressão, manipulação urológica recente ou maior risco de complicação.\n\nA tomografia computadorizada de pelve com contraste é uma opção inicial prática no adulto. Ultrassom transretal pode ser útil quando disponível, inclusive para guiar drenagem. Ressonância magnética pode ajudar quando a tomografia for inconclusiva ou contraindicada.\n\nMensagem prática: prostatite aguda que não melhora em 48–72 horas deve levantar suspeita de abscesso prostático."
+      }
+    ]
+  }
+  },
+  {
+    "id": "disuria-cervicite-corrimento-mucoide-001",
+    "title": "Carla, 35 anos",
+    "topic": "Cervicite e disúria de provável origem genital",
+    "opening": "Carla, 35 anos, com desconforto ao urinar há 10 dias.",
+    "clinicalSections": [
+      {
+        "title": "Primeiras dicas",
+        "items": [
+          "O desconforto ao urinar começou de forma insidiosa, sem dor intensa em baixo ventre.",
+          "Relata relação sexual sem preservativo cerca de duas semanas antes do início dos sintomas.",
+          "Nega febre, dor lombar, náuseas ou vômitos."
+        ]
+      },
+      {
+        "title": "Dicas intermediárias",
+        "items": [
+          "Relata corrimento vaginal discreto, sem odor forte e sem prurido vulvar importante.",
+          "Ela refere pequeno sangramento após relação sexual nos últimos dias.",
+          "Conta que o parceiro sexual recente apresentou ardor ao urinar, mas não procurou atendimento."
+        ]
+      },
+      {
+        "title": "Dicas PLUS",
+        "items": [
+          "Ao exame especular, observa-se colo uterino friável, com discreta secreção endocervical.",
+          "Os sintomas permanecem restritos ao trato genital inferior.",
+          "A bacterioscopia não evidenciou diplococos gram-negativos."
+        ]
+      }
+    ],
+    "teaching": {
+      "title": "Cervicite e disúria de provável origem genital",
+      "subtitle": "Material didático para estudo do tema associado ao caso clínico.",
+      "level": "Atenção Primária / Saúde Sexual / Ginecologia",
+      "summary": "Cervicite mucopurulenta como causa de disúria de provável origem genital, com abordagem diagnóstica por NAAT, tratamento presuntivo e manejo de parceiros.",
+      
+      "learningObjectives": [
+    "Reconhecer os achados clínicos compatíveis com cervicite mucopurulenta.",
+    "Identificar Chlamydia trachomatis como principal etiologia em pacientes com fatores de risco para IST.",
+    "Diferenciar cervicite de infecção urinária baixa em mulheres com disúria.",
+    "Solicitar investigação complementar adequada para ISTs associadas.",
+    "Instituir tratamento empírico apropriado e planejar o manejo do parceiro sexual."
+  ],
+  "sections": [
+    {
+      "title": "Raciocínio diagnóstico",
+      "type": "bullets",
+      "items": [
+        "Os principais achados clínicos são colo uterino friável, secreção endocervical mucopurulenta e sangramento pós-coital.",
+        "A presença de parceiro com uretrite não tratada e relação sexual desprotegida recente aumenta significativamente a probabilidade de infecção sexualmente transmissível.",
+        "Embora a disúria possa sugerir infecção urinária, as alterações cervicais ao exame físico apontam para cervicite como origem mais provável dos sintomas.",
+        "A etiologia mais provável é Chlamydia trachomatis, sem excluir coinfecção por Neisseria gonorrhoeae."
+      ]
+    },
+    {
+      "title": "Diagnósticos diferenciais",
+      "type": "table",
+      "headers": [
+        "Diagnóstico",
+        "Argumentos a favor",
+        "Argumentos contra"
+      ],
+      "rows": [
+        [
+          "Cervicite por Chlamydia trachomatis",
+          "Colo friável, secreção endocervical, parceiro com uretrite, sangramento pós-coital",
+          "Bacterioscopia negativa não exclui; confirmação requer NAAT."
+        ],
+        [
+          "Cervicite por Mycoplasma genitalium",
+          "Pode causar cervicite e uretrite com quadro semelhante à clamídia",
+          "Necessita teste molecular específico; menos provável como etiologia inicial."
+        ],
+        [
+          "Cervicite gonocócica",
+          "Parceiro com uretrite e secreção endocervical",
+          "Ausência de diplococos gram-negativos reduz a probabilidade, mas não exclui o diagnóstico."
+        ],
+        [
+          "Trichomonas vaginalis",
+          "Pode causar cervicite e corrimento vaginal",
+          "Ausência de sinais típicos de vaginite, como odor forte e prurido importante."
+        ],
+        [
+          "Cistite bacteriana",
+          "Disúria",
+          "Ausência de urgência, polaciúria e dor suprapúbica; presença de alterações cervicais sugere origem genital."
+        ]
+      ]
+    },
+    {
+      "title": "Diagnóstico diferencial importante",
+      "type": "callout",
+      "content": "A doença inflamatória pélvica deve sempre ser considerada. Entretanto, a ausência de febre, dor pélvica e sinais de acometimento do trato genital superior torna essa hipótese menos provável no momento. Acompanhamento clínico é fundamental para detectar progressão do quadro."
+    },
+    {
+      "title": "Exames recomendados",
+      "type": "table",
+      "headers": [
+        "Exame",
+        "Justificativa prática"
+      ],
+      "rows": [
+        [
+          "NAAT para Chlamydia trachomatis e Neisseria gonorrhoeae",
+          "Método de escolha para confirmação etiológica."
+        ],
+        [
+          "Sorologia para HIV",
+          "Rastreamento de IST associada."
+        ],
+        [
+          "Sorologia para sífilis",
+          "Investigação complementar obrigatória em contexto de IST."
+        ],
+        [
+          "NAAT para Trichomonas vaginalis",
+          "Considerar em casos selecionados ou persistência dos sintomas."
+        ],
+        [
+          "NAAT para Mycoplasma genitalium",
+          "Indicado em cervicite persistente ou recorrente após tratamento inicial, quando disponível."
+        ]
+      ]
+    },
+    {
+      "title": "Tratamento recomendado",
+      "type": "bullets",
+      "items": [
+        "As diretrizes recomendam tratamento presuntivo em pacientes com risco aumentado para IST, sem necessidade de aguardar confirmação laboratorial.",
+        "Doxiciclina 100 mg por via oral a cada 12 horas durante 7 dias é o esquema preferencial.",
+        "Considerar ceftriaxona intramuscular em dose única quando houver risco elevado de gonorreia, alta prevalência local ou impossibilidade de excluir essa etiologia.",
+        "Todos os parceiros sexuais dos últimos 60 dias devem ser avaliados e tratados adequadamente."
+      ]
+    },
+    {
+      "title": "Medicamento-chave no caso: doxiciclina",
+      "type": "callout",
+      "content": "Doxiciclina 100 mg por via oral a cada 12 horas durante 7 dias é o tratamento preferencial para cervicite associada à Chlamydia trachomatis. O tratamento precoce reduz sintomas, interrompe a transmissão e diminui o risco de complicações como doença inflamatória pélvica e infertilidade."
+    },
+    {
+      "title": "Manejo do parceiro sexual",
+      "type": "bullets",
+      "items": [
+        "Avaliar e tratar os parceiros sexuais dos últimos 60 dias.",
+        "Orientar abstinência sexual até a conclusão do tratamento da paciente e do parceiro.",
+        "Investigar e tratar outras ISTs concomitantes quando indicado.",
+        "Reforçar medidas de prevenção e uso consistente de preservativos."
+      ]
+    },
+    {
+      "title": "Quando reavaliar",
+      "type": "bullets",
+      "items": [
+        "Persistência dos sintomas após o tratamento.",
+        "Suspeita de reinfecção por parceiro não tratado.",
+        "Baixa adesão terapêutica.",
+        "Possibilidade de infecção por Mycoplasma genitalium.",
+        "Aparecimento de sinais sugestivos de doença inflamatória pélvica."
+      ]
+    },
+    {
+      "title": "Seguimento",
+      "type": "bullets",
+      "items": [
+        "Realizar reteste para clamídia aproximadamente 3 meses após o tratamento devido à elevada taxa de reinfecção.",
+        "Reavaliar sintomas e adesão ao tratamento.",
+        "Garantir que os parceiros tenham recebido tratamento adequado.",
+        "Reforçar aconselhamento sobre prevenção de ISTs."
+      ]
+    },
+    {
+      "title": "O que evitar",
+      "type": "bullets",
+      "items": [
+        "Assumir que toda disúria feminina representa infecção urinária.",
+        "Aguardar confirmação laboratorial em pacientes com alto risco para IST antes de iniciar tratamento.",
+        "Deixar de avaliar ou tratar o parceiro sexual.",
+        "Liberar atividade sexual antes da conclusão do tratamento de ambos.",
+        "Ignorar persistência dos sintomas após o tratamento inicial."
+      ]
+    },
+    {
+      "title": "Mensagem final para o estudante",
+      "type": "callout",
+      "content": "Em mulheres com disúria associada a sangramento pós-coital, secreção endocervical ou colo friável, pense em cervicite por IST antes de concluir que se trata de infecção urinária. O tratamento adequado inclui doxiciclina, investigação de outras ISTs e manejo obrigatório do parceiro sexual."
+    }
+  ],
+      "sourceFile": "disuria-cervicite-corrimento-mucoide-001.txt",
+      "referencesNote": "As referências numéricas foram preservadas conforme o material-fonte enviado.",
+      "references": [
+        {
+          "title": "Sexually Transmitted Infections Treatment Guidelines, 2021",
+          "year": "2021",
+          "note": "Guideline do Centers for Disease Control and Prevention publicado no MMWR por Workowski et al.; base para diagnóstico e tratamento de cervicite e gonorreia.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34292926/"
+        },
+        {
+          "title": "2021 European guideline on the management of Mycoplasma genitalium infections",
+          "year": "2022",
+          "note": "Guideline europeu por Jensen et al.; referência para investigação e tratamento de Mycoplasma genitalium.",
+          "url": "https://iusti.org/wp-content/uploads/2022/03/Jensen-et-al_Published.pdf"
+        },
+        {
+          "title": "Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2024 Update by IDSA and ASM",
+          "year": "2024",
+          "note": "Guideline em Clinical Infectious Diseases por Miller et al.; base para uso de testes microbiológicos, incluindo testes de amplificação de ácido nucleico.",
+          "url": "https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciae104/7619499"
+        }
+      ],
+      "deepDiveQuestions": [
+        {
+          "question": "Qual é a dose de ceftriaxona recomendada se eu optar por cobertura para gonorreia?",
+          "answer": "Para cobertura de gonorreia não complicada em adulto, usar ceftriaxona por via intramuscular em dose única.\n\nDose usual: 500 mg por via intramuscular, dose única, para pacientes com menos de 150 kg.\n\nSe peso igual ou maior que 150 kg: 1 g por via intramuscular, dose única.\n\nSe clamídia ainda não foi excluída, associar doxiciclina 100 mg por via oral a cada 12 horas por 7 dias, salvo contraindicação.\n\nMensagem prática: ceftriaxona trata a gonorreia; doxiciclina entra quando clamídia não foi descartada."
+        },
+        {
+          "question": "Devo adicionar azitromicina ao esquema de ceftriaxona para tratar possíveis coinfecções?",
+          "answer": "Não adicionar azitromicina rotineiramente à ceftriaxona apenas para 'cobrir coinfecções'.\n\nNo tratamento de gonorreia, a base é ceftriaxona em dose única. Se infecção por Chlamydia trachomatis não foi excluída, a associação recomendada é doxiciclina, não azitromicina de rotina.\n\nAzitromicina fica reservada para situações específicas, como alguns esquemas alternativos quando ceftriaxona não pode ser usada, ou quando houver orientação especializada.\n\nMensagem prática: evitar polifarmácia automática. Tratar gonorreia com ceftriaxona e cobrir clamídia com doxiciclina quando necessário."
+        }
+      ]
+    }
+  },
+  {
+    "id": "disuria-litiase-polo-inferior-001",
+    "title": "José, 55 anos",
+    "topic": "Litíase renal assintomática",
+    "opening": "José, 55 anos, assintomático, trouxe exames de rotina.",
+    "clinicalSections": [
+      {
+        "title": "Primeiras dicas",
+        "items": [
+          "O achado foi identificado incidentalmente em exame de imagem de rotina.",
+          "O paciente nega dor lombar, febre, disúria ou hematúria macroscópica.",
+          "Não há sinais clínicos de infecção urinária ou obstrução aguda."
+        ]
+      },
+      {
+        "title": "Dicas intermediárias",
+        "items": [
+          "A ultrassonografia descreve foco hiperecogênico no rim esquerdo.",
+          "O achado está localizado no polo inferior do rim esquerdo.",
+          "Não há dilatação do sistema coletor renal ao exame."
+        ]
+      },
+      {
+        "title": "Dicas PLUS",
+        "items": [
+          "A ultrassonografia descreve imagem hiperecogênica com sombra acústica posterior.",
+          "A lesão mede aproximadamente 13 mm no maior diâmetro.",
+          "O paciente permanece sem sintomas urinários durante a avaliação."
+        ]
+      }
+    ],
+    "teaching": {
+      "title": "Litíase renal assintomática",
+      "subtitle": "Material didático para estudo do tema associado ao caso clínico.",
+      "level": "Atenção Primária / Urologia / Prevenção de recorrência",
+      "summary": "Cálculo renal assintomático de polo inferior, com decisão compartilhada entre vigilância ativa e intervenção eletiva, além de prevenção metabólica.",
+      "learningObjectives": [
+      "Reconhecer cálculo renal não obstrutivo e assintomático como cenário sem urgência de intervenção.",
+      "Identificar fatores anatômicos e clínicos que influenciam a escolha terapêutica em cálculo de polo inferior.",
+      "Diferenciar vigilância ativa de intervenção eletiva em cálculo renal assintomático.",
+      "Selecionar exames de planejamento antes de decidir abordagem terapêutica.",
+      "Comparar litotripsia extracorpórea, ureteroscopia flexível e nefrolitotomia percutânea para cálculo de polo inferior maior que 1 cm."
+    ],
+    "sections": [
+      {
+        "title": "Raciocínio diagnóstico",
+        "type": "bullets",
+        "items": [
+          "O caso é compatível com cálculo renal não obstrutivo, assintomático, localizado no polo inferior.",
+          "O cálculo mede 13 mm, situando-se na faixa de 10–20 mm.",
+          "A ausência de dor, infecção e obstrução afasta necessidade de intervenção urgente.",
+          "O cenário permite vigilância ativa ou intervenção eletiva, com decisão compartilhada após avaliação complementar."
+        ]
+      },
+      {
+        "title": "Avaliação do caso",
+        "type": "table",
+        "headers": [
+          "Característica",
+          "Dado clínico",
+          "Relevância"
+        ],
+        "rows": [
+          [
+            "Tamanho",
+            "13 mm",
+            "Faixa de 10–20 mm; ureteroscopia flexível e nefrolitotomia percutânea são opções, com maior taxa livre de cálculo para a nefrolitotomia."
+          ],
+          [
+            "Localização",
+            "Polo inferior",
+            "Localização desfavorável para eliminação espontânea de fragmentos e para litotripsia extracorpórea."
+          ],
+          [
+            "Sintomas",
+            "Ausentes",
+            "Vigilância ativa é aceitável."
+          ],
+          [
+            "Obstrução",
+            "Ausente",
+            "Não há urgência de descompressão ou intervenção."
+          ],
+          [
+            "Infecção",
+            "Ausente",
+            "Sem indicação de cirurgia urgente por complicação infecciosa."
+          ]
+        ]
+      },
+      {
+        "title": "Diretriz clínica",
+        "type": "callout",
+        "content": "Pacientes adultos com cálculos renais não obstrutivos e assintomáticos podem ser manejados com vigilância ativa ou intervenção cirúrgica pré-emptiva. Para cálculos de polo inferior maiores que 1 cm, a litotripsia extracorpórea por ondas de choque não deve ser oferecida como primeira linha; a nefrolitotomia percutânea apresenta maiores taxas livres de cálculo quando comparada à litotripsia extracorpórea ou à ureteroscopia."
+      },
+      {
+        "title": "Exames antes da decisão terapêutica",
+        "type": "table",
+        "headers": [
+          "Exame",
+          "Justificativa prática"
+        ],
+        "rows": [
+           [
+            "Tomografia computadorizada de abdome sem contraste",
+            "Define tamanho exato, densidade em HU, distância pele-cálculo, volume e anatomia do polo inferior."
+          ],
+          [
+            "Urinálise",
+            "Avalia hematúria, cristalúria e sinais indiretos de infecção."
+          ],
+          [
+            "Urocultura",
+            "Obrigatória antes de qualquer intervenção para reduzir risco infeccioso perioperatório."
+          ],
+          [
+            "Avaliação metabólica com urina de 24 horas",
+            "Auxilia na prevenção de recorrência e na orientação dietética/metabólica."
+          ]
+        ]
+      },
+      {
+        "title": "Opção A: vigilância ativa",
+        "type": "bullets",
+        "items": [
+          "É aceitável em paciente assintomático, sem infecção e sem obstrução.",
+          "Deve ser discutida com o paciente, informando risco de crescimento, sintomas futuros e necessidade posterior de intervenção.",
+          "A história natural dos cálculos assintomáticos mostra crescimento em 11–49%, necessidade de intervenção em 12–55% e permanência assintomática em 23–68%.",
+          "O seguimento pode ser feito com imagem periódica, como ultrassonografia ou tomografia, a cada 6–12 meses."
+        ]
+      },
+      {
+        "title": "Opção B: intervenção eletiva",
+        "type": "bullets",
+        "items": [
+          "Pode ser considerada se o paciente preferir tratamento ativo, se houver crescimento do cálculo, dificuldade de acesso a serviços de urgência, ocupação de risco ou preocupação com eventos futuros.",
+          "Para cálculo de polo inferior de 13 mm, a litotripsia extracorpórea não é considerada tratamento de primeira linha.",
+          "A ureteroscopia flexível com litotripsia a laser é opção válida, especialmente quando há possibilidade de reposicionamento do cálculo.",
+          "A nefrolitotomia percutânea ou mini-nefrolitotomia percutânea oferecem maiores taxas livres de cálculo, porém com maior invasividade."
+        ]
+      },
+      {
+        "title": "Comparação das modalidades",
+        "type": "table",
+        "headers": [
+          "Modalidade",
+          "Papel no caso",
+          "Comentário didático"
+        ],
+        "rows": [
+          [
+            "Litotripsia extracorpórea por ondas de choque (SWL)",
+            "Evitar como primeira linha",
+            "Menor efetividade em cálculos de polo inferior maiores que 1 cm, pela dificuldade de eliminação dos fragmentos."
+          ],
+          [
+            "Ureteroscopia flexível com laser (FURS)",
+            "Opção válida",
+            "Adequada para cálculos menores que 2 cm; reposicionamento para cálice superior pode melhorar a taxa de eliminação completa."
+          ],
+          [
+            "Nefrolitotomia percutânea (PCNL)",
+            "Maior taxa livre de cálculo",
+            "Mais efetiva para cálculo de polo inferior maior que 1 cm, porém mais invasiva."
+          ],
+          [
+            "Mini-nefrolitotomia percutânea (Mini-PCNL)",
+            "Alternativa à PCNL padrão",
+            "Pode manter alta efetividade com menor morbidade em pacientes selecionados."
+          ]
+        ]
+      },
+      {
+        "title": "Legenda das siglas",
+        "type": "table",
+        "headers": [
+          "Sigla",
+          "Significado"
+        ],
+        "rows": [
+          [
+            "SWL",
+            "Shock Wave Lithotripsy (litotripsia extracorpórea por ondas de choque)."
+          ],
+          [
+            "FURS",
+            "Flexible Ureterorenoscopy (ureteroscopia flexível com litotripsia a laser)."
+          ],
+          [
+            "PCNL",
+            "Percutaneous Nephrolithotomy (nefrolitotomia percutânea)."
+          ],
+          [
+            "Mini-PCNL",
+            "Versão miniaturizada da nefrolitotomia percutânea, realizada com bainhas de menor calibre."
+          ]
+        ]
+      },
+      {
+        "title": "Procedimento-chave no caso: ureteroscopia flexível ou mini-PCNL",
+        "type": "callout",
+        "content": "Se José optar por intervenção eletiva, a ureteroscopia flexível com litotripsia a laser e reposicionamento do cálculo, quando tecnicamente possível, ou a mini-nefrolitotomia percutânea representam as opções mais alinhadas ao cenário de cálculo de polo inferior de 13 mm. A escolha depende da anatomia renal, densidade do cálculo, experiência da equipe e preferência do paciente."
+      },
+      {
+        "title": "O que evitar",
+        "type": "bullets",
+        "items": [
+          "Indicar intervenção urgente em paciente assintomático, sem infecção e sem obstrução.",
+          "Oferecer litotripsia extracorpórea por ondas de choque como primeira linha para cálculo de polo inferior maior que 1 cm.",
+          "Decidir intervenção sem tomografia adequada para planejamento.",
+          "Realizar procedimento sem urinálise e urocultura pré-operatórias.",
+          "Negligenciar avaliação metabólica e estratégias de prevenção de recorrência."
+        ]
+      },
+      {
+        "title": "Manutenção e seguimento",
+        "type": "bullets",
+        "items": [
+          "Realizar decisão compartilhada, explicando riscos e benefícios da vigilância ativa versus intervenção eletiva.",
+          "Se a vigilância ativa for escolhida, programar imagem seriada a cada 6–12 meses.",
+          "Reavaliar a estratégia caso surjam sintomas, infecção, obstrução ou crescimento do cálculo.",
+          "Orientar medidas preventivas gerais e investigar fatores metabólicos associados à recorrência.",
+          "Encaminhar para acompanhamento urológico regular."
+        ]
+      },
+      {
+        "title": "Mensagem final para o estudante",
+        "type": "callout",
+        "content": "Cálculo renal assintomático, não obstrutivo e sem infecção não exige tratamento imediato. Em cálculos de polo inferior com 13 mm, a vigilância ativa é uma opção válida. Quando o paciente opta por intervenção, a ureteroscopia flexível e a mini-nefrolitotomia percutânea costumam oferecer melhores resultados do que a litotripsia extracorpórea por ondas de choque."
+      }
+    ],
+
+      "sourceFile": "disuria-litiase-polo-inferior-001.txt",
+      "referencesNote": "As referências numéricas foram preservadas conforme o material-fonte enviado.",
+      "references": [
+        {
+          "title": "Surgical Management of Kidney and Ureteral Stones: AUA Guideline (2026) Part I",
+          "year": "2025",
+          "note": "Guideline no The Journal of Urology por Pearle et al.; base para vigilância ativa, intervenção e escolha de modalidade em cálculos renais.",
+          "url": "https://www.auanet.org/guidelines-and-quality/guidelines/kidney-stones-surgical-management-guideline"
+        },
+        {
+          "title": "Updated Systematic Review and Meta-analysis of Extracorporeal Shock Wave Lithotripsy, Flexible Ureterorenoscopy, and Percutaneous Nephrolithotomy for Lower Pole Renal Stones",
+          "year": "2025",
+          "note": "Revisão sistemática e metanálise em European Urology por MacLennan et al.; compara litotripsia extracorpórea, ureteroscopia flexível e nefrolitotomia percutânea em cálculos de polo inferior.",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0302283825000612"
+        },
+        {
+          "title": "A Prospective, Randomized Trial of Management for Asymptomatic Lower Pole Calculi",
+          "year": "2010",
+          "note": "Ensaio clínico no The Journal of Urology por Yuruk et al.; referência sobre manejo de cálculos assintomáticos de polo inferior.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20172565/"
+        }
+      ],
+      "deepDiveQuestions": [
+        {
+          "question": "Quais são os principais riscos de observar o cálculo versus realizar intervenção agora?",
+          "answer": "A decisão entre observar e intervir deve ser compartilhada com o paciente, considerando tamanho, localização, sintomas, risco de obstrução, risco de infecção e preferência individual.\n\nRiscos de observar: o cálculo pode crescer, migrar para o ureter, causar cólica renal, obstrução, hematúria, infecção ou necessidade futura de procedimento em contexto menos eletivo.\n\nRiscos de intervir agora: anestesia, sangramento, infecção, lesão de via urinária, dor pós-procedimento, necessidade de cateter duplo J, fragmentos residuais ou retratamento.\n\nPara cálculo de polo inferior com mais de 1 cm, litotripsia extracorpórea por ondas de choque tende a ter menor chance de deixar o paciente livre de cálculo. Ureteroscopia flexível e nefrolitotomia percutânea costumam ter melhor chance de remoção, mas são mais invasivas.\n\nMensagem prática: observar evita um procedimento imediato; intervir reduz o risco futuro relacionado ao cálculo, mas cria risco procedural no presente."
+        },
+        {
+          "question": "Qual a eficácia da terapia medicamentosa preventiva para reduzir crescimento de cálculos assintomáticos?",
+          "answer": "A terapia medicamentosa preventiva pode reduzir recorrência em pacientes selecionados, mas não deve ser apresentada como garantia de que um cálculo assintomático existente deixará de crescer.\n\nA primeira etapa é avaliação metabólica e orientação geral: aumentar ingestão hídrica, reduzir excesso de sódio, adequar cálcio dietético, moderar proteína animal e investigar alterações como hipercalciúria, hipocitratúria ou hiperuricosúria.\n\nTiazídicos podem ser considerados quando há hipercalciúria ou cálculos de cálcio recorrentes.\n\nCitrato de potássio pode ser útil quando há hipocitratúria, urina muito ácida ou cálculos de ácido úrico, conforme avaliação metabólica.\n\nAlopurinol pode ser considerado em pacientes com hiperuricosúria ou cálculos relacionados a ácido úrico, quando indicado.\n\nMensagem prática: medicamento preventivo não substitui decisão sobre observar ou tratar o cálculo atual. Ele entra melhor quando há recorrência ou alteração metabólica identificada."
+        }
+      ]
+    }
+  },
+  {
+    "id": "disuria-cistite-recorrente-001",
+    "title": "Ana, 42 anos",
+    "topic": "Cistite recorrente relacionada à atividade sexual",
+    "opening": "Ana, 42 anos, com exame de urina mostrando leucocitúria e nitritos positivos.",
+    "clinicalSections": [
+      {
+        "title": "Primeiras dicas",
+        "items": [
+          "O exame foi solicitado durante consulta de acompanhamento.",
+          "Refere episódios urinários semelhantes nos últimos anos.",
+          "No momento da consulta, encontra-se sem febre ou dor lombar."
+        ]
+      },
+      {
+        "title": "Dicas intermediárias",
+        "items": [
+          "A paciente não está grávida e não será submetida a procedimento urológico invasivo.",
+          "Relata três episódios de cistite nos últimos 12 meses.",
+          "Quadros anteriores de cistite foram confirmados por exame de urina."
+        ]
+      },
+      {
+        "title": "Dicas PLUS",
+        "items": [
+          "Os episódios estão relacionados à atividade sexual.",
+          "Não há anormalidades anatômicas conhecidas.",
+          "Apresenta novo episódio de disúria, polaciúria e urgência miccional iniciado após relação sexual há dois dias."
+        ]
+      }
+    ],
+    "teaching": {
+      "title": "Cistite recorrente relacionada à atividade sexual",
+      "subtitle": "Material didático para estudo do tema associado ao caso clínico.",
+      "level": "Atenção Primária / Saúde da Mulher / Infectologia ambulatorial",
+      "summary": "Cistite recorrente não complicada relacionada à atividade sexual, com tratamento do episódio atual, profilaxia pós-coital e estratégias poupadoras de antibiótico.",
+      "learningObjectives": [
+    "Reconhecer ITU não complicada recorrente em mulher adulta.",
+    "Identificar relação pós-coital como gatilho clínico relevante para recorrência.",
+    "Escolher tratamento adequado para o episódio agudo de cistite.",
+    "Planejar profilaxia pós-coital com menor exposição antibiótica.",
+    "Selecionar estratégias adjuvantes não antibióticas para prevenção de recorrência."
+  ],
+  "sections": [
+    {
+      "title": "Raciocínio diagnóstico",
+      "type": "bullets",
+      "items": [
+        "Ana preenche critérios de ITU recorrente, definida por três ou mais episódios em 12 meses.",
+        "O padrão temporal após atividade sexual sugere gatilho pós-coital bem definido.",
+        "O quadro é compatível com cistite recorrente não complicada, desde que não haja sinais de pielonefrite, obstrução, gestação, imunossupressão ou anormalidade urológica conhecida.",
+        "A abordagem deve contemplar tratamento do episódio atual e prevenção de novos episódios."
+      ]
+    },
+    {
+      "title": "Tratamento do episódio agudo atual",
+      "type": "table",
+      "headers": [
+        "Fármaco",
+        "Dose usual",
+        "Duração",
+        "Comentário didático"
+      ],
+      "rows": [
+        [
+          "Nitrofurantoína",
+          "100 mg a cada 12 h",
+          "5–7 dias",
+          "Opção de primeira linha para cistite não complicada, conforme perfil local de sensibilidade."
+        ],
+        [
+          "TMP-SMX",
+          "160/800 mg a cada 12 h",
+          "3–5 dias",
+          "Opção de primeira linha quando a resistência local for baixa ou houver sensibilidade documentada."
+        ],
+        [
+          "Fosfomicina",
+          "3 g dose única",
+          "1 dia",
+          "Opção conveniente em dose única para cistite baixa não complicada."
+        ]
+      ]
+    },
+    {
+      "title": "Exames recomendados",
+      "type": "table",
+      "headers": [
+        "Exame",
+        "Justificativa prática"
+      ],
+      "rows": [
+        [
+          "Urocultura com antibiograma",
+          "Recomendada antes do tratamento sempre que possível, por se tratar de ITU recorrente."
+        ],
+        [
+          "Urina tipo I",
+          "Pode apoiar o diagnóstico ao demonstrar piúria, bacteriúria, hematúria ou nitrito positivo."
+        ],
+        [
+          "Imagem do trato urinário",
+          "Não indicada rotineiramente na ausência de fatores de risco, complicações ou achados atípicos."
+        ],
+        [
+          "Cistoscopia",
+          "Não indicada de rotina em ITU recorrente não complicada sem sinais de alarme."
+        ]
+      ]
+    },
+    {
+      "title": "Profilaxia preferencial: pós-coital",
+      "type": "callout",
+      "content": "Como os episódios de Ana têm relação clara com atividade sexual, a profilaxia pós-coital é a estratégia preferencial. Ela apresenta eficácia semelhante à profilaxia antibiótica contínua, mas com menor exposição cumulativa a antibióticos e menor risco de efeitos adversos."
+    },
+    {
+      "title": "Opções de profilaxia pós-coital",
+      "type": "table",
+      "headers": [
+        "Fármaco",
+        "Dose única após relação sexual",
+        "Comentário didático"
+      ],
+      "rows": [
+        [
+          "Nitrofurantoína",
+          "50–100 mg",
+          "Opção frequente para profilaxia pós-coital."
+        ],
+        [
+          "TMP-SMX",
+          "40/200 mg ou 80/400 mg",
+          "Alternativa eficaz, considerando alergias, tolerância e resistência local."
+        ],
+        [
+          "Trimetoprima",
+          "100 mg",
+          "Pode ser considerada quando disponível e adequada ao perfil microbiológico."
+        ],
+        [
+          "Cefalexina",
+          "250 mg",
+          "Alternativa beta-lactâmica em pacientes selecionadas."
+        ]
+      ]
+    },
+    {
+      "title": "Estratégias não antibióticas adjuvantes",
+      "type": "table",
+      "headers": [
+        "Estratégia",
+        "Conduta prática",
+        "Comentário didático"
+      ],
+      "rows": [
+        [
+          "Metenamina hipurato",
+          "1 g a cada 12 h",
+          "Alternativa não antibiótica para prevenção, especialmente em pacientes com bexiga anatomicamente íntegra."
+        ],
+        [
+          "Cranberry",
+          "Produto com ≥36 mg de PAC/dia",
+          "Pode reduzir recorrências em mulheres com ITU recorrente; efeito depende da formulação e dose de proantocianidinas."
+        ],
+        [
+          "Hidratação aumentada",
+          "Aumentar ingestão hídrica em cerca de 1,5 L/dia, quando não houver contraindicação",
+          "Pode reduzir a frequência de novos episódios em mulheres com baixa ingestão hídrica basal."
+        ],
+        [
+          "D-manose",
+          "Não usar como estratégia isolada de primeira linha",
+          "Evidência recente não demonstrou benefício consistente em comparação ao placebo."
+        ],
+        [
+          "Estrogênio vaginal",
+          "Indicado apenas em peri ou pós-menopausa com hipoestrogenismo",
+          "Não se aplica ao caso de Ana, que é pré-menopáusica sem hipoestrogenismo relatado."
+        ]
+      ]
+    },
+    {
+      "title": "Conduta recomendada para Ana",
+      "type": "bullets",
+      "items": [
+        "Coletar urocultura com antibiograma antes do antibiótico, se isso não atrasar indevidamente o cuidado.",
+        "Tratar o episódio atual com nitrofurantoína, TMP-SMX ou fosfomicina, conforme perfil de resistência local e histórico da paciente.",
+        "Iniciar profilaxia pós-coital, preferencialmente com nitrofurantoína 50–100 mg ou TMP-SMX 40/200 mg a 80/400 mg após relação sexual.",
+        "Oferecer medidas adjuvantes, como aumento de hidratação e cranberry com dose adequada de PAC.",
+        "Reavaliar resposta, recorrências e tolerância após 6–12 meses."
+      ]
+    },
+    {
+      "title": "O que evitar",
+      "type": "bullets",
+      "items": [
+        "Tratar repetidamente sem obter urocultura em paciente com ITU recorrente.",
+        "Usar profilaxia antibiótica contínua como primeira escolha quando há gatilho pós-coital claro.",
+        "Solicitar cistoscopia ou imagem de rotina na ausência de sinais de complicação.",
+        "Indicar D-manose como estratégia isolada de primeira linha.",
+        "Usar estrogênio vaginal em mulher pré-menopáusica sem evidência de hipoestrogenismo."
+      ]
+    },
+    {
+      "title": "Manutenção e seguimento",
+      "type": "bullets",
+      "items": [
+        "Registrar frequência dos episódios, relação com atividade sexual, antibióticos utilizados e resultados de culturas.",
+        "Revisar adesão, efeitos adversos e eficácia da profilaxia pós-coital.",
+        "Reavaliar necessidade de manter, suspender ou modificar profilaxia após 6–12 meses.",
+        "Considerar metenamina hipurato como alternativa poupadora de antibiótico em pacientes selecionadas.",
+        "Investigar fatores de risco adicionais se houver hematúria persistente, sintomas atípicos, pielonefrite recorrente, falha terapêutica ou suspeita de anormalidade anatômica."
+      ]
+    },
+    {
+      "title": "Mensagem final para o estudante",
+      "type": "callout",
+      "content": "Em mulher com ITU recorrente e relação clara com atividade sexual, pense em profilaxia pós-coital antes de indicar profilaxia contínua. Trate o episódio atual com esquema curto apropriado, colete cultura sempre que possível e reserve investigação urológica para casos com fatores de risco ou evolução atípica."
+    }
+  ],
+      "sourceFile": "disuria-cistite-recorrente-001.txt",
+      "referencesNote": "As referências numéricas foram preservadas conforme o material-fonte enviado.",
+      "references": [
+        {
+          "title": "Recurrent Uncomplicated Urinary Tract Infections in Women: AUA/CUA/SUFU Guideline",
+          "year": "2019",
+          "note": "Guideline publicado no The Journal of Urology por Anger et al.; base para diagnóstico, tratamento e prevenção da infecção urinária recorrente em mulheres.",
+          "url": "https://www.auanet.org/guidelines-and-quality/guidelines/recurrent-uti"
+        },
+        {
+          "title": "State-of-the-Art Review: Recurrent Uncomplicated Urinary Tract Infections in Women",
+          "year": "2025",
+          "note": "Revisão narrativa em Clinical Infectious Diseases por Advani et al.; síntese contemporânea sobre manejo ambulatorial e prevenção.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40095960/"
+        },
+        {
+          "title": "Guidelines for the Prevention, Diagnosis, and Management of Urinary Tract Infections in Pediatrics and Adults",
+          "year": "2024",
+          "note": "Guideline e revisão sistemática em JAMA Network Open por Nelson et al.; referência ampla para infecção do trato urinário em adultos.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39495518/"
+        },
+        {
+          "title": "Alternative to prophylactic antibiotics for the treatment of recurrent urinary tract infections in women",
+          "year": "2022",
+          "note": "Ensaio clínico no BMJ por Harding et al.; base para uso de metenamina como alternativa poupadora de antibiótico.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35264408/"
+        },
+        {
+          "title": "d-Mannose for Prevention of Recurrent Urinary Tract Infection Among Women",
+          "year": "2024",
+          "note": "Ensaio clínico em JAMA Internal Medicine por Hayward et al.; referência para a recomendação de não usar D-manose como estratégia isolada de primeira linha.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38587819/"
+        }
+      ],
+      "deepDiveQuestions": [
+        {
+          "question": "Quando devo solicitar urocultura antes de iniciar o tratamento empírico?",
+          "answer": "Em paciente com infecção urinária recorrente, a urocultura deve ser colhida antes do antibiótico sempre que possível.\n\nSolicitar urocultura antes do tratamento em cada episódio sintomático de cistite recorrente, pois ela confirma o diagnóstico, identifica resistência e orienta a escolha do antibiótico para tratamento e prevenção.\n\nA urocultura é especialmente importante se houver falha terapêutica prévia, uso recente de antibiótico, suspeita de bactéria resistente, recidiva em menos de 2 semanas, sintomas atípicos ou sinais de pielonefrite.\n\nNão pedir urocultura de controle se os sintomas desaparecerem completamente, exceto em situações especiais, como gestação ou indicação urológica específica.\n\nMensagem prática: em cistite recorrente, tratar sem cultura repetidamente faz perder a chance de reconhecer resistência e confirmar que os sintomas são realmente infecciosos."
+        },
+        {
+          "question": "Quando considerar profilaxia antibiótica contínua como tratamento de segunda linha?",
+          "answer": "A profilaxia antibiótica contínua é considerada quando a profilaxia pós-coital não é eficaz, não é aplicável ou não é aceita pela paciente, e após tentativa de medidas comportamentais e estratégias poupadoras de antibiótico.\n\nOs esquemas mais utilizados incluem nitrofurantoína 50–100 mg/noite, TMP-SMX 40/200 mg/noite ou cefalexina 125–250 mg/noite por 6 a 12 meses.\n\nA decisão deve ser individualizada devido ao risco de resistência bacteriana, eventos adversos e alteração da microbiota. O tratamento deve ser reavaliado periodicamente e suspenso quando possível.\n\nMensagem prática: profilaxia contínua não é a primeira escolha para Ana; ela é reservada para falha ou impossibilidade da profilaxia pós-coital."
+        },
+        {
+          "question": "Quais antibióticos podem ser utilizados quando os tratamentos de primeira linha não são adequados ou quando a infecção é considerada complicada?",
+          "answer": "Algumas situações exigem alternativas terapêuticas, como alergias, resistência bacteriana, falha clínica, indisponibilidade dos medicamentos de primeira linha ou presença de infecção urinária complicada.\n\nAlternativas para cistite não complicada, quando não é possível utilizar os esquemas de primeira linha, incluem cefalexina, cefuroxima axetil e amoxicilina-clavulanato.\n\nEsquemas possíveis:\n\tFármaco\tDose\tDuração \n\t» Cefalexina \t500 mg a cada 6 horas \tpor 5–7 dias.\n\t » Cefuroxima axetil \t250–500 mg a cada 12 horas \tpor 5–7 dias.\n\t» Amoxicilina-clavulanato \t875/125 mg a cada 12 horas \tpor 5–7 dias.\n\nA escolha deve considerar resultados prévios de urocultura, perfil local de resistência, alergias, função renal, gestação e uso recente de antibióticos.\n\nNas infecções urinárias complicadas, especialmente em pacientes com obstrução urinária, alterações anatômicas, litíase, imunossupressão, cateter urinário, sexo masculino, falha terapêutica ou suspeita de acometimento do trato urinário superior, deve-se coletar urocultura e avaliar gravidade clínica.\n\nEm casos selecionados de infecção urinária complicada, podem ser utilizados antibióticos como amoxicilina-clavulanato, cefuroxima, ceftriaxona, ciprofloxacino ou levofloxacino. A escolha deve ser guiada pelo antibiograma sempre que possível.\n\nCiprofloxacino e levofloxacino têm boa penetração tecidual e atividade contra muitos uropatógenos, mas não devem ser usados como primeira escolha em cistite não complicada quando houver alternativas mais seguras.\n\nAs quinolonas devem ser reservadas para situações específicas, como resistência ou contraindicação aos antibióticos preferenciais, infecção complicada selecionada, pielonefrite ambulatorial em paciente estável ou quando o antibiograma justificar seu uso.\n\nSeus principais riscos incluem tendinite e ruptura de tendão, neuropatia periférica potencialmente persistente, efeitos neuropsiquiátricos, prolongamento do intervalo QT, disglicemias, maior risco de infecção por Clostridioides difficile e possível associação com aneurisma ou dissecção de aorta em pacientes predispostos.\n\nMensagem prática: em cistite simples, evitar escalonar desnecessariamente. Em cistite complicada, colher urocultura, avaliar gravidade e escolher o antibiótico conforme risco clínico e antibiograma. Quinolonas são úteis, mas devem ser poupadas quando houver alternativas eficazes e mais seguras."
+        },
+        {
+          "question": "Existe risco de resistência bacteriana com uso repetido de nitrofurantoína pós-coital?",
+          "answer": "Sim, existe risco de seleção de resistência com uso repetido de nitrofurantoína, embora a profilaxia pós-coital costume expor a paciente a menos antibiótico do que a profilaxia diária contínua.\n\nA decisão deve equilibrar benefício individual, frequência das crises, padrão de sensibilidade das culturas anteriores e risco de efeitos adversos.\n\nPara reduzir risco: usar profilaxia apenas quando houver relação clara com atividade sexual, preferir a menor exposição eficaz, colher urocultura nos episódios sintomáticos e reavaliar periodicamente a necessidade da profilaxia.\n\nSe ocorrer infecção apesar da profilaxia, ou se a cultura mostrar bactéria resistente à nitrofurantoína, trocar a estratégia: outro antibiótico pós-coital conforme antibiograma ou opção poupadora de antibiótico, como metenamina, quando apropriado.\n\nMensagem prática: nitrofurantoína pós-coital pode ser útil, mas não deve virar prescrição automática sem culturas e reavaliação."
+        }
+      ]
+    }
+  }
+]

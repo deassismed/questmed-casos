@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "GR8I3",
+    "title": "Maria, 36 anos",
+    "stem": "Maria, 36 anos, com disúria há 3 dias.",
+    "question": "Qual é o tratamento inicial recomendado?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "A paciente refere aumento da frequência urinária no mesmo período.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Além de urgência miccional, a paciente apresenta desconforto suprapúbico.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Diz ter percebido sensação de esvaziamento incompleto da bexiga, e leve hematúria macroscópica.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "A paciente relata início de febre (38,5 °C) nas últimas 24 horas, acompanhada de calafrios.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Refere dor em flanco direito, contínua, com irradiação para a região lombar.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Além dos sintomas urinários, apresenta náuseas e mal-estar geral.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "A paciente informa atraso menstrual de aproximadamente 8 semanas e refere teste de gravidez de farmácia positivo.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "Realizou consulta de pré-natal recente, com confirmação de gestação única intrauterina no primeiro trimestre.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "Ao exame, encontra-se em bom estado geral, hidratada, normotensa, sem taquicardia e sem sinais de sepse, embora mantenha febre baixa e dor em flanco.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Nitrofurantoína por via oral por 5 dias."
+      },
+      {
+        "id": "B",
+        "text": "Fosfomicina trometamol por via oral em dose única."
+      },
+      {
+        "id": "C",
+        "text": "Cefalexina por via oral por 7 dias após coleta de urocultura."
+      },
+      {
+        "id": "D",
+        "text": "Ceftriaxona intravenosa em regime hospitalar."
+      },
+      {
+        "id": "E",
+        "text": "Ciprofloxacino intravenoso em regime hospitalar."
+      },
+      {
+        "id": "F",
+        "text": "Hidratação, analgesia e investigação ambulatorial de nefrolitíase."
+      }
+    ],
+    "correctOptionId": "D"
+  },
+  {
+    "id": "K7M2Q",
+    "title": "João, 61 anos",
+    "stem": "João, 61 anos, procura o PS por desconforto no trato urinário há 12 horas.",
+    "question": "Qual é a conduta imediata mais adequada?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "O paciente relata jato urinário fraco há cerca de 3 meses.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Refere gotejamento terminal e sensação de esvaziamento incompleto da bexiga.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Refere aumento da frequência urinária noturna nas últimas semanas.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Refere piora importante do desconforto suprapúbico nas últimas horas.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "À palpação abdominal, observa-se abaulamento doloroso em região suprapúbica.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "O paciente encontra-se ansioso e desconfortável, mas hemodinamicamente estável.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "Relata febre baixa e dor perineal nas últimas 48 horas.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "Ao toque retal, a próstata encontra-se aumentada e bastante sensível à palpação.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "O hemograma evidencia leucocitose com neutrofilia, e o exame de urina mostra piúria.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Sondagem vesical de demora e alta após alívio dos sintomas."
+      },
+      {
+        "id": "B",
+        "text": "Drenagem urinária associada à antibioticoterapia e avaliação urológica."
+      },
+      {
+        "id": "C",
+        "text": "Finasterida e seguimento ambulatorial."
+      },
+      {
+        "id": "D",
+        "text": "Passagem de cateter ureteral duplo J."
+      },
+      {
+        "id": "E",
+        "text": "Antibioticoterapia oral e reavaliação ambulatorial em 48 horas."
+      },
+      {
+        "id": "F",
+        "text": "Solicitar PSA total antes de qualquer intervenção."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": "V9P4X",
+    "title": "Carla, 35 anos",
+    "stem": "Carla, 35 anos, com desconforto ao urinar há 10 dias",
+    "question": "Considerando a hipótese mais provável, qual é a melhor conduta terapêutica?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "O desconforto ao urinar começou de forma insidiosa, sem dor intensa em baixo ventre.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Relata relação sexual sem preservativo cerca de duas semanas antes do início dos sintomas.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Nega febre, dor lombar, náuseas ou vômitos.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Relata corrimento vaginal discreto, sem odor forte e sem prurido vulvar importante.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Ela refere pequeno sangramento após relação sexual nos últimos dias.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Conta que o parceiro sexual recente apresentou ardor ao urinar, mas não procurou atendimento.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "Ao exame especular, observa-se colo uterino friável, com discreta secreção endocervical.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "Os sintomas permanecem restritos ao trato genital inferior.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "A bacterioscopia não evidenciou diplococos gram-negativos.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Doxiciclina por 7 dias, com avaliação/tratamento do parceiro."
+      },
+      {
+        "id": "B",
+        "text": "Fluconazol dose única. Tratar parceiro com Metronidazol dose única."
+      },
+      {
+        "id": "C",
+        "text": "Metronidazol por 7 dias para a paciente e o seu parceiro sexual."
+      },
+      {
+        "id": "D",
+        "text": "Ceftriaxona IM isoladamente em dose única."
+      },
+      {
+        "id": "E",
+        "text": "Ceftriaxona + doxiciclina + metronidazol por 14 dias. Orientar parceiro a procurar atendimento."
+      },
+      {
+        "id": "F",
+        "text": "Metronidazol creme vaginal por 14 noites seguidas. Fluconazol via oral para o parceiro."
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "id": "T3N8A",
+    "title": "José, 55 anos",
+    "stem": "José, 55 anos, assintomático, trouxe exames de rotina.",
+    "question": "Qual é a indicação terapêutica mais adequada?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "O achado foi identificado incidentalmente em exame de imagem de rotina.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "O paciente nega dor lombar, febre, disúria ou hematúria macroscópica.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Não há sinais clínicos de infecção urinária ou obstrução aguda.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "A ultrassonografia descreve foco hiperecogênico no rim esquerdo.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "O achado está localizado no polo inferior do rim esquerdo.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Não há dilatação do sistema coletor renal ao exame.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "A ultrassonografia descreve imagem hiperecogênica com sombra acústica posterior.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "A lesão mede aproximadamente 13 mm no maior diâmetro.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "O paciente manifesta interesse de realização procedimento cirúrgico.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Realizar novo exame de imagem para confirmação do achado."
+      },
+      {
+        "id": "B",
+        "text": "Tratamento curúrgico eletivo, como ureteroscopia flexível com litotripsia a laser."
+      },
+      {
+        "id": "C",
+        "text": "Tratamento clínico exclusivo com citrato de potássio."
+      },
+      {
+        "id": "D",
+        "text": "Nenhuma intervenção, pois o paciente está assintomático."
+      },
+      {
+        "id": "E",
+        "text": "Tratamento cirúrgico de urgência, como a litotripsia extracorpórea como primeira linha."
+      },
+      {
+        "id": "F",
+        "text": "Vigilância ativa com programação de imagem seriada a cada 6-12 meses."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": "L6C5R",
+    "title": "Ana, 42 anos",
+    "stem": "Ana, 42 anos, com exame de urina mostrando leucocitúria e nitritos positivos.",
+    "question": "Qual a próxima etapa mais apropriada no manejo desta paciente?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "O exame foi solicitado durante consulta de acompanhamento.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Refere episódios urinários semelhantes nos últimos anos.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "No momento da consulta, encontra-se sem febre ou dor lombar.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "A paciente não está grávida e não será submetida a procedimento urológico invasivo.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Relata três episódios de cistite nos últimos 12 meses.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Quadros anteriores de cistite foram confirmados por exame de urina",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "Os episódios estão relacionados à atividade sexual.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "Não há anormalidades anatômicas conhecidas.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "Apresenta novo episódio de disúria, polaciúria e urgência miccional iniciado após relação sexual há dois dias.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Iniciar antibioticoterapia empírica e realizar urocultura pós-tratamento."
+      },
+      {
+        "id": "B",
+        "text": "Solicitar tomografia de abdome e pelve para investigação complementar."
+      },
+      {
+        "id": "C",
+        "text": "Tratar o episódio atual e orientar profilaxia pós-coito."
+      },
+      {
+        "id": "D",
+        "text": "Solicitar cistoscopia de rotina."
+      },
+      {
+        "id": "E",
+        "text": "Prescrever antibioticoterapia contínua por tempo indeterminado."
+      },
+      {
+        "id": "F",
+        "text": "Não realizar qualquer intervenção ou acompanhamento."
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "id": "7XPD9",
+    "title": "Pedro, 56 anos",
+    "stem": "Pedro é um homem de 56 anos que procura atendimento em pronto-socorro com tosse cheia.",
+    "question": "Qual é a melhor terapia empírica para Pedro?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "O paciente procura atendimento por um quadro agudo de tosse com apenas 3 dias de evolução.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Ele apresenta febre, calafrios, mal-estar e tosse produtiva.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "A avaliação laboratorial mostra leucocitose (14.400 leucócitos/μL).",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Há relato de dor torácica pleurítica, sugerindo acometimento pulmonar.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Os demais sinais vitais estão normais, sem indicação de instabilidade hemodinâmica.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "O paciente não possui doenças crônicas ou comorbidades relevantes.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "Ele não utilizou antibióticos nos últimos 5 anos.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "A radiografia de tórax evidencia consolidação em lobo inferior direito.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "O quadro clínico é compatível com infecção do trato respiratório inferior.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Doxiciclina 100 mg VO duas vezes ao dia."
+      },
+      {
+        "id": "B",
+        "text": "Cefuroxima axetil 250 mg VO duas vezes ao dia."
+      },
+      {
+        "id": "C",
+        "text": "Levofloxacino 750 mg VO uma vez ao dia."
+      },
+      {
+        "id": "D",
+        "text": "Trimetoprim-sulfametoxazol (160/800 mg) VO duas vezes ao dia."
+      },
+      {
+        "id": "E",
+        "text": "Azitromicina 500 mg no primeiro dia, seguida de 250 mg VO diariamente por mais 4 dias."
+      },
+      {
+        "id": "F",
+        "text": "Amoxicilina-clavulanato 875/125 mg VO duas vezes ao dia por 5 dias."
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "id": "F7R83",
+    "title": "Helena, 38 anos",
+    "stem": "Helena é uma mulher de 38 anos que procura atendimento com tosse seca.",
+    "question": "Qual é a melhor conduta para Helena?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Trata-se de uma mulher de 38 anos, sem comorbidades mencionadas.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Os sintomas tiveram início há 3 dias.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Vários colegas de trabalho adoeceram recentemente.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "O quadro iniciou-se de forma abrupta.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Há febre, mal-estar e cefaleia intensa.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "A paciente refere tosse seca e congestão nasal.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "A intensidade dos sintomas foi suficiente para deixá-la acamada por vários dias.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "Cenário epidemiológico sazonal favorável a infecções respiratórias virais.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "O quadro clínico e epidemiológico aponta para etiologia viral respiratória sazonal.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Azitromicina 500 mg, seguida de 250 mg VO diariamente por mais 4 dias."
+      },
+      {
+        "id": "B",
+        "text": "Amoxicilina-clavulanato 875 mg VO duas vezes ao dia por 5 dias."
+      },
+      {
+        "id": "C",
+        "text": "Oseltamivir 75 mg VO duas vezes ao dia por 5 dias."
+      },
+      {
+        "id": "D",
+        "text": "Apenas tratamento sintomático."
+      },
+      {
+        "id": "E",
+        "text": "Baloxavir 40 mg VO em dose única."
+      },
+      {
+        "id": "F",
+        "text": "Doxiciclina 100 mg VO duas vezes ao dia por 5 dias."
+      }
+    ],
+    "correctOptionId": "D"
+  },
+  {
+    "id": "7QHM9",
+    "title": "Paloma, 56 anos",
+    "stem": "Uma mulher de 56 anos com disúria e EAS para mostrar.",
+    "question": "Qual é a terapia antibiótica mais apropriada?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Apresenta sintomas urinários há 3 dias.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Há disúria, urgência e aumento da frequência urinária.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Possui antecedentes de diabetes e hipertensão.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "A urina está turva e com odor fétido.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Apresenta febre, como sinal sistêmico.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "A urinocultura identificou E. coli suscetível à ciprofloxacina e à nitrofurantoína.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "A tomografia não mostra abscesso renal nem obstrução urinária.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "A apresentação clínica não corresponde a um quadro urinário baixo simples e autolimitado.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "A duração do tratamento deve ser ajustada à maior complexidade do caso",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "5 dias de trimetoprim-sulfametoxazol."
+      },
+      {
+        "id": "B",
+        "text": "7 dias de ciprofloxacina."
+      },
+      {
+        "id": "C",
+        "text": "10 dias de cefalexina."
+      },
+      {
+        "id": "D",
+        "text": "14 dias de fosfomicina."
+      },
+      {
+        "id": "E",
+        "text": "Nitrofurantoína 100 mg VO 12/12 h por 5 dias."
+      },
+      {
+        "id": "F",
+        "text": "Ceftriaxona 1 g IV por 14 dias."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": "JZDSL",
+    "title": "Aildete, 63 anos",
+    "stem": "Aildete é uma mulher de 63 anos que procura o pronto-socorro com dor na perna esquerda.",
+    "question": "Qual é a melhor terapia empírica para Aildete?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          { 
+            "id": "dica-1",
+            "text": "O quadro acomete o membro inferior esquerdo.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "A perna esquerda encontra-se significativamente edemaciada.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Os sintomas pioraram significativamente nas últimas 24 horas.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Há dor intensa e eritema extenso.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Existe importante edema da extremidade.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Observam-se grandes bolhas na área acometida.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "O processo infeccioso apresenta progressão rápida.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "Há crepitação nos tecidos moles, sugerindo produção de gás por microrganismos.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "O quadro é compatível com uma infecção necrosante de partes moles, potencialmente polimicrobiana e com risco de vida.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Vancomicina 15 mg/kg IV a cada 12 horas."
+      },
+      {
+        "id": "B",
+        "text": "Piperacilina-tazobactam 4,5 g IV a cada 8 horas."
+      },
+      {
+        "id": "C",
+        "text": "Vancomicina 15 mg/kg IV a cada 12 horas + meropenem 1 g IV a cada 8 horas + clindamicina 900 mg IV a cada 8 horas."
+      },
+      {
+        "id": "D",
+        "text": "Linezolida 600 mg IV a cada 12 horas + ceftriaxona 1 g IV a cada 24 horas + azitromicina 500 mg IV diariamente."
+      },
+      {
+        "id": "E",
+        "text": "Cefazolina 2 g IV a cada 8 horas."
+      },
+      {
+        "id": "F",
+        "text": "Meropenem 1 g IV a cada 8 horas."
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "id": "P2NHQ",
+    "title": "Nailde, 28 anos",
+    "stem": "Nailde é uma mulher de 28 anos que procura atendimento com disúria.",
+    "question": "Qual é a melhor terapia empírica para Nailde?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Paciente com história de disúria",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Os sintomas estão presentes há apenas 2 dias.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "O único medicamento em uso é um contraceptivo oral.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Há disúria.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Há aumento da frequência urinária.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Há urgência miccional.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "Não há relato de febre, calafrios ou dor lombar.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "Não existem comorbidades, gravidez ou anormalidades urinárias conhecidas.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "O quadro é compatível com uma cistite aguda não complicada.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Nitrofurantoína de liberação prolongada 100 mg VO duas vezes ao dia por 3 dias."
+      },
+      {
+        "id": "B",
+        "text": "Ciprofloxacina 500 mg VO duas vezes ao dia por 7 dias."
+      },
+      {
+        "id": "C",
+        "text": "Trimetoprim-sulfametoxazol (dose dupla) VO duas vezes ao dia por 3 dias."
+      },
+      {
+        "id": "D",
+        "text": "Cefalexina 500 mg VO quatro vezes ao dia por 3 dias."
+      },
+      {
+        "id": "E",
+        "text": "Fosfomicina trometamol 3 g VO em dose única."
+      },
+      {
+        "id": "F",
+        "text": "Nitrofurantoína 100 mg VO duas vezes ao dia por 5 dias."
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "id": "8MBV6",
+    "title": "Bonifácia, 85 anos",
+    "stem": "Bonifácia é uma mulher de 85 anos, acamada e residente em uma instituição de longa permanência.",
+    "question": "Qual é o melhor tratamento para Bonifácia?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Trata-se de uma mulher de 85 anos.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "É residente de uma instituição de longa permanência.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Encontra-se acamada.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Apresenta febre.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Evolui com perda de peso e confusão mental.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Há dispneia progressiva, indicando acometimento pulmonar importante.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "O quadro motivou hospitalização.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "Foi identificado um agente etiológico específico em cultura.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "A cultura de escarro é positiva para Histoplasma capsulatum, caracterizando histoplasmose pulmonar grave.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Formulação lipídica de anfotericina B por 1 a 2 semanas, seguida de itraconazol 200 mg VO três vezes ao dia por 3 dias e, posteriormente, 200 mg VO duas vezes ao dia, completando 12 semanas de tratamento."
+      },
+      {
+        "id": "B",
+        "text": "Micafungina 100 mg IV diariamente por 1 a 2 semanas, seguida de fluconazol 400 mg/dia por 12 semanas."
+      },
+      {
+        "id": "C",
+        "text": "Voriconazol 200 mg VO duas vezes ao dia por 6 semanas."
+      },
+      {
+        "id": "D",
+        "text": "Isavuconazol 200 mg a cada 8 horas por 2 dias, seguido de 200 mg/dia por 6 semanas."
+      },
+      {
+        "id": "E",
+        "text": "Itraconazol 200 mg VO duas vezes ao dia por 12 semanas, sem anfotericina B."
+      },
+      {
+        "id": "F",
+        "text": "Anfotericina B lipídica isoladamente por 14 dias."
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "id": "8GRWF",
+    "title": "V.E., 44 anos",
+    "stem": "V.E. é um homem de 44 anos que procura o pronto-socorro com membro inferior direito quente, eritematoso e doloroso. Não há borda elevada delimitando a lesão. Três dias antes, ele arranhou a perna em uma cerca de arame farpado em sua propriedade (sem ferimento perfurante). Sua temperatura chegou a 38°C, acompanhada de calafrios. O Doppler venoso do membro inferior é negativo. As hemoculturas são negativas.",
+    "question": "Qual é a melhor terapia empírica para V.E.?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Trata-se de um homem de 44 anos.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Houve um arranhão superficial por arame farpado há 3 dias.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "As hemoculturas são negativas.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "O membro inferior apresenta calor, dor e eritema.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Houve febre de até 38°C e calafrios.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "O Doppler venoso foi negativo, afastando trombose venosa profunda.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "Não há drenagem purulenta descrita.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "A lesão apresenta bordas mal definidas e não elevadas.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "O quadro é compatível com celulite não purulenta, cujo principal agente é Streptococcus pyogenes, podendo ocasionalmente envolver Staphylococcus aureus.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Cefazolina 1 g IV a cada 8 horas."
+      },
+      {
+        "id": "B",
+        "text": "Penicilina G 2 milhões de unidades IV a cada 4 horas."
+      },
+      {
+        "id": "C",
+        "text": "Piperacilina-tazobactam 3,375 g IV a cada 6 horas."
+      },
+      {
+        "id": "D",
+        "text": "Doxiciclina 100 mg VO duas vezes ao dia."
+      },
+      {
+        "id": "E",
+        "text": "Clindamicina 600 mg IV a cada 8 horas."
+      },
+      {
+        "id": "F",
+        "text": "Vancomicina 15 mg/kg IV a cada 12 horas."
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "id": "79NAG",
+    "title": "R.K., 36 anos",
+    "stem": "R.K. é uma mulher de 36 anos que procura o pronto-socorro com cefaleia intensa e rigidez de nuca. Sua temperatura é de 37,5°C. Após uma tomografia de crânio sem alterações, é realizada punção lombar, que revela: Glicose no líquor: 54 mg/dL (glicemia sérica: 104 mg/dL) Proteína no líquor: 88 mg/dL Leucócitos no líquor: 220/μL (100% linfócitos) A coloração de Gram não revela microrganismos e o PCR inicial para HSV é negativo.",
+    "question": "Qual é a melhor conduta para R.K.?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Trata-se de uma mulher de 36 anos.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "A temperatura é de apenas 37,5°C.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "A tomografia de crânio é normal.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Há cefaleia intensa.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Há rigidez de nuca.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "O líquor apresenta 220 leucócitos/μL.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "O predomínio celular é de 100% de linfócitos.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "A coloração de Gram não mostra bactérias e o PCR para HSV é negativo.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "O líquor apresenta perfil típico de meningite asséptica (viral): pleocitose linfocitária, glicose preservada e ausência de microrganismos identificados.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Trata-se de meningite asséptica e não são necessários antibióticos."
+      },
+      {
+        "id": "B",
+        "text": "Administrar ceftriaxona 2 g IV a cada 12 horas até que as culturas do líquor sejam negativas para bactérias."
+      },
+      {
+        "id": "C",
+        "text": "Administrar ceftriaxona 2 g IV a cada 12 horas e vancomicina 15 mg/kg IV a cada 12 horas até que as culturas do líquor sejam negativas para bactérias."
+      },
+      {
+        "id": "D",
+        "text": "Administrar aciclovir 500 mg IV a cada 8 horas até que as culturas do líquor sejam negativas para bactérias."
+      },
+      {
+        "id": "E",
+        "text": "Ampicilina 2 g IV a cada 4 horas."
+      },
+      {
+        "id": "F",
+        "text": "Observação hospitalar e dexametasona IV."
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "id": "4NE4F",
+    "title": "L.G., 49 anos",
+    "stem": "L.G. é uma mulher de 49 anos com história de prolapso da valva mitral. Ela procura seu médico devido a mal-estar e febre baixa. O médico percebe que seu sopro cardíaco está mais intenso do que o habitual e solicita hemoculturas e ecocardiograma. O ecocardiograma revela uma grande vegetação na valva mitral, e as hemoculturas demonstram crescimento de Enterococcus faecalis sensível a todos os antibióticos testados.",
+    "question": "Qual é o melhor tratamento para L.G.?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Trata-se de uma mulher de 49 anos.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Possui antecedente de prolapso da valva mitral.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Refere mal-estar e febre baixa.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "O sopro cardíaco tornou-se mais intenso que o habitual.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Foram solicitadas hemoculturas e ecocardiograma.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "O ecocardiograma demonstrou uma vegetação valvar.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "A vegetação localiza-se na valva mitral.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "As hemoculturas são positivas para Enterococcus faecalis.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "O microrganismo é descrito como sensível a todos os antibióticos testados, permitindo a escolha do esquema preferencial.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Penicilina G + gentamicina por 2 semanas."
+      },
+      {
+        "id": "B",
+        "text": "Vancomicina + ceftriaxona por 2 semanas."
+      },
+      {
+        "id": "C",
+        "text": "Ampicilina + ceftriaxona por 6 semanas."
+      },
+      {
+        "id": "D",
+        "text": "Cefazolina + gentamicina por 4 a 6 semanas."
+      },
+      {
+        "id": "E",
+        "text": "Ampicilina isoladamente por 6 semanas."
+      },
+      {
+        "id": "F",
+        "text": "Vancomicina isoladamente por 6 semanas."
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "id": "37RSE",
+    "title": "N.L., 28 anos",
+    "stem": "N.L. é uma mulher de 28 anos, sem antecedentes médicos relevantes. Ela procura o pronto-socorro com febre e intensa dor em fossa ilíaca direita. A dor era leve nos dias anteriores, mas tornou-se intensa nas últimas 8 horas. Sua temperatura é de 39,7°C e o exame abdominal revela dor à descompressão brusca. Ela é submetida imediatamente à cirurgia, sendo diagnosticado e removido um apêndice perfurado.",
+    "question": "Qual é o melhor esquema antibiótico após a cirurgia?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Trata-se de uma mulher de 28 anos.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Não possui comorbidades conhecidas.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "A dor abdominal iniciou-se alguns dias antes e piorou abruptamente nas últimas 8 horas.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Apresenta febre alta (39,7°C).",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "A dor localiza-se na fossa ilíaca direita.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Há dor à descompressão brusca, sugerindo irritação peritoneal.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "O tratamento inicial foi cirúrgico.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "Foi identificado um apêndice perfurado.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "Trata-se de uma infecção intra-abdominal complicada, exigindo cobertura para enterobactérias e anaeróbios.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Vancomicina 1000 mg IV a cada 12 horas + metronidazol 500 mg IV a cada 12 horas."
+      },
+      {
+        "id": "B",
+        "text": "Cefazolina 1 g IV a cada 8 horas + ciprofloxacina 400 mg IV a cada 12 horas."
+      },
+      {
+        "id": "C",
+        "text": "Ceftriaxona 1 g IV a cada 24 horas + metronidazol 500 mg IV a cada 12 horas."
+      },
+      {
+        "id": "D",
+        "text": "Não são necessários antibióticos após a remoção cirúrgica de um apêndice perfurado."
+      },
+      {
+        "id": "E",
+        "text": "Piperacilina-tazobactam 4,5 g IV a cada 6 horas."
+      },
+      {
+        "id": "F",
+        "text": "Ceftriaxona isoladamente."
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "id": "AVU3G",
+    "title": "O.R., 73 anos",
+    "stem": "O.R. é um homem de 73 anos que procura o pronto-socorro com história de 3 dias de febre, calafrios e dispneia. Sua saturação de oxigênio é de 87%. Recentemente, ele viajou para o Arizona para ajudar seu irmão a escavar uma piscina. Um teste de antígeno para fungos retorna positivo para Coccidioides immitis. Ele recebe o diagnóstico de coccidioidomicose pulmonar e é internado em enfermaria.",
+    "question": "Qual é o melhor tratamento para O.R.?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Trata-se de um homem de 73 anos.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Os sintomas começaram há 3 dias.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "O paciente viajou recentemente.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Apresenta febre e calafrios.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Evoluiu com dispneia.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "A saturação de oxigênio é de 87%.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "Houve exposição ambiental durante atividade de escavação de solo.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "A viagem ocorreu para o Arizona, área endêmica para determinadas micoses.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "O teste antigênico foi positivo para Coccidioides immitis, agente da coccidioidomicose pulmonar.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Micafungina 100 mg IV diariamente por 14 dias."
+      },
+      {
+        "id": "B",
+        "text": "Fluconazol 400 mg VO diariamente por 6 meses."
+      },
+      {
+        "id": "C",
+        "text": "Posaconazol 300 mg VO duas vezes ao dia por 2 doses, seguido de 300 mg VO diariamente por 8 semanas."
+      },
+      {
+        "id": "D",
+        "text": "Anfotericina B lipossomal 5 mg/kg IV diariamente por 3 meses."
+      },
+      {
+        "id": "E",
+        "text": "Itraconazol 200 mg VO duas vezes ao dia por 6 meses."
+      },
+      {
+        "id": "F",
+        "text": "Voriconazol 200 mg VO duas vezes ao dia por 6 meses."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": "VRS4Y",
+    "title": "R.L., 68 anos",
+    "stem": "R.L. é um homem de 68 anos que procura o pronto-socorro com tosse e falta de ar. Os sintomas começaram há 4 dias e pioraram nas últimas 24 horas. Ele apresenta expectoração amarelo-esverdeada, calafrios e temperatura de 39°C. Seus antecedentes incluem doença arterial coronariana com infarto do miocárdio há 5 anos, insuficiência cardíaca congestiva, hipertensão arterial e osteoartrite. Raramente consome álcool e não fuma desde o infarto. Mora em casa com a esposa. Medicamentos em uso: Lisinopril 10 mg/dia Metoprolol succinato 25 mg/dia Paracetamol 650 mg quatro vezes ao dia Exame físico: Temperatura: 38°C FC: 100 bpm FR: 32 irpm PA: 142/94 mmHg Exames: Ureia: 32 mg/dL Creatinina: 1,23 mg/dL Demais exames normais Radiografia de tórax: infiltrado em lobo inferior direito. Não foi possível obter amostra de escarro.",
+    "question": "Qual é o melhor tratamento empírico para R.L.?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Trata-se de um homem de 68 anos.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Os sintomas começaram há 4 dias.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Há tosse produtiva com expectoração amarelo-esverdeada.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Possui antecedentes de insuficiência cardíaca e doença coronariana.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Apresenta dispneia e calafrios.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "A radiografia demonstra infiltrado no lobo inferior direito.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "A frequência respiratória é de 32 irpm, indicando maior gravidade.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "A ureia está elevada (32 mg/dL).",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "Trata-se de uma pneumonia adquirida na comunidade em paciente com comorbidades necessitando internação hospitalar, sem fatores descritos para MRSA ou Pseudomonas.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Ampicilina-sulbactam 3 g IV a cada 6 horas."
+      },
+      {
+        "id": "B",
+        "text": "Piperacilina-tazobactam 4,5 g IV a cada 6 horas + gentamicina 180 mg IV a cada 12 horas."
+      },
+      {
+        "id": "C",
+        "text": "Ceftriaxona 2 g IV a cada 24 horas + azitromicina 500 mg IV a cada 24 horas."
+      },
+      {
+        "id": "D",
+        "text": "Doxiciclina 100 mg IV a cada 12 horas."
+      },
+      {
+        "id": "E",
+        "text": "Levofloxacino 750 mg IV a cada 24 horas"
+      },
+      {
+        "id": "F",
+        "text": "Ceftriaxona 2 g IV a cada 24 horas isoladamente"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "id": "PKXVA",
+    "title": "B.P., 66 anos",
+    "stem": "B.P. é uma mulher de 66 anos que foi submetida a uma cirurgia de revascularização miocárdica (ponte de safena) há 8 dias e permanece em ventilação mecânica na UTI cirúrgica desde então. Sua temperatura está aumentando e a radiografia de tórax revela um novo infiltrado no lobo inferior direito. Antecedentes: Doença arterial coronariana com infarto há 2 anos DPOC Hipertensão arterial Todos os antibióticos antipseudomonas do hospital apresentam atividade contra pelo menos 80% das cepas locais. A paciente não possui alergias medicamentosas conhecidas.",
+    "question": "Qual é o melhor tratamento empírico para B.P.?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Trata-se de uma mulher de 66 anos.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Foi submetida a cirurgia cardíaca há 8 dias.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Possui antecedentes de DPOC e doença coronariana.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Está internada em UTI cirúrgica.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Permanece em ventilação mecânica.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Surgiu um novo infiltrado pulmonar na radiografia.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "A febre surgiu após vários dias de internação.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "O quadro ocorreu após mais de 48 horas de ventilação mecânica.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "Trata-se de uma pneumonia associada à ventilação mecânica (PAV/VAP) com fatores de risco para microrganismos multirresistentes.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Ceftriaxona 2 g IV a cada 24 horas + gentamicina 7 mg/kg IV a cada 24 horas + linezolida 600 mg IV a cada 12 horas."
+      },
+      {
+        "id": "B",
+        "text": "Piperacilina-tazobactam 4,5 g IV a cada 6 horas."
+      },
+      {
+        "id": "C",
+        "text": "Levofloxacino 750 mg IV a cada 24 horas + linezolida 600 mg IV a cada 12 horas."
+      },
+      {
+        "id": "D",
+        "text": "Cefepime 2 g IV a cada 8 horas + tobramicina 7 mg/kg IV a cada 24 horas + vancomicina 15 mg/kg IV a cada 12 horas."
+      },
+      {
+        "id": "E",
+        "text": "Meropenem + vancomicina"
+      },
+      {
+        "id": "F",
+        "text": "Piperacilina-tazobactam + vancomicina"
+      }
+    ],
+    "correctOptionId": "D"
+  },
+  {
+    "id": "837WD",
+    "title": "S.C., 46 anos",
+    "stem": "S.C. é uma mulher de 46 anos que procura atendimento com secreção nasal purulenta, congestão nasal e facial, cefaleia, febre e dor dentária. Os sintomas começaram há cerca de 10 dias, melhoraram após aproximadamente 4 dias e depois voltaram a piorar alguns dias mais tarde.",
+    "question": "Qual é a melhor terapia empírica para S.C.?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Trata-se de uma mulher de 46 anos.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Os sintomas estão presentes há cerca de 10 dias.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Apresenta cefaleia e febre.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Há secreção nasal purulenta.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Existe congestão nasal e facial.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Relata dor dentária, um sintoma sugestivo de sinusite.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "Os sintomas inicialmente melhoraram.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "Houve piora posterior após melhora inicial.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "O padrão de “double sickening” (dupla piora) é clássico de rinossinusite bacteriana aguda, e não de infecção viral simples.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Cefpodoxima proxetil 200 mg VO duas vezes ao dia."
+      },
+      {
+        "id": "B",
+        "text": "Clindamicina 300 mg VO quatro vezes ao dia."
+      },
+      {
+        "id": "C",
+        "text": "Amoxicilina-clavulanato 875/125 mg VO duas vezes ao dia."
+      },
+      {
+        "id": "D",
+        "text": "Não é necessária antibioticoterapia."
+      },
+      {
+        "id": "E",
+        "text": "Doxiciclina 100 mg VO duas vezes ao dia"
+      },
+      {
+        "id": "F",
+        "text": "Levofloxacino 750 mg VO uma vez ao dia"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "id": "EQNY4",
+    "title": "G.N., 62 anos",
+    "stem": "G.N. é uma mulher de 62 anos que procura o pronto-socorro com história de 3 dias de aumento da frequência urinária e disúria. Nas últimas 24 horas, passou a apresentar náuseas, vômitos e dor em flanco. Antecedentes: Diabetes mellitus tipo 2 mal controlado, com complicações Hipertensão arterial Episódios prévios de trombose venosa profunda Medicações: Glibenclamida 5 mg/dia Enalapril 10 mg 2x/dia Varfarina 3 mg/dia Metoclopramida 10 mg 4x/dia Exame físico: Temperatura: 39°C FC: 120 bpm FR: 16 irpm PA supina: 140/75 mmHg PA ortostática: 110/60 mmHg Laboratório: INR: 2,7 Ureia: 26 mg/dL Creatinina: 1,88 mg/dL Leucócitos: 12.000/μL Urina: Turva Glicose 2+ Proteína 100 mg/dL 50–100 leucócitos/campo Nitrito positivo Muitas bactérias Presença de cilindros urinários",
+    "question": "Qual é a melhor terapia empírica para G.N.?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Trata-se de uma mulher de 62 anos.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Possui diabetes mal controlado.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Apresenta sintomas urinários há 3 dias.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Há disúria e aumento da frequência urinária.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Surgiram náuseas e vômitos.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Apresenta dor em flanco.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "A temperatura é de 39°C e a FC de 120 bpm.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "O exame de urina mostra nitrito positivo, bacteriúria e cilindros urinários.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "O quadro é compatível com pielonefrite/ITU complicada, exigindo antibiótico sistêmico com boa penetração renal.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "TMP-SMX dose dupla VO 12/12h por 7 dias, monitorando INR."
+      },
+      {
+        "id": "B",
+        "text": "Ciprofloxacino 400 mg IV 12/12h, seguido de 500 mg VO 12/12h, por um total de 7 dias, monitorando INR."
+      },
+      {
+        "id": "C",
+        "text": "Gentamicina 140 mg IV a cada 24 horas por 3 dias."
+      },
+      {
+        "id": "D",
+        "text": "Tigeciclina 100 mg IV de ataque, seguida de 50 mg IV 12/12h, depois doxiciclina 100 mg VO 12/12h por um total de 10 dias."
+      },
+      {
+        "id": "E",
+        "text": "Ceftriaxona 1 g IV ao dia"
+      },
+      {
+        "id": "F",
+        "text": "Nitrofurantoína 100 mg VO 12/12h por 5 dias"
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": "QY2WE",
+    "title": "G.N., 62 anos",
+    "stem": "G.N. é uma mulher de 62 anos com diabetes mellitus tipo 2 mal controlado, hipertensão arterial e uso de varfarina, que apresenta disúria e aumento da frequência urinária há 3 dias, evoluindo com náuseas, vômitos, dor em flanco, febre de 39°C, taquicardia, creatinina de 1,88 mg/dL e exame de urina com nitrito positivo, bacteriúria e cilindros urinários.",
+    "question": "Qual dos seguintes fatores foi mais importante para classificar a infecção urinária de G.N. como complicada?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Trata-se de uma mulher de 62 anos.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Há antecedente de hipertensão arterial.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "A paciente utiliza vários medicamentos cronicamente.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Há diabetes mellitus tipo 2 com complicações.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "A creatinina sérica está elevada, com valor de 1,88 mg/dL.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "A paciente apresenta febre de 39°C.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "Há náuseas, vômitos e dor em flanco.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "O exame de urina mostra cilindros urinários.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "O quadro não está restrito à bexiga; há sinais de acometimento do trato urinário superior, compatíveis com pielonefrite.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Idade superior a 60 anos isoladamente."
+      },
+      {
+        "id": "B",
+        "text": "Hipertensão arterial sistêmica."
+      },
+      {
+        "id": "C",
+        "text": "Uso crônico de varfarina."
+      },
+      {
+        "id": "D",
+        "text": "Diabetes mellitus tipo 2 como único critério."
+      },
+      {
+        "id": "E",
+        "text": "Presença de pielonefrite, com febre, dor em flanco, sintomas sistêmicos e cilindros urinários."
+      },
+      {
+        "id": "F",
+        "text": "História prévia de trombose venosa profunda."
+      }
+    ],
+    "correctOptionId": "E"
+  },
+  {
+    "id": "54BCA",
+    "title": "W.A., 55 anos",
+    "stem": "W.A. é um homem de 55 anos internado por perda de peso, mal-estar, dor lombar intensa e espasmos, com progressão ao longo dos últimos 2 meses. Também relata perda de sensibilidade nos membros inferiores. Quatro meses antes desta internação, foi submetido a cirurgia para correção de uma fratura de tíbia, seguida por uma infecção tratada com antibióticos desconhecidos. Antecedentes: Hipertensão arterial Diverticulite Exame físico: Temperatura: 37,4°C FC: 88 bpm FR: 14 irpm PA: 130/85 mmHg Exames: Leucócitos: 14.300/mm³ VHS: 89 mm/h PCR: 12 mg/dL A ressonância magnética mostra destruição óssea das vértebras L1 e L2, confirmada por cintilografia óssea. Uma biópsia óssea guiada por tomografia revela cocos Gram-positivos em cachos.",
+    "question": "Qual é o melhor tratamento para W.A.?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Homem de 55 anos.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "História prévia de cirurgia ortopédica complicada por infecção.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Queixa de sintomas constitucionais (perda de peso e mal-estar).",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Dor lombar intensa e progressiva há 2 meses.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Perda de sensibilidade nos membros inferiores.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "VHS e PCR significativamente elevados.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "A ressonância demonstra destruição óssea vertebral.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "A biópsia óssea identifica cocos Gram-positivos em cachos.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "O quadro é compatível com osteomielite vertebral por Staphylococcus aureus, exigindo tratamento intravenoso prolongado.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Vancomicina 15 mg/kg IV a cada 12 horas por 6 semanas."
+      },
+      {
+        "id": "B",
+        "text": "Nafcilina 2 g IV a cada 6 horas por 2 semanas."
+      },
+      {
+        "id": "C",
+        "text": "Levofloxacino 750 mg VO a cada 24 horas por 6 semanas."
+      },
+      {
+        "id": "D",
+        "text": "Ampicilina-sulbactam 3 g IV a cada 6 horas por 2 semanas."
+      },
+      {
+        "id": "E",
+        "text": "Cefazolina 2 g IV a cada 8 horas por 6 semanas"
+      },
+      {
+        "id": "F",
+        "text": "Daptomicina 8 mg/kg IV ao dia por 6 semanas"
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "id": "U83XX",
+    "title": "D.M., adulto jovem",
+    "stem": "D.M. é um estudante universitário que mora em dormitório estudantil. Ele procura o pronto-socorro com febre, cefaleia intensa e rigidez de nuca. A punção lombar demonstra achados compatíveis com meningite bacteriana. O paciente é internado e tratado empiricamente. Posteriormente, as culturas do líquor identificam Neisseria meningitidis.",
+    "question": "Qual é o tratamento empírico inicial mais apropriado para D.M. antes da identificação definitiva do agente etiológico?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Trata-se de um adulto jovem.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Reside em dormitório universitário.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "O quadro teve início agudo.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Apresenta febre.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Apresenta cefaleia intensa.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Apresenta rigidez de nuca.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "O líquor é compatível com meningite bacteriana.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "O tratamento deve ser iniciado antes do resultado das culturas.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "Em adultos com meningite bacteriana adquirida na comunidade, a terapia empírica deve cobrir principalmente pneumococo resistente e meningococo.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Ceftriaxona 2 g IV a cada 12 horas + vancomicina 15 mg/kg IV a cada 12 horas"
+      },
+      {
+        "id": "B",
+        "text": "Ceftriaxona isoladamente"
+      },
+      {
+        "id": "C",
+        "text": "Vancomicina isoladamente"
+      },
+      {
+        "id": "D",
+        "text": "Aciclovir IV"
+      },
+      {
+        "id": "E",
+        "text": "Ampicilina + gentamicina"
+      },
+      {
+        "id": "F",
+        "text": "Meropenem isoladamente"
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "id": "HKKZ3",
+    "title": "D.M., adulto jovem",
+    "stem": "D.M. é um estudante universitário que mora em dormitório estudantil e foi diagnosticado com meningite bacteriana. A continuação do caso informa que as culturas do líquor cresceram Neisseria meningitidis.",
+    "question": "Qual é a melhor recomendação para profilaxia dos contatos de D.M.?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "O paciente é estudante universitário.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Reside em dormitório estudantil.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Foi atendido inicialmente no pronto-socorro.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "O quadro é de meningite bacteriana.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "O agente etiológico foi identificado.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "A questão aborda prevenção de casos secundários.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "O agente é Neisseria meningitidis.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "A transmissão ocorre por contato próximo com secreções respiratórias/orais.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "A profilaxia é indicada apenas para contatos próximos ou pessoas expostas às secreções orais do caso índice, não para todos os indivíduos presentes no mesmo ambiente.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Os profissionais de saúde que tiveram contato próximo com D.M. devem receber rifampicina 600 mg VO a cada 12 horas por 4 doses."
+      },
+      {
+        "id": "B",
+        "text": "Todas as pessoas que estavam no pronto-socorro no momento da apresentação de D.M. devem receber a vacina meningocócica conjugada."
+      },
+      {
+        "id": "C",
+        "text": "Todos os moradores do dormitório e todos os colegas de suas aulas devem receber a vacina meningocócica conjugada."
+      },
+      {
+        "id": "D",
+        "text": "Todas as pessoas que estavam no pronto-socorro no momento da apresentação de D.M. devem receber rifampicina 600 mg VO a cada 12 horas por 4 doses."
+      },
+      {
+        "id": "E",
+        "text": "Ciprofloxacino 500 mg VO dose única para todos os alunos da universidade."
+      },
+      {
+        "id": "F",
+        "text": "Nenhuma medida é necessária após o início do tratamento do paciente."
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "id": "YXR9W",
+    "title": "T.S., 48 anos",
+    "stem": "T.S. é um homem de 48 anos que procura o pronto-socorro com febre, calafrios, náuseas, vômitos, linfangite na mão direita e dor lombar. Antecedentes: Sem doenças relevantes conhecidas Nefrolitíase há 4 anos Sem alergias medicamentosas Em situação de rua Uso de heroína intravenosa durante o último ano, interrompido há 2 semanas Exame físico: Temperatura: 38°C FC: 114 bpm FR: 12 irpm PA: 127/78 mmHg Sopro sistólico discreto Mão direita eritematosa e edemaciada Exames laboratoriais: Sem alterações significativas Uma hemocultura coletada no pronto-socorro cresce Staphylococcus aureus sensível à meticilina (MSSA).",
+    "question": "Qual é o próximo passo mais apropriado na avaliação diagnóstica de T.S.?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Homem de 48 anos.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "História recente de uso de drogas intravenosas.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Apresenta infecção cutânea na mão direita.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Tem febre e calafrios.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Existe bacteremia documentada.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Refere dor lombar.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "A hemocultura é positiva para MSSA.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "Há um sopro cardíaco ao exame físico.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "Usuário de drogas injetáveis com bacteremia por S. aureus deve ser considerado portador de endocardite infecciosa até prova em contrário.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Solicitar ecocardiograma transtorácico (ETT)"
+      },
+      {
+        "id": "B",
+        "text": "Repetir hemoculturas em 72 horas"
+      },
+      {
+        "id": "C",
+        "text": "Solicitar tomografia lombar"
+      },
+      {
+        "id": "D",
+        "text": "Alta hospitalar com cefalexina oral"
+      },
+      {
+        "id": "E",
+        "text": "Punção lombar"
+      },
+      {
+        "id": "F",
+        "text": "Ultrassonografia da mão direita"
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "id": "BKHXQ",
+    "title": "T.S., 48 anos",
+    "stem": "Continuação do caso de T.S. Após a investigação, o ecocardiograma demonstra uma vegetação na valva mitral, confirmando o diagnóstico de endocardite infecciosa. As hemoculturas identificam Staphylococcus aureus sensível à meticilina (MSSA). O paciente não apresenta alergia a penicilinas.",
+    "question": "Qual é o tratamento mais apropriado para T.S.?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "Homem de 48 anos.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Sem alergia conhecida a antibióticos.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "História recente de uso de drogas intravenosas.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Apresenta bacteremia documentada.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Há febre e sinais sistêmicos de infecção.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Existe vegetação identificada ao ecocardiograma.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "O diagnóstico é de endocardite infecciosa.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "O agente etiológico é Staphylococcus aureus.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "O microrganismo é sensível à meticilina (MSSA), favorecendo o uso de β-lactâmicos antistafilocócicos.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Nafcilina 2 g IV a cada 4 horas por 6 semanas"
+      },
+      {
+        "id": "B",
+        "text": "Vancomicina 15 mg/kg IV a cada 12 horas por 6 semanas"
+      },
+      {
+        "id": "C",
+        "text": "Ceftriaxona 2 g IV ao dia por 2 semanas"
+      },
+      {
+        "id": "D",
+        "text": "Ciprofloxacino 750 mg VO a cada 12 horas por 6 semanas"
+      },
+      {
+        "id": "E",
+        "text": "Daptomicina 8 mg/kg IV ao dia por 6 semanas"
+      },
+      {
+        "id": "F",
+        "text": "Cefazolina 2 g IV a cada 8 horas por 6 semanas"
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "id": "SF27Q",
+    "title": "Paciente com diarreia pós-antibiótico",
+    "stem": "Um paciente foi internado por alguns dias e recebeu alta com prescrição de clindamicina oral para tratamento de celulite. Duas semanas após concluir o tratamento, passou a apresentar diarreia aquosa e procurou o pronto-socorro. Exames: Teste para toxina de Clostridioides difficile: positivo Leucócitos: 24.500/mm³ Albumina: 2,8 g/dL Creatinina: 1,74 mg/dL (habitualmente em torno de 0,90 mg/dL)",
+    "question": "Qual é o melhor tratamento para este paciente?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "O paciente recebeu antibiótico recentemente.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "O antibiótico utilizado foi clindamicina.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Os sintomas surgiram cerca de duas semanas após o término do tratamento.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Apresenta diarreia aquosa.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "O teste para toxina de C. difficile é positivo.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Há leucocitose importante.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "A creatinina aumentou significativamente em relação ao basal.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "A albumina encontra-se reduzida.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "Trata-se de um episódio de infecção por Clostridioides difficile (CDI) grave, caracterizada por leucócitos >15.000/mm³ e insuficiência renal associada.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Metronidazol 500 mg VO três vezes ao dia por 7 dias."
+      },
+      {
+        "id": "B",
+        "text": "Vancomicina 125 mg VO quatro vezes ao dia por 10 dias."
+      },
+      {
+        "id": "C",
+        "text": "Fidaxomicina 200 mg VO duas vezes ao dia por 14 dias."
+      },
+      {
+        "id": "D",
+        "text": "Rifaximina 400 mg VO duas vezes ao dia por 7 dias."
+      },
+      {
+        "id": "E",
+        "text": "Vancomicina 500 mg VO quatro vezes ao dia + metronidazol IV"
+      },
+      {
+        "id": "F",
+        "text": "Transplante de microbiota fecal imediatamente"
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "id": "YJ74N",
+    "title": "Profilaxia cirúrgica",
+    "stem": "Você é um farmacêutico clínico responsável por revisar os protocolos de profilaxia antimicrobiana cirúrgica do hospital.",
+    "question": "Qual das seguintes afirmações sobre profilaxia cirúrgica é a mais correta?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "O tema é profilaxia cirúrgica.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "A questão aborda princípios gerais aplicáveis a diversas especialidades.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "O objetivo é prevenir infecção do sítio cirúrgico.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "O momento da administração do antibiótico é importante.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "A duração da cirurgia influencia a efetividade da profilaxia.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Nem todos os pacientes necessitam dos mesmos antibióticos.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "A profilaxia deve atingir níveis teciduais adequados no momento da incisão.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "Cirurgias longas podem reduzir as concentrações séricas e teciduais do antimicrobiano.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "Um dos princípios centrais da profilaxia cirúrgica é a redosagem intraoperatória quando a duração do procedimento excede a meia-vida do antibiótico.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "A profilaxia deve ser mantida por 72 horas após a cirurgia para reduzir infecção do sítio cirúrgico."
+      },
+      {
+        "id": "B",
+        "text": "A primeira dose do antibiótico deve ser administrada após a incisão cirúrgica para evitar exposição desnecessária."
+      },
+      {
+        "id": "C",
+        "text": "Procedimentos prolongados podem exigir redosagem intraoperatória do antibiótico para manter concentrações adequadas durante a cirurgia."
+      },
+      {
+        "id": "D",
+        "text": "Vancomicina deve ser utilizada rotineiramente em todos os pacientes submetidos a cirurgia ortopédica."
+      },
+      {
+        "id": "E",
+        "text": "Todo paciente deve receber associação de dois antibióticos profiláticos."
+      },
+      {
+        "id": "F",
+        "text": "A profilaxia deve ser iniciada apenas após confirmação microbiológica."
+      }
+    ],
+    "correctOptionId": "C"
+  }
+]

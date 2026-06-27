@@ -1,0 +1,21 @@
+
+> flashmed-disuria@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3002
+
+▲ Next.js 16.2.7 (Turbopack)
+- Local:         http://127.0.0.1:3002
+- Network:       http://127.0.0.1:3002
+- Environments: .env.local
+✓ Ready in 1868ms
+
+○ Compiling /professor ...
+ GET /professor 307 in 31.9s (next.js: 31.5s, application-code: 364ms)
+○ Compiling / ...
+ GET /?professor=1 200 in 14.8s (next.js: 14.5s, application-code: 245ms)
+ GET /professor 307 in 150ms (next.js: 6ms, application-code: 144ms)
+ GET /?professor=1 200 in 190ms (next.js: 53ms, application-code: 137ms)
+ POST /api/professor/access 200 in 489ms (next.js: 462ms, application-code: 26ms)
+ GET /professor 200 in 1529ms (next.js: 57ms, application-code: 1472ms)
+ GET /professor/sala/EFHZWF 200 in 4.1s (next.js: 3.1s, application-code: 1030ms)
+ GET /api/rooms/EFHZWF 200 in 1643ms (next.js: 933ms, application-code: 710ms)
+[?25h

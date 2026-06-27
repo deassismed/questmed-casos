@@ -1,0 +1,502 @@
+[
+  {
+    "id": "GR8I3",
+    "title": "Maria, 36 anos",
+    "stem": "Maria, 36 anos, com disúria há 3 dias.",
+    "question": "Qual é o tratamento inicial recomendado?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "A paciente refere aumento da frequência urinária no mesmo período.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Além de urgência miccional, a paciente apresenta desconforto suprapúbico.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Diz ter percebido sensação de esvaziamento incompleto da bexiga, e leve hematúria macroscópica.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "A paciente relata início de febre (38,5 °C) nas últimas 24 horas, acompanhada de calafrios.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Refere dor em flanco direito, contínua, com irradiação para a região lombar.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Além dos sintomas urinários, apresenta náuseas e mal-estar geral.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "A paciente informa atraso menstrual de aproximadamente 8 semanas e refere teste de gravidez de farmácia positivo.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "Realizou consulta de pré-natal recente, com confirmação de gestação única intrauterina no primeiro trimestre.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "Ao exame, encontra-se em bom estado geral, hidratada, normotensa, sem taquicardia e sem sinais de sepse, embora mantenha febre baixa e dor em flanco.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Nitrofurantoína por via oral por 5 dias."
+      },
+      {
+        "id": "B",
+        "text": "Fosfomicina trometamol por via oral em dose única."
+      },
+      {
+        "id": "C",
+        "text": "Cefalexina por via oral por 7 dias após coleta de urocultura."
+      },
+      {
+        "id": "D",
+        "text": "Ceftriaxona intravenosa em regime hospitalar."
+      },
+      {
+        "id": "E",
+        "text": "Ciprofloxacino intravenoso em regime hospitalar."
+      },
+      {
+        "id": "F",
+        "text": "Hidratação, analgesia e investigação ambulatorial de nefrolitíase."
+      }
+    ],
+    "correctOptionId": "D"
+  },
+  {
+    "id": "K7M2Q",
+    "title": "João, 61 anos",
+    "stem": "João, 61 anos, procura o PS por desconforto no trato urinário há 12 horas.",
+    "question": "Qual é a conduta imediata mais adequada?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "O paciente relata jato urinário fraco há cerca de 3 meses.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Refere gotejamento terminal e sensação de esvaziamento incompleto da bexiga.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Refere aumento da frequência urinária noturna nas últimas semanas.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Refere piora importante do desconforto suprapúbico nas últimas horas.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "À palpação abdominal, observa-se abaulamento doloroso em região suprapúbica.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "O paciente encontra-se ansioso e desconfortável, mas hemodinamicamente estável.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "Relata febre baixa e dor perineal nas últimas 48 horas.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "Ao toque retal, a próstata encontra-se aumentada e bastante sensível à palpação.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "O hemograma evidencia leucocitose com neutrofilia, e o exame de urina mostra piúria.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Sondagem vesical de demora e alta após alívio dos sintomas."
+      },
+      {
+        "id": "B",
+        "text": "Drenagem urinária associada à antibioticoterapia e avaliação urológica."
+      },
+      {
+        "id": "C",
+        "text": "Finasterida e seguimento ambulatorial."
+      },
+      {
+        "id": "D",
+        "text": "Passagem de cateter ureteral duplo J."
+      },
+      {
+        "id": "E",
+        "text": "Antibioticoterapia oral e reavaliação ambulatorial em 48 horas."
+      },
+      {
+        "id": "F",
+        "text": "Solicitar PSA total antes de qualquer intervenção."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": "V9P4X",
+    "title": "Carla, 35 anos",
+    "stem": "Carla, 35 anos, com desconforto ao urinar há 10 dias",
+    "question": "Considerando a hipótese mais provável, qual é a melhor conduta terapêutica?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "O desconforto ao urinar começou de forma insidiosa, sem dor intensa em baixo ventre.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Relata relação sexual sem preservativo cerca de duas semanas antes do início dos sintomas.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Nega febre, dor lombar, náuseas ou vômitos.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "Relata corrimento vaginal discreto, sem odor forte e sem prurido vulvar importante.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Ela refere pequeno sangramento após relação sexual nos últimos dias.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Conta que o parceiro sexual recente apresentou ardor ao urinar, mas não procurou atendimento.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "Ao exame especular, observa-se colo uterino friável, com discreta secreção endocervical.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "Os sintomas permanecem restritos ao trato genital inferior.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "A bacterioscopia não evidenciou diplococos gram-negativos.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Doxiciclina por 7 dias, com avaliação/tratamento do parceiro."
+      },
+      {
+        "id": "B",
+        "text": "Fluconazol dose única. Tratar parceiro com Metronidazol dose única."
+      },
+      {
+        "id": "C",
+        "text": "Metronidazol por 7 dias para a paciente e o seu parceiro sexual."
+      },
+      {
+        "id": "D",
+        "text": "Ceftriaxona IM isoladamente em dose única."
+      },
+      {
+        "id": "E",
+        "text": "Ceftriaxona + doxiciclina + metronidazol por 14 dias. Orientar parceiro a procurar atendimento."
+      },
+      {
+        "id": "F",
+        "text": "Metronidazol creme vaginal por 14 noites seguidas. Fluconazol via oral para o parceiro."
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "id": "T3N8A",
+    "title": "José, 55 anos",
+    "stem": "José, 55 anos, assintomático, trouxe exames de rotina.",
+    "question": "Qual é a indicação terapêutica mais adequada?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "O achado foi identificado incidentalmente em exame de imagem de rotina.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "O paciente nega dor lombar, febre, disúria ou hematúria macroscópica.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "Não há sinais clínicos de infecção urinária ou obstrução aguda.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "A ultrassonografia descreve foco hiperecogênico no rim esquerdo.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "O achado está localizado no polo inferior do rim esquerdo.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Não há dilatação do sistema coletor renal ao exame.",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "A ultrassonografia descreve imagem hiperecogênica com sombra acústica posterior.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "A lesão mede aproximadamente 13 mm no maior diâmetro.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "O paciente manifesta interesse de realização procedimento cirúrgico.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Realizar novo exame de imagem para confirmação do achado."
+      },
+      {
+        "id": "B",
+        "text": "Tratamento curúrgico eletivo, como ureteroscopia flexível com litotripsia a laser."
+      },
+      {
+        "id": "C",
+        "text": "Tratamento clínico exclusivo com citrato de potássio."
+      },
+      {
+        "id": "D",
+        "text": "Nenhuma intervenção, pois o paciente está assintomático."
+      },
+      {
+        "id": "E",
+        "text": "Tratamento cirúrgico de urgência, como a litotripsia extracorpórea como primeira linha."
+      },
+      {
+        "id": "F",
+        "text": "Vigilância ativa com programação de imagem seriada a cada 6-12 meses."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": "L6C5R",
+    "title": "Ana, 42 anos",
+    "stem": "Ana, 42 anos, com exame de urina mostrando leucocitúria e nitritos positivos.",
+    "question": "Qual a próxima etapa mais apropriada no manejo desta paciente?",
+    "durationSeconds": 300,
+    "timePenaltyTotal": 40,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "O exame foi solicitado durante consulta de acompanhamento.",
+            "cost": 4
+          },
+          {
+            "id": "dica-2",
+            "text": "Refere episódios urinários semelhantes nos últimos anos.",
+            "cost": 4
+          },
+          {
+            "id": "dica-3",
+            "text": "No momento da consulta, encontra-se sem febre ou dor lombar.",
+            "cost": 4
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "A paciente não está grávida e não será submetida a procedimento urológico invasivo.",
+            "cost": 7
+          },
+          {
+            "id": "dica-5",
+            "text": "Relata três episódios de cistite nos últimos 12 meses.",
+            "cost": 7
+          },
+          {
+            "id": "dica-6",
+            "text": "Quadros anteriores de cistite foram confirmados por exame de urina",
+            "cost": 7
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "Os episódios estão relacionados à atividade sexual.",
+            "cost": 9
+          },
+          {
+            "id": "dica-8",
+            "text": "Não há anormalidades anatômicas conhecidas.",
+            "cost": 9
+          },
+          {
+            "id": "dica-9",
+            "text": "Apresenta novo episódio de disúria, polaciúria e urgência miccional iniciado após relação sexual há dois dias.",
+            "cost": 9
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Iniciar antibioticoterapia empírica e realizar urocultura pós-tratamento."
+      },
+      {
+        "id": "B",
+        "text": "Solicitar tomografia de abdome e pelve para investigação complementar."
+      },
+      {
+        "id": "C",
+        "text": "Tratar o episódio atual e orientar profilaxia pós-coito."
+      },
+      {
+        "id": "D",
+        "text": "Solicitar cistoscopia de rotina."
+      },
+      {
+        "id": "E",
+        "text": "Prescrever antibioticoterapia contínua por tempo indeterminado."
+      },
+      {
+        "id": "F",
+        "text": "Não realizar qualquer intervenção ou acompanhamento."
+      }
+    ],
+    "correctOptionId": "C"
+  }
+]

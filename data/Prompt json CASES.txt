@@ -1,0 +1,230 @@
+REGRAS OBRIGATÓRIAS
+
+FORMATO GERAL
+
+* Gere exclusivamente um objeto JSON válido.
+* Não inclua markdown, comentários, explicações ou qualquer texto fora do JSON.
+* Todos os campos devem respeitar rigorosamente a estrutura fornecida.
+* Utilize codificação UTF-8 compatível com JSON padrão.
+
+IDENTIFICAÇÃO
+
+* O campo "id" deve conter exatamente 5 caracteres alfanuméricos maiúsculos.
+* Preferencialmente, casos do mesmo tema devem compartilhar os 3 primeiros caracteres.
+* Os 2 últimos caracteres devem seguir ordem sequencial crescente dentro da mesma série.
+* Exemplo: "DM201", "DM202", "DM203".
+
+TÍTULO E ENUNCIADO
+
+* O campo "title" deve conter nome fictício seguido da idade.
+
+* Exemplo: "Joana, 42 anos".
+
+* Não utilizar nomes repetidos em casos consecutivos.
+
+* O campo "stem" deve ser extremamente breve, contendo apenas a queixa principal e sua duração quando pertinente.
+
+* Evite inserir achados clínicos, antecedentes ou resultados de exames no "stem".
+
+* O detalhamento do caso deve ocorrer exclusivamente nas dicas.
+
+PERGUNTA
+
+* O campo "question" deve formular uma pergunta clínica objetiva.
+* A pergunta pode abordar:
+
+  * diagnóstico mais provável;
+  * melhor conduta inicial;
+  * tratamento recomendado;
+  * necessidade de encaminhamento;
+  * rastreamento;
+  * prevenção;
+  * interpretação clínica.
+
+DICAS
+
+* O caso deve conter exatamente 3 blocos de dicas.
+* Cada bloco deve conter exatamente 3 dicas.
+* Total obrigatório: 9 dicas.
+
+Bloco 1:
+
+* Informações clínicas iniciais.
+* Dados de anamnese e exame físico básicos.
+* Baixa capacidade discriminatória isoladamente.
+* Não devem permitir diagnóstico imediato.
+
+Bloco 2:
+
+* Novas informações que aumentem a complexidade.
+* Inclusão de fatores de risco, evolução clínica ou achados complementares acessíveis na prática clínica.
+* Devem modificar a probabilidade diagnóstica ou a gravidade.
+
+Bloco 3:
+
+* Informações decisivas para a tomada de decisão.
+* Podem incluir exames complementares simples ou achados clínicos específicos.
+* Não devem revelar explicitamente o diagnóstico ou a resposta correta.
+
+REGRAS DAS DICAS
+
+* As dicas devem ser progressivas e cumulativas.
+* Cada dica deve acrescentar informação nova.
+* Não repetir informações já fornecidas.
+* Não utilizar frases avaliativas como:
+
+  * "isso sugere";
+  * "compatível com";
+  * "indicando";
+  * "característico de";
+  * "o diagnóstico é".
+* Não revelar diretamente a alternativa correta.
+* Evitar entregar o diagnóstico de forma explícita.
+* Utilizar linguagem natural, semelhante à evolução clínica real.
+
+ALTERNATIVAS
+
+* Devem existir exatamente 6 alternativas.
+* Identificadores obrigatórios: A, B, C, D, E e F.
+* Todas as alternativas devem ser plausíveis.
+* Distratores devem representar erros clínicos frequentes e realistas.
+* Apenas uma alternativa pode estar correta.
+* Não utilizar alternativas absurdas ou obviamente incorretas.
+
+RESPOSTA CORRETA
+
+* O campo "correctOptionId" deve conter exclusivamente uma letra entre A e F.
+* A resposta correta deve ser consistente com todas as dicas apresentadas.
+
+CONTEÚDO MÉDICO
+
+* Priorizar casos de:
+
+  * Medicina de Família e Comunidade;
+  * Atenção Primária à Saúde;
+  * Urgência e Emergência;
+  * Clínica Médica;
+  * Saúde da Mulher;
+  * Saúde da Criança;
+  * Saúde do Idoso.
+
+* Utilizar recomendações baseadas em evidências e diretrizes atuais.
+
+* Evitar doenças raras ou de baixa prevalência.
+
+* Evitar dependência de exames indisponíveis na APS.
+
+* O caso deve ser resolvível por raciocínio clínico.
+
+ESTILO DE REDAÇÃO
+
+* Utilizar português do Brasil.
+* Empregar linguagem clínica precisa.
+* Evitar jargões excessivos.
+* Redigir como em casos clínicos utilizados em ensino médico.
+
+ORIENTAÇÕES IMPORTANTES
+Retorne apenas um objeto JSON válido, formatado com indentação de 2 espaços, sem markdown, sem bloco de código, sem comentários e sem texto antes ou depois. Quero facilitar copiar e colar diretamente em um arquivo .json.
+
+.json modelo:
+
+{
+    "id": "GR8I3",
+    "title": "Maria, 36 anos",
+    "stem": "Maria, 36 anos, com disúria há 3 dias.",
+    "question": "Qual é o tratamento inicial recomendado?",
+    "durationSeconds": 480,
+    "timePenaltyTotal": 100,
+    "hintBlocks": [
+      {
+        "id": "bloco-1",
+        "title": "Bloco 1",
+        "hints": [
+          {
+            "id": "dica-1",
+            "text": "A paciente refere aumento da frequência urinária no mesmo período.",
+            "cost": 1
+          },
+          {
+            "id": "dica-2",
+            "text": "Além de urgência miccional, a paciente apresenta desconforto suprapúbico.",
+            "cost": 1
+          },
+          {
+            "id": "dica-3",
+            "text": "Diz ter percebido sensação de esvaziamento incompleto da bexiga, e leve hematúria macroscópica.",
+            "cost": 1
+          }
+        ]
+      },
+      {
+        "id": "bloco-2",
+        "title": "Bloco 2",
+        "hints": [
+          {
+            "id": "dica-4",
+            "text": "A paciente relata início de febre (38,5 °C) nas últimas 24 horas, acompanhada de calafrios.",
+            "cost": 3
+          },
+          {
+            "id": "dica-5",
+            "text": "Refere dor em flanco direito, contínua, com irradiação para a região lombar.",
+            "cost": 3
+          },
+          {
+            "id": "dica-6",
+            "text": "Além dos sintomas urinários, apresenta náuseas e mal-estar geral.",
+            "cost": 3
+          }
+        ]
+      },
+      {
+        "id": "bloco-3",
+        "title": "Bloco 3",
+        "hints": [
+          {
+            "id": "dica-7",
+            "text": "A paciente informa atraso menstrual de aproximadamente 8 semanas e refere teste de gravidez de farmácia positivo.",
+            "cost": 5
+          },
+          {
+            "id": "dica-8",
+            "text": "Realizou consulta de pré-natal recente, com confirmação de gestação única intrauterina no primeiro trimestre.",
+            "cost": 5
+          },
+          {
+            "id": "dica-9",
+            "text": "Ao exame, encontra-se em bom estado geral, hidratada, normotensa, sem taquicardia e sem sinais de sepse, embora mantenha febre baixa e dor em flanco.",
+            "cost": 5
+          }
+        ]
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Nitrofurantoína por via oral por 5 dias."
+      },
+      {
+        "id": "B",
+        "text": "Fosfomicina trometamol por via oral em dose única."
+      },
+      {
+        "id": "C",
+        "text": "Cefalexina por via oral por 7 dias após coleta de urocultura."
+      },
+      {
+        "id": "D",
+        "text": "Ceftriaxona intravenosa em regime hospitalar."
+      },
+      {
+        "id": "E",
+        "text": "Ciprofloxacino intravenoso em regime hospitalar."
+      },
+      {
+        "id": "F",
+        "text": "Hidratação, analgesia e investigação ambulatorial de nefrolitíase."
+      }
+    ],
+    "correctOptionId": "D"
+  },
