@@ -26716,5 +26716,323 @@
         }
       ]
     }
+  },
+  {
+    "id": "vertigem-posicional-paroxistica-benigna-001",
+    "caseIds": [
+      "TN1VP"
+    ],
+    "title": "Vertigem Posicional Paroxística Benigna",
+    "topic": "Vertigem episódica desencadeada por posição: confirmação clínica e tratamento por reposicionamento",
+    "opening": "Mulher de 59 anos com episódios de vertigem rotatória de 20 a 40 segundos, desencadeados ao deitar, levantar da cama ou olhar para cima, com retorno completo ao estado habitual entre as crises. A ausência de sintomas auditivos, déficits neurológicos, alteração da marcha e hipotensão ortostática favorece Vertigem Posicional Paroxística Benigna (VPPB). O próximo passo é realizar a manobra de Dix-Hallpike para pesquisar VPPB do canal posterior.",
+    "clinicalSections": [
+      {
+        "title": "Primeiras dicas",
+        "items": [
+          "Sensação rotatória verdadeira: o ambiente gira.",
+          "Crises breves, com duração de 20 a 40 segundos.",
+          "Retorno completo ao estado habitual entre os episódios."
+        ]
+      },
+      {
+        "title": "Dicas intermediárias",
+        "items": [
+          "Episódios desencadeados ao deitar, levantar da cama ou olhar para cima.",
+          "Náusea discreta apenas nas primeiras crises, sem vômitos.",
+          "Ausência de zumbido, perda auditiva ou plenitude auricular."
+        ]
+      },
+      {
+        "title": "Dicas PLUS",
+        "items": [
+          "Sem sintomas neurológicos focais ou dificuldade para caminhar.",
+          "Exame neurológico normal.",
+          "Sinais vitais normais e ausência de hipotensão ortostática."
+        ]
+      }
+    ],
+    "teaching": {
+      "title": "Vertigem Posicional Paroxística Benigna",
+      "subtitle": "Como reconhecer a síndrome vestibular episódica desencadeada e confirmar VPPB sem investigação excessiva.",
+      "level": "Graduação / Internato / Atenção Primária / Clínica Médica / Medicina de Família / Urgência",
+      "summary": "O caso apresenta uma síndrome vestibular episódica desencadeada: vertigem breve, reprodutível por movimentos específicos da cabeça e com normalidade entre as crises. Esse padrão, sem sintomas cocleares ou sinais neurológicos, torna a VPPB a hipótese principal. A manobra de Dix-Hallpike é o exame de escolha para confirmar acometimento do canal posterior; quando positiva com nistagmo típico, permite tratamento imediato com manobra de reposicionamento, geralmente Epley, sem necessidade de neuroimagem rotineira.",
+      "learningObjectives": [
+        "Classificar a tontura pelo tempo de duração e pelos gatilhos antes de escolher exames.",
+        "Reconhecer o padrão clínico da VPPB do canal posterior.",
+        "Indicar e interpretar a manobra de Dix-Hallpike.",
+        "Distinguir VPPB de hipotensão ortostática, doença de Ménière, neurite vestibular e causas centrais.",
+        "Indicar reposicionamento canalicular após a confirmação e evitar exames ou medicamentos de baixo valor.",
+        "Identificar achados atípicos que exigem investigação adicional."
+      ],
+      "flashcards": [
+        {
+          "id": "TN1VP-q-01",
+          "question": "Qual síndrome vestibular está representada neste caso?",
+          "answer": "Síndrome vestibular episódica desencadeada: crises breves provocadas por movimentos específicos da cabeça, com bem-estar entre elas."
+        },
+        {
+          "id": "TN1VP-q-02",
+          "question": "Qual é o exame de escolha para suspeita de VPPB do canal posterior?",
+          "answer": "A manobra de Dix-Hallpike."
+        },
+        {
+          "id": "TN1VP-q-03",
+          "question": "Qual achado torna o Dix-Hallpike típico para VPPB do canal posterior?",
+          "answer": "Vertigem acompanhada de nistagmo torsional e vertical para cima, após breve latência e de duração transitória."
+        },
+        {
+          "id": "TN1VP-q-04",
+          "question": "Qual é o tratamento inicial da VPPB do canal posterior confirmada?",
+          "answer": "Manobra de reposicionamento canalicular, geralmente a manobra de Epley."
+        },
+        {
+          "id": "TN1VP-q-05",
+          "question": "Quando considerar o teste de rotação supina?",
+          "answer": "Quando a história sugere VPPB, mas o Dix-Hallpike é negativo ou provoca nistagmo horizontal, levantando suspeita de comprometimento do canal horizontal."
+        },
+        {
+          "id": "TN1VP-q-06",
+          "question": "Qual é a principal armadilha ao avaliar este padrão de tontura?",
+          "answer": "Solicitar neuroimagem ou testes vestibulares complexos antes de realizar a manobra posicional apropriada."
+        }
+      ],
+      "sections": [
+        {
+          "title": "Dados clínicos essenciais",
+          "type": "table",
+          "headers": [
+            "Achado",
+            "Significado"
+          ],
+          "rows": [
+            [
+              "Vertigem rotatória em crises de 20 a 40 segundos",
+              "Compatível com descarga vestibular breve, e não com síndrome vestibular aguda contínua."
+            ],
+            [
+              "Gatilhos: deitar, levantar da cama e olhar para cima",
+              "Movimentos da cabeça em relação à gravidade são característicos de VPPB."
+            ],
+            [
+              "Assintomática entre as crises",
+              "Reforça padrão episódico desencadeado."
+            ],
+            [
+              "Sem zumbido, hipoacusia ou plenitude auricular",
+              "Reduz a probabilidade de doença de Ménière e outras causas cocleovestibulares."
+            ],
+            [
+              "Exame neurológico e marcha normais",
+              "Torna causa central menos provável no contexto deste padrão típico."
+            ],
+            [
+              "Sem queda ortostática da pressão",
+              "Enfraquece hipotensão ortostática; além disso, há vertigem rotatória provocada também ao deitar e olhar para cima."
+            ]
+          ]
+        },
+        {
+          "title": "Raciocínio diagnóstico",
+          "type": "bullets",
+          "items": [
+            "Primeiro, identificar vertigem: há falsa sensação de movimento do ambiente.",
+            "Depois, definir o padrão temporal: episódios de segundos, com recuperação completa.",
+            "Em seguida, reconhecer o gatilho: mudança da posição da cabeça em relação à gravidade.",
+            "Por fim, procurar modificadores: a ausência de sintomas auditivos e de sinais neurológicos favorece VPPB periférica típica.",
+            "Esse conjunto corresponde a síndrome vestibular episódica desencadeada, cuja causa mais provável é VPPB."
+          ]
+        },
+        {
+          "title": "Questão do caso: por que Dix-Hallpike?",
+          "type": "table",
+          "headers": [
+            "Passo",
+            "Aplicação"
+          ],
+          "rows": [
+            [
+              "Indicação",
+              "Suspeita de VPPB do canal posterior em paciente com vertigem breve desencadeada por posição."
+            ],
+            [
+              "Resultado típico",
+              "Reprodução da vertigem com nistagmo torsional e vertical para cima, geralmente após breve latência e com resolução em menos de um minuto."
+            ],
+            [
+              "Interpretação",
+              "O lado em que a resposta típica ocorre identifica o ouvido acometido e orienta a manobra terapêutica."
+            ],
+            [
+              "Se negativo ou horizontal",
+              "Considerar VPPB do canal horizontal e realizar teste de rotação supina se a história continuar sugestiva."
+            ]
+          ]
+        },
+        {
+          "title": "Conduta após confirmação",
+          "type": "table",
+          "headers": [
+            "Conduta",
+            "Finalidade"
+          ],
+          "rows": [
+            [
+              "Realizar manobra de Epley no lado acometido",
+              "Reposicionar os otólitos do canal posterior e tratar a causa mecânica."
+            ],
+            [
+              "Orientar risco transitório de desequilíbrio e de recorrência",
+              "Prevenir quedas e alinhar expectativas."
+            ],
+            [
+              "Reavaliar se os sintomas persistirem",
+              "Confirmar resolução, repetir reposicionamento ou reconsiderar canal acometido e diagnóstico."
+            ],
+            [
+              "Evitar supressores vestibulares de rotina",
+              "Eles não corrigem o mecanismo da VPPB e podem causar sedação; uso breve fica reservado a náusea ou vômitos intensos."
+            ],
+            [
+              "Não solicitar imagem na apresentação típica",
+              "A história, o exame neurológico e a manobra posicional são suficientes quando não há achados atípicos."
+            ]
+          ]
+        },
+        {
+          "title": "Análise das alternativas",
+          "type": "table",
+          "headers": [
+            "Alternativa",
+            "Análise clínica"
+          ],
+          "rows": [
+            [
+              "Dix-Hallpike",
+              "Correta. É a manobra diagnóstica indicada para confirmar VPPB do canal posterior."
+            ],
+            [
+              "Ressonância magnética de encéfalo",
+              "Reservada para apresentação atípica, sinais neurológicos, nistagmo central ou falha diagnóstica/terapêutica; não é exame inicial na VPPB típica."
+            ],
+            [
+              "Audiometria tonal e vocal",
+              "Útil quando há perda auditiva ou suspeita de doença coclear, ausentes neste caso."
+            ],
+            [
+              "Teste de impulso cefálico",
+              "Integra a avaliação de hipofunção vestibular e, no HINTS, da síndrome vestibular aguda contínua; não confirma VPPB episódica."
+            ],
+            [
+              "Angiotomografia vertebrobasilar",
+              "Indicada quando a história ou o exame levantam suspeita vascular, como déficits focais, ataxia importante ou episódios espontâneos compatíveis com isquemia."
+            ],
+            [
+              "Eletronistagmografia vestibular",
+              "Pode ajudar em quadros persistentes, atípicos ou de diagnóstico incerto, mas acrescenta pouco à apresentação clássica confirmável à beira do leito."
+            ]
+          ]
+        },
+        {
+          "title": "Diferenciais principais",
+          "type": "table",
+          "headers": [
+            "Hipótese",
+            "Padrão que a diferenciaria"
+          ],
+          "rows": [
+            [
+              "Hipotensão ortostática",
+              "Cabeça leve ou escurecimento visual ao assumir ortostase, com queda documentada da pressão; não costuma ocorrer ao rolar na cama ou olhar para cima."
+            ],
+            [
+              "Doença de Ménière",
+              "Crises espontâneas mais longas, associadas a hipoacusia flutuante, zumbido ou plenitude auricular."
+            ],
+            [
+              "Neurite vestibular",
+              "Vertigem contínua por horas ou dias, com náuseas intensas e intolerância aos movimentos, sem intervalos assintomáticos."
+            ],
+            [
+              "Vertigem posicional central",
+              "Nistagmo atípico, especialmente vertical para baixo ou persistente, sinais neurológicos, ataxia desproporcional ou ausência de resposta ao reposicionamento."
+            ]
+          ]
+        },
+        {
+          "title": "Achados que mudariam a investigação",
+          "type": "bullets",
+          "items": [
+            "Déficit neurológico focal, diplopia, disartria, disfagia ou nova cefaleia intensa.",
+            "Incapacidade de permanecer em pé ou caminhar sem apoio, especialmente fora das crises.",
+            "Nistagmo espontâneo persistente, vertical puro, multidirecional ou não fatigável.",
+            "Vertigem contínua, perda auditiva nova ou padrão não relacionado a posições específicas.",
+            "Dix-Hallpike atípico ou sintomas persistentes apesar de manobras corretamente realizadas."
+          ]
+        },
+        {
+          "title": "Aplicação em sala de aula",
+          "type": "table",
+          "headers": [
+            "Pergunta",
+            "Ponto esperado"
+          ],
+          "rows": [
+            [
+              "Qual informação organiza todo o raciocínio?",
+              "A combinação entre duração breve e gatilho posicional específico."
+            ],
+            [
+              "Por que levantar da cama não significa hipotensão ortostática neste caso?",
+              "Porque há vertigem rotatória também ao deitar e olhar para cima, sem queda ortostática da pressão."
+            ],
+            [
+              "Por que HINTS não é o exame indicado?",
+              "Porque HINTS se aplica à síndrome vestibular aguda contínua em paciente sintomático, não a crises posicionais breves."
+            ],
+            [
+              "O que fazer após Dix-Hallpike típico?",
+              "Tratar com reposicionamento canalicular, geralmente Epley, sem neuroimagem rotineira."
+            ]
+          ]
+        },
+        {
+          "title": "Mensagem final para o estudante",
+          "type": "callout",
+          "content": "Vertigem de segundos, desencadeada por movimentos da cabeça e com normalidade entre as crises deve ser classificada como síndrome vestibular episódica desencadeada. Sem sintomas auditivos ou sinais centrais, a VPPB é a principal hipótese: confirme VPPB do canal posterior com Dix-Hallpike e, se o achado for típico, trate com reposicionamento canalicular."
+        }
+      ],
+      "references": [
+        {
+          "title": "Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update)",
+          "year": "2017",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28248609/",
+          "note": "Diretriz da AAO-HNSF para diagnóstico por Dix-Hallpike, reposicionamento canalicular e redução de exames e medicamentos desnecessários."
+        },
+        {
+          "title": "GRACE-3: Acute Dizziness and Vertigo in the Emergency Department",
+          "year": "2023",
+          "url": "https://www.saem.org/publications/grace/grace-3",
+          "note": "Recomenda classificar tontura por tempo e gatilhos, usar Dix-Hallpike na síndrome episódica desencadeada e tratar VPPB do canal posterior com Epley."
+        }
+      ],
+      "deepDiveQuestions": [
+        {
+          "question": "Um Dix-Hallpike negativo exclui VPPB?",
+          "answer": "Não. A manobra pode ser negativa por técnica inadequada, flutuação dos sintomas ou acometimento de outro canal. Se a história permanecer típica ou surgir nistagmo horizontal, deve-se considerar VPPB do canal horizontal e realizar o teste de rotação supina."
+        },
+        {
+          "question": "Por que não usar HINTS neste caso?",
+          "answer": "HINTS foi desenvolvido para pacientes com síndrome vestibular aguda: vertigem contínua, nistagmo espontâneo e instabilidade durante a avaliação. Aplicá-lo fora desse contexto pode produzir interpretações enganosas."
+        },
+        {
+          "question": "Quando a neuroimagem passa a ser apropriada?",
+          "answer": "Quando há déficit neurológico, ataxia importante, nistagmo com padrão central, cefaleia nova intensa, apresentação incompatível com VPPB ou persistência apesar de diagnóstico e tratamento posicionais adequados."
+        },
+        {
+          "question": "Qual é a diferença entre Dix-Hallpike e Epley?",
+          "answer": "Dix-Hallpike é uma manobra diagnóstica que provoca e caracteriza a resposta do canal posterior. Epley é uma manobra terapêutica que reposiciona os otólitos após a identificação do lado acometido."
+        }
+      ]
+    }
   }
-  ]
+]
